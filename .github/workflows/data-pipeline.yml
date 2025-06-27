@@ -19,6 +19,16 @@ jobs:
         with:
           python-version: '3.10'
           cache: 'pip'
+
+      - name: Install Google Chrome
+        run: |
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update
+          sudo apt-get install google-chrome-stable
+
+      - name: Check Chrome version
+        run: google-chrome --version    
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run data pipeline script
