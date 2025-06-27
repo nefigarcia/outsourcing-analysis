@@ -19,7 +19,7 @@ print("Starting job search scraping...")
 T0 = time.time()
 
 
-for page in range(1, 2):
+for page in range(1, 5):
     # Initialize driver properly
     driver = webdriver.Chrome(service=service, options=options)
 
