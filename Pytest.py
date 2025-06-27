@@ -13,7 +13,7 @@ options.add_argument("--headless")  # Run in headless mode (optional)
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-service = Service(ChromeDriverManager.install())
+service = Service(ChromeDriverManager().install())
 
 print("Starting job search scraping...")
 T0 = time.time()
