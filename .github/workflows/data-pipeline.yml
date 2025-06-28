@@ -1,41 +1,41 @@
 name: data-pipeline-workflow
 on:
   push:
-  workflow_dispatch:
-  Schedule:
+  schedule:
     - cron: '0 */12 * * *'  # Runs every 12 hours
-    
+  workflow_dispatch:
+
 jobs:
-run-data-pipeline:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout repo content
-      uses: actions/checkout@v4
-      with:
-      token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  run-data-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.9'
-        cache: 'pip'
-    - name: Install dependencies
-      run: pip install -r requirements.txt
-    - name: Run data pipeline script
-      run: python Pytest.py
-    - name: Check for changes
-      id: git-check
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email 'github-actions@github.com'
-        git add .
-        git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV
-    - name: Commit and push changes
-      if: env.changes == 'true'
-      run: |
-        git commit -m "Automated data pipeline run"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13.2'
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run data pipeline script
+        run: python Pytest.py
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email 'github-actions@github.com'
+          git add .
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV
+      - name: Commit and push changes
+        if: env.changes == 'true'
+        run: |
+          git commit -m "Automated data pipeline run"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
-    
+      

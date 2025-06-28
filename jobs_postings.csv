@@ -1,43 +1,169 @@
 Company,Role,Location,Level
-IBM,Recruitment Coordinator (RPO),"QUEZON CITY, PH",Entry Level
-IBM,Software Engineer,"BANGALORE, IN",Entry Level
-IBM,Application Developer-Java & Web Technologies,"Navi Mumbai, IN",Entry Level
-IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,"Hyderabad, IN",Entry Level
+IBM,Package Specialist-SAP Basis,"Hyderabad, IN",Entry Level
+IBM,Sourcing Professional,"BUDAPEST, HU",Entry Level
+IBM,Customer Success Manager Technical Specialist - Integration - NZ,"AUCKLAND, NZ",Entry Level
+IBM,Data Engineer-Data Platforms,"Navi Mumbai, IN",Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,"BANGALORE, IN",Entry Level
-IBM,software developer,"BANGALORE, IN",Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"Chennai, IN",Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,"Noida, IN",Entry Level
-IBM,Package Specialist-SAP HANA SCM MM,"COIMBATORE, IN",Entry Level
-IBM,Package Specialist-SAP HANA SCM MM,"COIMBATORE, IN",Entry Level
-IBM,Application Developer-Java & Web Technologies,"Mysore, IN",Entry Level
-IBM,AR Trade Spend Analyst,"Krakow, PL",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"Kolkata, IN",Entry Level
+IBM,Sr. Process Analyst - Finance & Administration Delivery - Procure to Pay,"BANGALORE, IN",Entry Level
+IBM,Application Developer-AWS Cloud FullStack,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-Workday Integrations,"BANGALORE, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Hyderabad, IN",Entry Level
 IBM,Data Engineer-Business Intelligence,"Pune, IN",Entry Level
 IBM,Digital Sales Specialist - Power,"PETALING JAYA, MY",Entry Level
 IBM,Package Specialist-SAP HANA Application Security,"Kolkata, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Navi Mumbai, IN",Entry Level
 IBM,Package Consultant-Oracle Enterprise Performance Management Cloud,"BANGALORE, IN",Entry Level
 IBM,Project Manager - Insurance Services,"Tokyo, JP",Entry Level
 IBM,Power Card Lab Technician Apprentice,"POUGHKEEPSIE, US",Entry Level
 IBM,Application Developer-Microsoft Power Platform,"Hyderabad, IN",Entry Level
 IBM,Data Engineer-Data Platforms,"Hyderabad, IN",Entry Level
-IBM,Accounts Receivables Fresh Graduates,"QUEZON CITY, PH",Entry Level
+IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"BANGALORE, IN",Entry Level
 IBM,Application Developer-IT Service Management,"Mumbai, IN",Entry Level
+IBM,Accounts Receivables Fresh Graduates,"QUEZON CITY, PH",Entry Level
 IBM,Curador(a) Estratégico e Inteligência de Conteúdo,"HORTOLANDIA, BR",Entry Level
-IBM,Package Specialist-SAP Basis,"Hyderabad, IN",Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,"Kolkata, IN",Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,"Kolkata, IN",Entry Level
 IBM,Package Consultant-SAP SCM SD,"Kolkata, IN",Entry Level
-IBM,Package Consultant-SAP SCM WMS,"COIMBATORE, IN",Entry Level
-Accenture,UiPath/Automation Anywhere Engineer,Various locations,Mid-Level
-Accenture,Identity & Access Management Security Okta Manager,Various locations,Senior Level
-Accenture,^Business/Facilities Application Coordinator - 5642933,"Irving, TX",Mid-Level
-Accenture,5721064 - SAP PMMO Consultant,Various locations,Mid-Level
+IBM,Package Specialist-SAP Basis,"Hyderabad, IN",Entry Level
+IBM,Sourcing Professional,"BUDAPEST, HU",Entry Level
+IBM,Customer Success Manager Technical Specialist - Integration - NZ,"AUCKLAND, NZ",Entry Level
+IBM,Data Engineer-Data Platforms,"Navi Mumbai, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"Kolkata, IN",Entry Level
+IBM,Sr. Process Analyst - Finance & Administration Delivery - Procure to Pay,"BANGALORE, IN",Entry Level
+IBM,Application Developer-AWS Cloud FullStack,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-Workday Integrations,"BANGALORE, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Business Intelligence,"Pune, IN",Entry Level
+IBM,Digital Sales Specialist - Power,"PETALING JAYA, MY",Entry Level
+IBM,Package Specialist-SAP HANA Application Security,"Kolkata, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Navi Mumbai, IN",Entry Level
+IBM,Package Consultant-Oracle Enterprise Performance Management Cloud,"BANGALORE, IN",Entry Level
+IBM,Project Manager - Insurance Services,"Tokyo, JP",Entry Level
+IBM,Power Card Lab Technician Apprentice,"POUGHKEEPSIE, US",Entry Level
+IBM,Application Developer-Microsoft Power Platform,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Platforms,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"BANGALORE, IN",Entry Level
+IBM,Application Developer-IT Service Management,"Mumbai, IN",Entry Level
+IBM,Accounts Receivables Fresh Graduates,"QUEZON CITY, PH",Entry Level
+IBM,Curador(a) Estratégico e Inteligência de Conteúdo,"HORTOLANDIA, BR",Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,"Kolkata, IN",Entry Level
+IBM,Package Consultant-SAP SCM SD,"Kolkata, IN",Entry Level
+IBM,Package Specialist-SAP Basis,"Hyderabad, IN",Entry Level
+IBM,Sourcing Professional,"BUDAPEST, HU",Entry Level
+IBM,Customer Success Manager Technical Specialist - Integration - NZ,"AUCKLAND, NZ",Entry Level
+IBM,Data Engineer-Data Platforms,"Navi Mumbai, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"Kolkata, IN",Entry Level
+IBM,Sr. Process Analyst - Finance & Administration Delivery - Procure to Pay,"BANGALORE, IN",Entry Level
+IBM,Application Developer-AWS Cloud FullStack,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-Workday Integrations,"BANGALORE, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Business Intelligence,"Pune, IN",Entry Level
+IBM,Digital Sales Specialist - Power,"PETALING JAYA, MY",Entry Level
+IBM,Package Specialist-SAP HANA Application Security,"Kolkata, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Navi Mumbai, IN",Entry Level
+IBM,Package Consultant-Oracle Enterprise Performance Management Cloud,"BANGALORE, IN",Entry Level
+IBM,Project Manager - Insurance Services,"Tokyo, JP",Entry Level
+IBM,Power Card Lab Technician Apprentice,"POUGHKEEPSIE, US",Entry Level
+IBM,Application Developer-Microsoft Power Platform,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Platforms,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"BANGALORE, IN",Entry Level
+IBM,Application Developer-IT Service Management,"Mumbai, IN",Entry Level
+IBM,Accounts Receivables Fresh Graduates,"QUEZON CITY, PH",Entry Level
+IBM,Curador(a) Estratégico e Inteligência de Conteúdo,"HORTOLANDIA, BR",Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,"Kolkata, IN",Entry Level
+IBM,Package Consultant-SAP SCM SD,"Kolkata, IN",Entry Level
+IBM,Package Specialist-SAP Basis,"Hyderabad, IN",Entry Level
+IBM,Sourcing Professional,"BUDAPEST, HU",Entry Level
+IBM,Customer Success Manager Technical Specialist - Integration - NZ,"AUCKLAND, NZ",Entry Level
+IBM,Data Engineer-Data Platforms,"Navi Mumbai, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"Kolkata, IN",Entry Level
+IBM,Sr. Process Analyst - Finance & Administration Delivery - Procure to Pay,"BANGALORE, IN",Entry Level
+IBM,Application Developer-AWS Cloud FullStack,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,"BANGALORE, IN",Entry Level
+IBM,Package Consultant-Workday Integrations,"BANGALORE, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Business Intelligence,"Pune, IN",Entry Level
+IBM,Digital Sales Specialist - Power,"PETALING JAYA, MY",Entry Level
+IBM,Package Specialist-SAP HANA Application Security,"Kolkata, IN",Entry Level
+IBM,Application Developer-Java & Web Technologies,"Navi Mumbai, IN",Entry Level
+IBM,Package Consultant-Oracle Enterprise Performance Management Cloud,"BANGALORE, IN",Entry Level
+IBM,Project Manager - Insurance Services,"Tokyo, JP",Entry Level
+IBM,Power Card Lab Technician Apprentice,"POUGHKEEPSIE, US",Entry Level
+IBM,Application Developer-Microsoft Power Platform,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Platforms,"Hyderabad, IN",Entry Level
+IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
+IBM,Package Consultant-SAP EIM,"BANGALORE, IN",Entry Level
+IBM,Application Developer-IT Service Management,"Mumbai, IN",Entry Level
+IBM,Accounts Receivables Fresh Graduates,"QUEZON CITY, PH",Entry Level
+IBM,Curador(a) Estratégico e Inteligência de Conteúdo,"HORTOLANDIA, BR",Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,"Kolkata, IN",Entry Level
+IBM,Package Consultant-SAP SCM SD,"Kolkata, IN",Entry Level
+Accenture,^Ivalua Application Coordinator - 5639845,Various locations,Mid-Level
+Accenture,SAP FICO Finance RTR Workstream Lead,Various locations,Mid-Level
+Accenture,Controllership Service Lead,Various locations,Senior Level
+Accenture,SAP Finance Fixed Assets Project System Consultant,Various locations,Mid-Level
+Accenture,Business Interlock Learning Lead/Manager - Financials Industry,Various locations,Senior Level
+Accenture,o9 Workstream Lead,Various locations,Senior Level
+Accenture,SAP Finance FSCM and Treasury Consultant,Various locations,Mid-Level
+Accenture,UKG Advanced Scheduler (Retail) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Dimensions Advanced Scheduler (Healthcare) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Integrations Consultant (Solution Architect),Various locations,Mid-Level
+Accenture,SAP Controlling Product Costing Consultant,Various locations,Mid-Level
 Accenture,One Trust Privacy Automation Business Systems Analyst - 5782686,Various locations,Mid-Level
-Accenture,Procurement / Finance Technical Solution Architect,Various locations,Senior Level
-Accenture,Eng & Mfg Consulting Expert,"Houston, TX",Senior Level
-Accenture,Customer Service Associate,"Austin, TX",Mid-Level
-Accenture,Business Development Representative Lead*,Various locations,Mid-Level
-Accenture,Epic Cadence and Referrals Sr Analyst,Various locations,Early Career
-Accenture,Epic Epiccare ASAP (Emergency Room) Senior Analyst,Various locations,Early Career
-Accenture,Epic Stork Senior Analyst,Various locations,Early Career
+Accenture,^Ivalua Application Coordinator - 5639845,Various locations,Mid-Level
+Accenture,SAP FICO Finance RTR Workstream Lead,Various locations,Mid-Level
+Accenture,Controllership Service Lead,Various locations,Senior Level
+Accenture,SAP Finance Fixed Assets Project System Consultant,Various locations,Mid-Level
+Accenture,Business Interlock Learning Lead/Manager - Financials Industry,Various locations,Senior Level
+Accenture,o9 Workstream Lead,Various locations,Senior Level
+Accenture,SAP Finance FSCM and Treasury Consultant,Various locations,Mid-Level
+Accenture,UKG Advanced Scheduler (Retail) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Dimensions Advanced Scheduler (Healthcare) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Integrations Consultant (Solution Architect),Various locations,Mid-Level
+Accenture,SAP Controlling Product Costing Consultant,Various locations,Mid-Level
+Accenture,One Trust Privacy Automation Business Systems Analyst - 5782686,Various locations,Mid-Level
+Accenture,^Ivalua Application Coordinator - 5639845,Various locations,Mid-Level
+Accenture,SAP FICO Finance RTR Workstream Lead,Various locations,Mid-Level
+Accenture,Controllership Service Lead,Various locations,Senior Level
+Accenture,SAP Finance Fixed Assets Project System Consultant,Various locations,Mid-Level
+Accenture,Business Interlock Learning Lead/Manager - Financials Industry,Various locations,Senior Level
+Accenture,o9 Workstream Lead,Various locations,Senior Level
+Accenture,SAP Finance FSCM and Treasury Consultant,Various locations,Mid-Level
+Accenture,UKG Advanced Scheduler (Retail) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Dimensions Advanced Scheduler (Healthcare) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Integrations Consultant (Solution Architect),Various locations,Mid-Level
+Accenture,SAP Controlling Product Costing Consultant,Various locations,Mid-Level
+Accenture,One Trust Privacy Automation Business Systems Analyst - 5782686,Various locations,Mid-Level
+Accenture,^Ivalua Application Coordinator - 5639845,Various locations,Mid-Level
+Accenture,SAP FICO Finance RTR Workstream Lead,Various locations,Mid-Level
+Accenture,Controllership Service Lead,Various locations,Senior Level
+Accenture,SAP Finance Fixed Assets Project System Consultant,Various locations,Mid-Level
+Accenture,Business Interlock Learning Lead/Manager - Financials Industry,Various locations,Senior Level
+Accenture,o9 Workstream Lead,Various locations,Senior Level
+Accenture,SAP Finance FSCM and Treasury Consultant,Various locations,Mid-Level
+Accenture,UKG Advanced Scheduler (Retail) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Dimensions Advanced Scheduler (Healthcare) Solutions Consultant,Various locations,Mid-Level
+Accenture,UKG Integrations Consultant (Solution Architect),Various locations,Mid-Level
+Accenture,SAP Controlling Product Costing Consultant,Various locations,Mid-Level
+Accenture,One Trust Privacy Automation Business Systems Analyst - 5782686,Various locations,Mid-Level
