@@ -1,5 +1,6 @@
 Company,Role,Location,Level
 <<<<<<< HEAD
+<<<<<<< HEAD
 IBM,Data Engineer-Business Intelligence,India,Entry Level
 IBM,Digital Sales Specialist - Power,MY,Entry Level
 IBM,Package Specialist-SAP HANA Application Security,India,Entry Level
@@ -121,6 +122,8 @@ IBM,Package Specialist-SAP HANA Application Security,India,Entry Level
 IBM,人事業務変革コンサルタント,JP,Entry Level
 IBM,[IBM Japan:iX] Digital Marketing Consultant,JP,Entry Level
 =======
+=======
+>>>>>>> origin/main
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,"BANGALORE, IN",Entry Level
 IBM,Package Specialist-SAP HANA SCM MM,"COIMBATORE, IN",Entry Level
 IBM,Package Specialist-SAP HANA SCM MM,"COIMBATORE, IN",Entry Level
@@ -241,7 +244,10 @@ IBM,Process Associate Order Management - Health Care (Voice),"GURGAON, IN",Entry
 IBM,Data Engineer-Data Integration,"Pune, IN",Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,"Hyderabad, IN",Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,"BANGALORE, IN",Entry Level
+<<<<<<< HEAD
 >>>>>>> 1630287317ed53821ba284abe0f5f2cf7faec714
+=======
+>>>>>>> origin/main
 Accenture,^Ivalua Application Coordinator - 5639845,Various locations,Mid-Level
 Accenture,SAP FICO Finance RTR Workstream Lead,Various locations,Mid-Level
 Accenture,Controllership Service Lead,Various locations,Senior Level
