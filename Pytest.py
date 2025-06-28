@@ -44,7 +44,7 @@ for page in range(1, 5):
 
     driver.quit()
 # Continue with Accenture job search scraping
-for page in (range(1, 2)):
+for page in (range(1, 5)):
     driver = webdriver.Chrome(service=service, options=options)
     url = "https://www.accenture.com/us-en/careers/jobsearch"
     driver.get(url)
