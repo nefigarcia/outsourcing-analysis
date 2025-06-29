@@ -7,7 +7,7 @@ def load_country_map(filename="countries.csv"):
         reader = csv.DictReader(f)
         for row in reader:
             if len(row) == 2:
-                country_map[row['code']] = row['name']
+                country_map[row['code']] = row['country']
     return country_map
 
 def transform_data(data):
