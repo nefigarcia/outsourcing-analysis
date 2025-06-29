@@ -1,16 +1,18 @@
 import csv
 open_file = 'jobs_postings.csv'
 
+def load_country_map(filename="countries.csv"):
+    country_map = {}
+    with open(filename, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            if len(row) == 2:
+                country_map[row['code']] = row['name']
+    return country_map
+
 def transform_data(data):
-    country_map = {
-        'IN': 'India',
-        'US': 'United States',
-        'GB': 'United Kingdom',
-        'CA': 'Canada',
-        'DE': 'Germany',
-        'FR': 'France',
-        # Add more as needed
-    }
+    country_map = load_country_map()
+    # Transform the data to extract location and level
     transformed_data = []
     for entry in data:
 
