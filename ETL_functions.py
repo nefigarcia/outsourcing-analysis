@@ -32,6 +32,6 @@ def transform_data(data):
 def save_to_csv(data):
     with open(open_file, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['Company', 'Role', 'Location', 'Level'])
+        writer.writerow(['Company', 'Role', 'Country', 'Level'])
         for row in data:
             writer.writerow(row)
