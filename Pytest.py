@@ -45,24 +45,27 @@ for page in range(1, 5):
     driver.quit()
 # Continue with Accenture job search scraping
 for page in (range(1, 5)):
-    driver = webdriver.Chrome(service=service, options=options)
-    url = "https://www.accenture.com/us-en/careers/jobsearch"
-    driver.get(url)
-    time.sleep(4)
+    try:    
+        driver = webdriver.Chrome(service=service, options=options)
+        url = "https://www.accenture.com/us-en/careers/jobsearch"
+        driver.get(url)
+        time.sleep(4)
 
-    roles = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-title")
-    locations = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-details-location")
-    levels = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-details-type")  # Same as 'pais'
+        roles = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-title")
+        locations = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-details-location")
+        levels = driver.find_elements(By.CLASS_NAME, "rad-filters-vertical__job-card-details-type")  # Same as 'pais'
 
-    for i in range(len(roles)):
-        element_list.append([
-            'Accenture',
-            roles[i].text,
-            locations[i].text,
-            levels[i].text
-        ])
-
-    driver.quit()    
+        for i in range(len(roles)):
+            element_list.append([
+                'Accenture',
+                roles[i].text,
+                locations[i].text,
+                levels[i].text
+            ])
+    except Exception as e:
+        print(f"An error occurred while scraping Accenture page {page}: {e}")
+    finally:    
+        driver.quit()    
 
 T1 = time.time()
 print(f"Scraping completed in {T1 - T0:.2f} seconds.")
