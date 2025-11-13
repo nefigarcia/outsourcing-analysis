@@ -1,4 +1,7 @@
 Company,Role,Country,Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
@@ -12,6 +15,7 @@ IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India 
 IBM,Application Developer-RDBMS,India             	      ,Entry Level
 IBM,Business Intelligence Engineer,Philippines             	      ,Entry Level
 IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
@@ -25,10 +29,9 @@ IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
@@ -42,6 +45,7 @@ IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India 
 IBM,Application Developer-RDBMS,India             	      ,Entry Level
 IBM,Business Intelligence Engineer,Philippines             	      ,Entry Level
 IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
@@ -55,10 +59,9 @@ IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
@@ -72,6 +75,7 @@ IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India 
 IBM,Application Developer-RDBMS,India             	      ,Entry Level
 IBM,Business Intelligence Engineer,Philippines             	      ,Entry Level
 IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
@@ -85,10 +89,9 @@ IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
@@ -102,6 +105,7 @@ IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India 
 IBM,Application Developer-RDBMS,India             	      ,Entry Level
 IBM,Business Intelligence Engineer,Philippines             	      ,Entry Level
 IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
@@ -115,14 +119,11 @@ IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Application Developer-RDBMS,India             	      ,Entry Level
 Accenture,Titanium Engineer,Various locations,Mid-Level
 Accenture,Titanium Engineer Manager,Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Procurement Practice Specialist - Telecom,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Consulting Analyst - NAELFY26,Various locations,Early Career
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Home Equity Mortgage Loan Processor,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
@@ -130,11 +131,11 @@ Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Variou
 Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC/PSA Architect,Various locations,Senior Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
-Accenture,Workday Certified Payroll/Time Tracking Lead - Education/Government,Various locations,Mid-Level
 Accenture,Titanium Engineer,Various locations,Mid-Level
 Accenture,Titanium Engineer Manager,Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Procurement Practice Specialist - Telecom,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Consulting Analyst - NAELFY26,Various locations,Early Career
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Home Equity Mortgage Loan Processor,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
@@ -142,11 +143,11 @@ Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Variou
 Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC/PSA Architect,Various locations,Senior Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
-Accenture,Workday Certified Payroll/Time Tracking Lead - Education/Government,Various locations,Mid-Level
 Accenture,Titanium Engineer,Various locations,Mid-Level
 Accenture,Titanium Engineer Manager,Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Procurement Practice Specialist - Telecom,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Consulting Analyst - NAELFY26,Various locations,Early Career
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Home Equity Mortgage Loan Processor,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
@@ -154,11 +155,11 @@ Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Variou
 Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC/PSA Architect,Various locations,Senior Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
-Accenture,Workday Certified Payroll/Time Tracking Lead - Education/Government,Various locations,Mid-Level
 Accenture,Titanium Engineer,Various locations,Mid-Level
 Accenture,Titanium Engineer Manager,Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Procurement Practice Specialist - Telecom,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Consulting Analyst - NAELFY26,Various locations,Early Career
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Home Equity Mortgage Loan Processor,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
@@ -166,4 +167,3 @@ Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Variou
 Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC/PSA Architect,Various locations,Senior Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
-Accenture,Workday Certified Payroll/Time Tracking Lead - Education/Government,Various locations,Mid-Level
