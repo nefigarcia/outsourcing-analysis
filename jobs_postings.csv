@@ -1,49 +1,169 @@
 Company,Role,Country,Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Q2C Professional,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Application Developer-System i,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Q2C Professional,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Application Developer-System i,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Q2C Professional,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Application Developer-System i,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Manual Tester,Mexico             	      ,Entry Level
+IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Q2C Professional,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Application Developer-System i,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+Accenture,Epic Infrastructure Team Lead 5940663,Various locations,Mid-Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,Software Sales Director - SaaS,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC (Quote-To-Cash) Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - S2P/WSS (Source to Pay and Workday Strategic Sourcing),Various locations,Mid-Level
 Accenture,Strategy Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
-Accenture,Strategy Senior Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - SCM (Supply Chain Management),Various locations,Mid-Level
 Accenture,Sales Capture Manager - Cloud First,Various locations,Senior Level
 Accenture,iCertis Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Workday Certified Financials Consultant/Lead - QTC (Quote-To-Cash),Various locations,Mid-Level
 Accenture,Workday Certified Financials Grants Consultant/Lead,Various locations,Mid-Level
-Accenture,Adobe QA Strategist,Various locations,Mid-Level
-Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Epic Infrastructure Team Lead 5940663,Various locations,Mid-Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,Software Sales Director - SaaS,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC (Quote-To-Cash) Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - S2P/WSS (Source to Pay and Workday Strategic Sourcing),Various locations,Mid-Level
 Accenture,Strategy Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
-Accenture,Strategy Senior Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - SCM (Supply Chain Management),Various locations,Mid-Level
 Accenture,Sales Capture Manager - Cloud First,Various locations,Senior Level
 Accenture,iCertis Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Workday Certified Financials Consultant/Lead - QTC (Quote-To-Cash),Various locations,Mid-Level
 Accenture,Workday Certified Financials Grants Consultant/Lead,Various locations,Mid-Level
-Accenture,Adobe QA Strategist,Various locations,Mid-Level
-Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Epic Infrastructure Team Lead 5940663,Various locations,Mid-Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,Software Sales Director - SaaS,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC (Quote-To-Cash) Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - S2P/WSS (Source to Pay and Workday Strategic Sourcing),Various locations,Mid-Level
 Accenture,Strategy Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
-Accenture,Strategy Senior Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - SCM (Supply Chain Management),Various locations,Mid-Level
 Accenture,Sales Capture Manager - Cloud First,Various locations,Senior Level
 Accenture,iCertis Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Workday Certified Financials Consultant/Lead - QTC (Quote-To-Cash),Various locations,Mid-Level
 Accenture,Workday Certified Financials Grants Consultant/Lead,Various locations,Mid-Level
-Accenture,Adobe QA Strategist,Various locations,Mid-Level
-Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Epic Infrastructure Team Lead 5940663,Various locations,Mid-Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,Software Sales Director - SaaS,Various locations,Senior Level
 Accenture,Workday Certified Financials QTC (Quote-To-Cash) Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - S2P/WSS (Source to Pay and Workday Strategic Sourcing),Various locations,Mid-Level
 Accenture,Strategy Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
-Accenture,Strategy Senior Manager | Sales & Commerce | Insurance,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - SCM (Supply Chain Management),Various locations,Mid-Level
 Accenture,Sales Capture Manager - Cloud First,Various locations,Senior Level
 Accenture,iCertis Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Workday Certified Financials Consultant/Lead - QTC (Quote-To-Cash),Various locations,Mid-Level
 Accenture,Workday Certified Financials Grants Consultant/Lead,Various locations,Mid-Level
-Accenture,Adobe QA Strategist,Various locations,Mid-Level
-Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
