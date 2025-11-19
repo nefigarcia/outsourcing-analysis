@@ -29,15 +29,6 @@ IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
 IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
 IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,HR onboarding professional,India             	      ,Entry Level
-IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
@@ -49,6 +40,15 @@ IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
 IBM,Assistente Administrativo – Gestão Imobiliária - Hortolândia,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
+IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
@@ -119,51 +119,35 @@ IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
 IBM,Application Developer-Java & Web Technologies,India             	      ,Entry Level
 IBM,Recruitment Associate - Contact Center (RPO),Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Mid-Level
 Accenture,GenAI Full Stack Lead,Various locations,Mid-Level
-Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
-Accenture,Design Director,Various locations,Senior Level
-Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
-Accenture,Identity & Access Management Security SailPoint Specialist,Various locations,Mid-Level
-Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Level
-Accenture,Workforce Software (WFS) Integration Architect,Various locations,Mid-Level
-Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
-Accenture,Sales Capture Lead – End-to-End Supply Chain Professional Services,Various locations,Senior Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Workday Certified Financials SCM Lead – H&PS,Various locations,Mid-Level
-Accenture,MarTech Delivery Lead,Various locations,Senior Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Epic Beacon and Oncology Applications Coordinator 5998910,Various locations,Mid-Level
+Accenture,Product Security PenTester,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Mid-Level
 Accenture,GenAI Full Stack Lead,Various locations,Mid-Level
-Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
-Accenture,Design Director,Various locations,Senior Level
-Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
-Accenture,Identity & Access Management Security SailPoint Specialist,Various locations,Mid-Level
-Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Level
-Accenture,Workforce Software (WFS) Integration Architect,Various locations,Mid-Level
-Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
-Accenture,Sales Capture Lead – End-to-End Supply Chain Professional Services,Various locations,Senior Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Workday Certified Financials SCM Lead – H&PS,Various locations,Mid-Level
-Accenture,MarTech Delivery Lead,Various locations,Senior Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Epic Beacon and Oncology Applications Coordinator 5998910,Various locations,Mid-Level
+Accenture,Product Security PenTester,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Mid-Level
 Accenture,GenAI Full Stack Lead,Various locations,Mid-Level
-Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
-Accenture,Design Director,Various locations,Senior Level
-Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
-Accenture,Identity & Access Management Security SailPoint Specialist,Various locations,Mid-Level
-Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Level
-Accenture,Workforce Software (WFS) Integration Architect,Various locations,Mid-Level
-Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
-Accenture,Sales Capture Lead – End-to-End Supply Chain Professional Services,Various locations,Senior Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Workday Certified Financials SCM Lead – H&PS,Various locations,Mid-Level
-Accenture,MarTech Delivery Lead,Various locations,Senior Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Epic Beacon and Oncology Applications Coordinator 5998910,Various locations,Mid-Level
+Accenture,Product Security PenTester,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Mid-Level
 Accenture,GenAI Full Stack Lead,Various locations,Mid-Level
-Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
-Accenture,Design Director,Various locations,Senior Level
-Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
-Accenture,Identity & Access Management Security SailPoint Specialist,Various locations,Mid-Level
-Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Level
-Accenture,Workforce Software (WFS) Integration Architect,Various locations,Mid-Level
-Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
-Accenture,Sales Capture Lead – End-to-End Supply Chain Professional Services,Various locations,Senior Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Workday Certified Financials SCM Lead – H&PS,Various locations,Mid-Level
-Accenture,MarTech Delivery Lead,Various locations,Senior Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Epic Beacon and Oncology Applications Coordinator 5998910,Various locations,Mid-Level
+Accenture,Product Security PenTester,Various locations,Mid-Level
