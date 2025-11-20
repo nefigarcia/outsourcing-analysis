@@ -1,34 +1,4 @@
 Company,Role,Country,Level
-IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,Data Scientist / AI Consultant,Germany                                                           ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
-IBM,Application Developer-RDBMS,India             	      ,Entry Level
-IBM,Digital Sales Specialist: Public Data Platform,US,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
-IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
@@ -119,6 +89,36 @@ IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entr
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Data Scientist / AI Consultant,Germany                                                           ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Package Consultant-Oracle Utilities,India             	      ,Entry Level
+IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
 Accenture,Supply Chain & Operations Consulting – Supply Chain Planning - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Transformation Excellence Senior Manager, High Tech",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
@@ -128,9 +128,9 @@ Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Le
 Accenture,Creative Agency Designer,Various locations,Early Career
 Accenture,Creative Agency Art Director,Various locations,Early Career
 Accenture,Software Sales Director - SaaS,Various locations,Senior Level
+Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,Customer1 Business Process Designer - 5978977,Various locations,Mid-Level
 Accenture,Supply Chain & Operations Consulting – Supply Chain Planning - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Transformation Excellence Senior Manager, High Tech",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
@@ -140,9 +140,9 @@ Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Le
 Accenture,Creative Agency Designer,Various locations,Early Career
 Accenture,Creative Agency Art Director,Various locations,Early Career
 Accenture,Software Sales Director - SaaS,Various locations,Senior Level
+Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,Customer1 Business Process Designer - 5978977,Various locations,Mid-Level
 Accenture,Supply Chain & Operations Consulting – Supply Chain Planning - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Transformation Excellence Senior Manager, High Tech",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
@@ -152,9 +152,9 @@ Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Le
 Accenture,Creative Agency Designer,Various locations,Early Career
 Accenture,Creative Agency Art Director,Various locations,Early Career
 Accenture,Software Sales Director - SaaS,Various locations,Senior Level
+Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,Customer1 Business Process Designer - 5978977,Various locations,Mid-Level
 Accenture,Supply Chain & Operations Consulting – Supply Chain Planning - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Transformation Excellence Senior Manager, High Tech",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
@@ -164,6 +164,6 @@ Accenture,Workday Certified Financials PSA Architect,Various locations,Senior Le
 Accenture,Creative Agency Designer,Various locations,Early Career
 Accenture,Creative Agency Art Director,Various locations,Early Career
 Accenture,Software Sales Director - SaaS,Various locations,Senior Level
+Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,Customer1 Business Process Designer - 5978977,Various locations,Mid-Level
