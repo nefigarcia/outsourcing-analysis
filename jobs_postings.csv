@@ -59,14 +59,7 @@ IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entr
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,HR onboarding professional,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
@@ -76,7 +69,13 @@ IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
 IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
@@ -89,6 +88,7 @@ IBM,Infrastructure Specialist-System Administration,India             	      ,En
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,HR onboarding professional,India             	      ,Entry Level
@@ -127,10 +127,10 @@ Accenture,Service Supply Chain Solution Architect,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
 Accenture,Contracting Counsel Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
-Accenture,Banking & Cap Markets - Industry & Function AI Decision Science Manager or Senior Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Marketing & Commerce Managed Service Design Consultant,Various locations,Mid-Level
 Accenture,Marketing & Commerce Managed Service Design Manager,Various locations,Senior Level
+Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
+Accenture,"Senior Analyst, Scientific and Laboratory Informatics",Various locations,Early Career
+Accenture,UKG Timekeeping Associate Manager/Manager,Various locations,Mid-Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
 Accenture,Sales Transformation Management Consultant,Various locations,Mid-Level
@@ -139,10 +139,10 @@ Accenture,Service Supply Chain Solution Architect,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
 Accenture,Contracting Counsel Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
-Accenture,Banking & Cap Markets - Industry & Function AI Decision Science Manager or Senior Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Marketing & Commerce Managed Service Design Consultant,Various locations,Mid-Level
 Accenture,Marketing & Commerce Managed Service Design Manager,Various locations,Senior Level
+Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
+Accenture,"Senior Analyst, Scientific and Laboratory Informatics",Various locations,Early Career
+Accenture,UKG Timekeeping Associate Manager/Manager,Various locations,Mid-Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
 Accenture,Sales Transformation Management Consultant,Various locations,Mid-Level
@@ -151,10 +151,10 @@ Accenture,Service Supply Chain Solution Architect,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
 Accenture,Contracting Counsel Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
-Accenture,Banking & Cap Markets - Industry & Function AI Decision Science Manager or Senior Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Marketing & Commerce Managed Service Design Consultant,Various locations,Mid-Level
 Accenture,Marketing & Commerce Managed Service Design Manager,Various locations,Senior Level
+Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
+Accenture,"Senior Analyst, Scientific and Laboratory Informatics",Various locations,Early Career
+Accenture,UKG Timekeeping Associate Manager/Manager,Various locations,Mid-Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
 Accenture,Sales Transformation Management Consultant,Various locations,Mid-Level
@@ -163,7 +163,7 @@ Accenture,Service Supply Chain Solution Architect,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
 Accenture,Contracting Counsel Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
-Accenture,Banking & Cap Markets - Industry & Function AI Decision Science Manager or Senior Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Marketing & Commerce Managed Service Design Consultant,Various locations,Mid-Level
 Accenture,Marketing & Commerce Managed Service Design Manager,Various locations,Senior Level
+Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
+Accenture,"Senior Analyst, Scientific and Laboratory Informatics",Various locations,Early Career
+Accenture,UKG Timekeeping Associate Manager/Manager,Various locations,Mid-Level
