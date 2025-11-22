@@ -1,4 +1,64 @@
 Company,Role,Country,Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Application Developer-Microsoft .NET Stack,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
@@ -59,111 +119,51 @@ IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
 IBM,Application Developer-Open Source,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
-IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
-IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Digital Sales Specialist (DSS) - Technology Sales,Canada             	      ,Entry Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,RECRUITING SERVICES PROFESSIONAL-TALENT ACQUISITION OPTIMIZATION,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RISK & COMPLIANCE,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+Accenture,Song Life Head of Strategy,Various locations,Senior Level
+Accenture,Senior Business Manager - SongLife,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Tech Partner Marketing Strategy Manager,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Consultant - Manager,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Sr Manager,Various locations,Senior Level
 Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Sr. Manager,Various locations,Senior Level
-Accenture,Senior Copywriter,Various locations,Mid-Level
-Accenture,Global Benefits Senior Manager,Various locations,Senior Level
-Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
+Accenture,Data Center Support Analyst,Various locations,Mid-Level
+Accenture,Song Life Head of Strategy,Various locations,Senior Level
+Accenture,Senior Business Manager - SongLife,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Tech Partner Marketing Strategy Manager,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Consultant - Manager,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Sr Manager,Various locations,Senior Level
 Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Sr. Manager,Various locations,Senior Level
-Accenture,Senior Copywriter,Various locations,Mid-Level
-Accenture,Global Benefits Senior Manager,Various locations,Senior Level
-Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
+Accenture,Data Center Support Analyst,Various locations,Mid-Level
+Accenture,Song Life Head of Strategy,Various locations,Senior Level
+Accenture,Senior Business Manager - SongLife,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Tech Partner Marketing Strategy Manager,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Consultant - Manager,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Sr Manager,Various locations,Senior Level
 Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Sr. Manager,Various locations,Senior Level
-Accenture,Senior Copywriter,Various locations,Mid-Level
-Accenture,Global Benefits Senior Manager,Various locations,Senior Level
-Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
+Accenture,Data Center Support Analyst,Various locations,Mid-Level
+Accenture,Song Life Head of Strategy,Various locations,Senior Level
+Accenture,Senior Business Manager - SongLife,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Tech Partner Marketing Strategy Manager,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Consultant - Manager,Various locations,Mid-Level
 Accenture,Data & AI Supply Chain & Operations Strategy Sr Manager,Various locations,Senior Level
 Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Sr. Manager,Various locations,Senior Level
-Accenture,Senior Copywriter,Various locations,Mid-Level
-Accenture,Global Benefits Senior Manager,Various locations,Senior Level
-Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
+Accenture,Data Center Support Analyst,Various locations,Mid-Level
