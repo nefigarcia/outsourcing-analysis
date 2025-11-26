@@ -2,36 +2,6 @@ Company,Role,Country,Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Site Reliability Engineer,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Q2C Professional,Brazil             	      ,Entry Level
-IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,HR onboarding professional,India             	      ,Entry Level
@@ -92,9 +62,13 @@ IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
@@ -103,7 +77,6 @@ IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
 IBM,Q2C Professional,Brazil             	      ,Entry Level
 IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
@@ -116,10 +89,38 @@ IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
 IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,Application Developer-RDBMS,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA Master Data Governance,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Site Reliability Engineer,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
+IBM,Q2C Professional,Brazil             	      ,Entry Level
+IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM PP,India             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
+Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
@@ -130,8 +131,8 @@ Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
 Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
+Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
@@ -142,8 +143,8 @@ Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
 Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
+Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
@@ -154,8 +155,8 @@ Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
 Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
+Accenture,Content Enablement Analyst - 5969272,"Raleigh, NC",Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
@@ -166,4 +167,3 @@ Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
 Accenture,Salesforce Tech Lead - Life Sciences,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
