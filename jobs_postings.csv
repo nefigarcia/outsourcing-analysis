@@ -29,6 +29,9 @@ IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,AI Software Engineer,US,Entry Level
 IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Technical Support Engineer ,Costa Rica       ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
@@ -56,9 +59,6 @@ IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,AI Software Engineer,US,Entry Level
-IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Application Developer-Open Source,India             	      ,Entry Level
@@ -119,35 +119,51 @@ IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,AI Software Engineer,US,Entry Level
-Accenture,SAP S/4 Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Senior Level
-Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,iCertis Management Senior Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Mid-Level
-Accenture,SAP S/4 Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Senior Level
-Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Senior Level
+Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
+Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
+Accenture,Mobilization Manager,Various locations,Senior Level
+Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
+Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,iCertis Management Senior Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Mid-Level
-Accenture,SAP S/4 Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Senior Level
-Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Senior Level
+Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
+Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
+Accenture,Mobilization Manager,Various locations,Senior Level
+Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
+Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,iCertis Management Senior Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Mid-Level
-Accenture,SAP S/4 Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Lead Cost Manager, ANS","Ashburn, VA",Mid-Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Mechanical, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects, Engineering Construction Project Manager - Electrical, ANS",Various locations,Senior Level
-Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Senior Level
+Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
+Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
+Accenture,Mobilization Manager,Various locations,Senior Level
+Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
+Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,iCertis Management Senior Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
+Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
+Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
+Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
-Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Mid-Level
+Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
+Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
+Accenture,Mobilization Manager,Various locations,Senior Level
+Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
+Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
