@@ -1,34 +1,4 @@
 Company,Role,Country,Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
-IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Procurement Professional - LS,Malaysia             	      ,Entry Level
-IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,Package Consultant/Solution SAP SCM MM - IBM France H/F,France                                      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,Site Reliability Engineer,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Site Reliability Engineer,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
@@ -89,6 +59,36 @@ IBM,General Accounting - Subject Matter Expert,Philippines             	      ,E
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Site Reliability Engineer,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Procurement Operations Buyer - German speaking,Hungary             	      ,Entry Level
+IBM,Quality Engineer-Mainframe,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Procurement Professional - LS,Malaysia             	      ,Entry Level
+IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,Package Consultant/Solution SAP SCM MM - IBM France H/F,France                                      ,Entry Level
+IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Site Reliability Engineer,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Site Reliability Engineer,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
@@ -120,6 +120,9 @@ IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
+Accenture,Content Transformation Senior Manager,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Accenture Strategy Consultant Development Program - Summer Consultant - NAELFY26,Various locations,Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
@@ -127,11 +130,11 @@ Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-L
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
 Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
-Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Packaged Application Development Manager,"Chicago, IL",Senior Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
+Accenture,Content Transformation Senior Manager,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Accenture Strategy Consultant Development Program - Summer Consultant - NAELFY26,Various locations,Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
@@ -139,11 +142,11 @@ Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-L
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
 Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
-Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Packaged Application Development Manager,"Chicago, IL",Senior Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
+Accenture,Content Transformation Senior Manager,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Accenture Strategy Consultant Development Program - Summer Consultant - NAELFY26,Various locations,Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
@@ -151,11 +154,11 @@ Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-L
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
 Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
-Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Packaged Application Development Manager,"Chicago, IL",Senior Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
+Accenture,Content Transformation Senior Manager,Various locations,Senior Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Accenture Strategy Consultant Development Program - Summer Consultant - NAELFY26,Various locations,Mid-Level
 Accenture,iCertis Management Senior Manager,Various locations,Senior Level
 Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Epic Cupid Application Coordinator AMS/IMS - 5622689,Various locations,Mid-Level
@@ -163,7 +166,4 @@ Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-L
 Accenture,Identity & Access Management Security SailPoint Manager,Various locations,Senior Level
 Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
 Accenture,Lab RALS Infinity Data Innovations Application Coordinator- 5623164,Various locations,Mid-Level
-Accenture,Customer Service Strategy Consultant,Various locations,Mid-Level
-Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,Sourcing & Procurement IT Management Consultant - NASPFY26,Various locations,Mid-Level
-Accenture,Customer Service Technology Business Consultant - CMT,Various locations,Mid-Level
+Accenture,Packaged Application Development Manager,"Chicago, IL",Senior Level
