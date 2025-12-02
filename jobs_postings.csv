@@ -1,34 +1,4 @@
 Company,Role,Country,Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Site Reliability Engineer,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
-IBM,Digital Business Consultant,Multiple Cities,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
@@ -119,51 +89,81 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Procurement Professional - LS,Malaysia             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Site Reliability Engineer,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Deputy Group Manager- PTP Operations,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,Digital Business Consultant,Multiple Cities,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
 Accenture,Partners in Performance - Performance Strategy Business Analyst,Various locations,Early Career
-Accenture,Cybersecurity & Privacy Security Account Lead- Software & Platform Industry,Various locations,Senior Level
-Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Oracle Utilities Functional Consultant,Various locations,Mid-Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Oracle Utilities Technical Lead,Various locations,Senior Level
-Accenture,Sr Tech Demo Associate - 5963826,"Mountain View, CA",Mid-Level
+Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
+Accenture,Corporate Strategy & Growth Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales & Commerce | Energy/Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Adobe Journey Optimizer Manager,Various locations,Senior Level
-Accenture,Cross-Product Software Sales Director,Various locations,Senior Level
+Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
-Accenture,Software Product & Platform Engineering Specialist,"Mountain View, CA",Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Partners in Performance - Performance Strategy Business Analyst,Various locations,Early Career
-Accenture,Cybersecurity & Privacy Security Account Lead- Software & Platform Industry,Various locations,Senior Level
-Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Oracle Utilities Functional Consultant,Various locations,Mid-Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Oracle Utilities Technical Lead,Various locations,Senior Level
-Accenture,Sr Tech Demo Associate - 5963826,"Mountain View, CA",Mid-Level
+Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
+Accenture,Corporate Strategy & Growth Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales & Commerce | Energy/Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Adobe Journey Optimizer Manager,Various locations,Senior Level
-Accenture,Cross-Product Software Sales Director,Various locations,Senior Level
+Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
-Accenture,Software Product & Platform Engineering Specialist,"Mountain View, CA",Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Partners in Performance - Performance Strategy Business Analyst,Various locations,Early Career
-Accenture,Cybersecurity & Privacy Security Account Lead- Software & Platform Industry,Various locations,Senior Level
-Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Oracle Utilities Functional Consultant,Various locations,Mid-Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Oracle Utilities Technical Lead,Various locations,Senior Level
-Accenture,Sr Tech Demo Associate - 5963826,"Mountain View, CA",Mid-Level
+Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
+Accenture,Corporate Strategy & Growth Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales & Commerce | Energy/Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Adobe Journey Optimizer Manager,Various locations,Senior Level
-Accenture,Cross-Product Software Sales Director,Various locations,Senior Level
+Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
-Accenture,Software Product & Platform Engineering Specialist,"Mountain View, CA",Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
 Accenture,Partners in Performance - Performance Strategy Business Analyst,Various locations,Early Career
-Accenture,Cybersecurity & Privacy Security Account Lead- Software & Platform Industry,Various locations,Senior Level
-Accenture,Salesforce Solution Developer 5973855,Various locations,Mid-Level
 Accenture,Oracle Utilities Functional Consultant,Various locations,Mid-Level
 Accenture,Epic Optime and Anesthesia Coordinator 5996701,Various locations,Mid-Level
 Accenture,Oracle Utilities Technical Lead,Various locations,Senior Level
-Accenture,Sr Tech Demo Associate - 5963826,"Mountain View, CA",Mid-Level
+Accenture,Corporate Strategy and Growth Strategy Principal Director,Various locations,Senior Level
+Accenture,Corporate Strategy & Growth Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales & Commerce | Energy/Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Adobe Journey Optimizer Manager,Various locations,Senior Level
-Accenture,Cross-Product Software Sales Director,Various locations,Senior Level
+Accenture,Life Sciences Quality Management Systems - Management Consultant - Manager,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
-Accenture,Software Product & Platform Engineering Specialist,"Mountain View, CA",Mid-Level
+Accenture,Industry X - Technical Teamcenter Architect - Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Application Coordinator 5622856,Various locations,Mid-Level
