@@ -1,6 +1,9 @@
 Company,Role,Country,Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
@@ -26,9 +29,6 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
@@ -89,8 +89,11 @@ IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,HR onboarding professional,India             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Fullstack Developer,India             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
@@ -116,11 +119,10 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Infrastructure Specialist-System Administration,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 Accenture,"Tech Partner Marketing Strategy Manager (High Tech and Data Center - Laptops, OEM Servers and AI Tech)",Various locations,Senior Level
 Accenture,Identity & Access Management Cyber Security IAM Operations Lead,Various locations,Senior Level
+Accenture,Op. Model & Org. Design Manager,Various locations,Senior Level
+Accenture,Operating Model & Org. Design Assoc. Director,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Oracle Warehouse Management Cloud Lead,Various locations,Mid-Level
@@ -129,10 +131,10 @@ Accenture,Customer Service Technology Business Consultant (H&PS),Various locatio
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,Azure Data Engineer (Python/SQL) - 5887694,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,SAP EWM Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Product Security Account Lead - Senior Manager,Various locations,Senior Level
 Accenture,"Tech Partner Marketing Strategy Manager (High Tech and Data Center - Laptops, OEM Servers and AI Tech)",Various locations,Senior Level
 Accenture,Identity & Access Management Cyber Security IAM Operations Lead,Various locations,Senior Level
+Accenture,Op. Model & Org. Design Manager,Various locations,Senior Level
+Accenture,Operating Model & Org. Design Assoc. Director,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Oracle Warehouse Management Cloud Lead,Various locations,Mid-Level
@@ -141,10 +143,10 @@ Accenture,Customer Service Technology Business Consultant (H&PS),Various locatio
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,Azure Data Engineer (Python/SQL) - 5887694,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,SAP EWM Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Product Security Account Lead - Senior Manager,Various locations,Senior Level
 Accenture,"Tech Partner Marketing Strategy Manager (High Tech and Data Center - Laptops, OEM Servers and AI Tech)",Various locations,Senior Level
 Accenture,Identity & Access Management Cyber Security IAM Operations Lead,Various locations,Senior Level
+Accenture,Op. Model & Org. Design Manager,Various locations,Senior Level
+Accenture,Operating Model & Org. Design Assoc. Director,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Oracle Warehouse Management Cloud Lead,Various locations,Mid-Level
@@ -153,10 +155,10 @@ Accenture,Customer Service Technology Business Consultant (H&PS),Various locatio
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,Azure Data Engineer (Python/SQL) - 5887694,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,SAP EWM Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Product Security Account Lead - Senior Manager,Various locations,Senior Level
 Accenture,"Tech Partner Marketing Strategy Manager (High Tech and Data Center - Laptops, OEM Servers and AI Tech)",Various locations,Senior Level
 Accenture,Identity & Access Management Cyber Security IAM Operations Lead,Various locations,Senior Level
+Accenture,Op. Model & Org. Design Manager,Various locations,Senior Level
+Accenture,Operating Model & Org. Design Assoc. Director,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Oracle Warehouse Management Cloud Lead,Various locations,Mid-Level
@@ -165,5 +167,3 @@ Accenture,Customer Service Technology Business Consultant (H&PS),Various locatio
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,Azure Data Engineer (Python/SQL) - 5887694,Various locations,Mid-Level
 Accenture,Mobilization Manager,Various locations,Senior Level
-Accenture,SAP EWM Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Product Security Account Lead - Senior Manager,Various locations,Senior Level
