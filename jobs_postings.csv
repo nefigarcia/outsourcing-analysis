@@ -1,8 +1,7 @@
 Company,Role,Country,Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,Fullstack Developer,India             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
@@ -29,10 +28,10 @@ IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
 IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
 IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
 IBM,Fullstack Developer,India             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
@@ -59,6 +58,7 @@ IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
 IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
 IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
@@ -119,47 +119,43 @@ IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
 IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
 IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Mid-Level
-Accenture,Data Engineer,Various locations,Senior Level
-Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Quantity Surveyor , ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Mid-Level
-Accenture,Data Engineer,Various locations,Senior Level
-Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Quantity Surveyor , ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Mid-Level
-Accenture,Data Engineer,Various locations,Senior Level
-Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Quantity Surveyor , ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Mid-Level
-Accenture,Data Engineer,Various locations,Senior Level
-Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Quantity Surveyor , ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
