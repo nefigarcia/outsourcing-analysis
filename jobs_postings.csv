@@ -1,64 +1,4 @@
 Company,Role,Country,Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,HR onboarding professional,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Digital Business Consultant,Multiple Cities,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,HR onboarding professional,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
-IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Digital Business Consultant,Multiple Cities,Entry Level
-IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
-IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
@@ -119,11 +59,69 @@ IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry L
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
 IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Digital Business Consultant,Multiple Cities,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,HR onboarding professional,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,ACCOUNT TECHNICAL REPRESENTATIVE-TALENT TRANSFORMATION,India             	      ,Entry Level
+IBM,Application Consultant-ServiceNow,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Package Consultant-Workday HCM & Compensation,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Security Specialist Threat Hunter,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Digital Business Consultant,Multiple Cities,Entry Level
+IBM,Application Developer-Microsoft Power Platform,India             	      ,Entry Level
+IBM,Assistente Financeiro Pleno - Hortolândia,Brazil             	      ,Entry Level
 Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
 Accenture,Data Engineer,Various locations,Mid-Level
 Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Content Transformation Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -131,11 +129,11 @@ Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various location
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
 Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
 Accenture,Data Engineer,Various locations,Mid-Level
 Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Content Transformation Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -143,11 +141,11 @@ Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various location
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
 Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
 Accenture,Data Engineer,Various locations,Mid-Level
 Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Content Transformation Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -155,11 +153,11 @@ Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various location
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
 Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
 Accenture,Data Engineer,Various locations,Mid-Level
 Accenture,Life Insurance Consulting Manager,Various locations,Senior Level
-Accenture,IT Support Analyst - RRN00015896/5887041,"Chicago, IL",Early Career
-Accenture,Content Transformation Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -167,3 +165,5 @@ Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various location
 Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
