@@ -55,10 +55,40 @@ IBM,Application Developer-Open Source,India             	      ,Entry Level
 IBM,Application Developer-Open Source,India             	      ,Entry Level
 IBM,Application Developer-Open Source,India             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,Data Engineer-Data Integration,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Fullstack Developer,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Package Consultant-Oracle Cloud CX,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
+IBM,Entry Level IT Lab Administrator 2026,US,Entry Level
+IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
+IBM,Application Developer-DevOps,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Open Source,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Data Engineer-Data Integration,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
@@ -89,73 +119,51 @@ IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,Data Engineer-Data Integration,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,Fullstack Developer,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Package Consultant-Oracle Cloud CX,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,Entry Level IT Lab Administrator 2026,US,Entry Level
-IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Data Engineer-Data Integration,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-Accenture,"Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost)","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,Payments PM Scrum Master,Various locations,Senior Level
 Accenture,SAP Finance Senior Manager - Retail (Grocery),Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Mid-Level
-Accenture,"Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost)","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,Payments PM Scrum Master,Various locations,Senior Level
+Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
+Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Finance Senior Manager - Retail (Grocery),Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Mid-Level
-Accenture,"Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost)","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,Payments PM Scrum Master,Various locations,Senior Level
+Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
+Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Finance Senior Manager - Retail (Grocery),Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Mid-Level
-Accenture,"Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost)","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Biller, ANS",Various locations,Senior Level
-Accenture,Payments PM Scrum Master,Various locations,Senior Level
+Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
+Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Finance Senior Manager - Retail (Grocery),Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Mid-Level
+Accenture,SAP Finance Workstream Lead Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,Application Lead - 5936945,Various locations,Mid-Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,"Banking, Capital Markets Strategy - Director",Various locations,Senior Level
+Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
