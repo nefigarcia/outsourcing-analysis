@@ -2,10 +2,11 @@ Company,Role,Country,Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Product Management Professional 2026,US,Entry Level
 IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
@@ -25,40 +26,9 @@ IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Product Management Professional 2026,US,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Product Management Professional 2026,US,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
-IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Digital Business Consultant,Multiple Cities,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
@@ -89,36 +59,66 @@ IBM,Product Management Professional 2026,US,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Digital Business Consultant,Multiple Cities,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Open Source,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Product Management Professional 2026,US,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
-IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Digital Business Consultant,Multiple Cities,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-DevOps,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Product Management Professional 2026,US,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Digital Business Consultant,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Order to Cash Practitioner,Philippines             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-DevOps,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Product Management Professional 2026,US,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Digital Business Consultant,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 Accenture,Stability Automation Engineer - CA - 5967613,"Mountain View, CA",Early Career
 Accenture,B2B Sales Transformation Consulting - Senior Manager | High Tech | Software & Platforms,Various locations,Senior Level
 Accenture,Payroll Tax Administrator,Various locations,Mid-Level
