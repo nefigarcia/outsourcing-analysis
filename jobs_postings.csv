@@ -1,4 +1,34 @@
 Company,Role,Country,Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
+IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
+IBM,Product Management Professional 2026,US,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
+IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
@@ -29,6 +59,12 @@ IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Lev
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
@@ -36,7 +72,6 @@ IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
@@ -44,21 +79,22 @@ IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,Product Management Professional 2026,US,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,AI Software Engineer,US,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Package Specialist-Oracle eBS SCM,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
@@ -66,7 +102,6 @@ IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
@@ -74,96 +109,55 @@ IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
 IBM,Product Management Professional 2026,US,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,AI Software Engineer,US,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,General Accounting - Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
-IBM,Record to Report Subject Matter Expert,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,Application Developer-Oracle Cloud Reports,Philippines             	      ,Entry Level
-IBM,Product Management Professional 2026,US,Entry Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Data Engineer-Business Intelligence,India             	      ,Entry Level
-IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
 Accenture,Commercial Banking Consultant,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Coupa Consultant,Various locations,Mid-Level
 Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
 Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Technical Architect (Manager),Various locations,Mid-Level
+Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
 Accenture,B2B Sales Transformation Consulting - Senior Manager | High Tech | Software & Platforms,Various locations,Senior Level
 Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant (Recruiting/Core Compensation),Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence Consultant - Education/Government,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant - Security,Various locations,Mid-Level
-Accenture,Oracle Cloud Recruiting Lead,Various locations,Mid-Level
-Accenture,Workday Certified HCM Manager - Security,Various locations,Senior Level
-Accenture,Workday Certified Financials Grants Lead - H&PS,Various locations,Mid-Level
-Accenture,Oracle Utilities Conversion Lead,Various locations,Senior Level
 Accenture,Commercial Banking Consultant,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Coupa Consultant,Various locations,Mid-Level
 Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
 Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Technical Architect (Manager),Various locations,Mid-Level
+Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
 Accenture,B2B Sales Transformation Consulting - Senior Manager | High Tech | Software & Platforms,Various locations,Senior Level
 Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant (Recruiting/Core Compensation),Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence Consultant - Education/Government,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant - Security,Various locations,Mid-Level
-Accenture,Oracle Cloud Recruiting Lead,Various locations,Mid-Level
-Accenture,Workday Certified HCM Manager - Security,Various locations,Senior Level
-Accenture,Workday Certified Financials Grants Lead - H&PS,Various locations,Mid-Level
-Accenture,Oracle Utilities Conversion Lead,Various locations,Senior Level
+Accenture,,,
+Accenture,,,
+Accenture,,,
+Accenture,,,
+Accenture,,,
+Accenture,,,
 Accenture,Commercial Banking Consultant,Various locations,Mid-Level
+Accenture,Sourcing & Procurement Coupa Consultant,Various locations,Mid-Level
 Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
 Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Technical Architect (Manager),Various locations,Mid-Level
+Accenture,Sourcing & Procurement Manager - NASPFY26,Various locations,Senior Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
 Accenture,B2B Sales Transformation Consulting - Senior Manager | High Tech | Software & Platforms,Various locations,Senior Level
 Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant (Recruiting/Core Compensation),Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence Consultant - Education/Government,Various locations,Mid-Level
 Accenture,Workday Certified HCM Consultant - Security,Various locations,Mid-Level
-Accenture,Oracle Cloud Recruiting Lead,Various locations,Mid-Level
-Accenture,Workday Certified HCM Manager - Security,Various locations,Senior Level
-Accenture,Workday Certified Financials Grants Lead - H&PS,Various locations,Mid-Level
-Accenture,Oracle Utilities Conversion Lead,Various locations,Senior Level
-Accenture,Commercial Banking Consultant,Various locations,Mid-Level
-Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
-Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
-Accenture,Payments Banking Manager,Various locations,Senior Level
-Accenture,B2B Sales Transformation Consulting - Senior Manager | High Tech | Software & Platforms,Various locations,Senior Level
-Accenture,Payroll Tax Administrator,Various locations,Mid-Level
-Accenture,Workday Certified HCM Consultant (Recruiting/Core Compensation),Various locations,Mid-Level
-Accenture,Workday Certified HCM Consultant - Security,Various locations,Mid-Level
-Accenture,Oracle Cloud Recruiting Lead,Various locations,Mid-Level
-Accenture,Workday Certified HCM Manager - Security,Various locations,Senior Level
-Accenture,Workday Certified Financials Grants Lead - H&PS,Various locations,Mid-Level
-Accenture,Oracle Utilities Conversion Lead,Various locations,Senior Level
