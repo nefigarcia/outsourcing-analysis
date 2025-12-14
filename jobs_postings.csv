@@ -1,64 +1,4 @@
 Company,Role,Country,Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
-IBM,IT Technical Specialist,India             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Application Developer-DevOps,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
-IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
@@ -119,6 +59,66 @@ IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Lev
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-DevOps,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
+IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
+IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Application Developer-DevOps,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Tier 1 Contact Center Practitioner,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
+IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Level
+IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Package Specialist-SAP HANA Basis,India             	      ,Entry Level
 Accenture,SAP Tech Arch Senior Manager - Utilities,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Chemicals Industry,Various locations,Senior Level
@@ -129,8 +129,8 @@ Accenture,SAP Quality Management/Manufacturing Manager - Chemicals Industry,Vari
 Accenture,SAP Transportation Management/WM Manager - Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,Customer Experience & Service Transformation Management Consultant - Health & Public Service,Various locations,Mid-Level
+Accenture,Sales Reinvention Manager | Sales & Commerce Consulting | Comms & Media,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager or Senior Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,SAP Tech Arch Senior Manager - Utilities,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Chemicals Industry,Various locations,Senior Level
@@ -141,8 +141,8 @@ Accenture,SAP Quality Management/Manufacturing Manager - Chemicals Industry,Vari
 Accenture,SAP Transportation Management/WM Manager - Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,Customer Experience & Service Transformation Management Consultant - Health & Public Service,Various locations,Mid-Level
+Accenture,Sales Reinvention Manager | Sales & Commerce Consulting | Comms & Media,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager or Senior Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,SAP Tech Arch Senior Manager - Utilities,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Chemicals Industry,Various locations,Senior Level
@@ -153,8 +153,8 @@ Accenture,SAP Quality Management/Manufacturing Manager - Chemicals Industry,Vari
 Accenture,SAP Transportation Management/WM Manager - Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,Customer Experience & Service Transformation Management Consultant - Health & Public Service,Various locations,Mid-Level
+Accenture,Sales Reinvention Manager | Sales & Commerce Consulting | Comms & Media,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager or Senior Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,SAP Tech Arch Senior Manager - Utilities,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Chemicals Industry,Various locations,Senior Level
@@ -165,5 +165,5 @@ Accenture,SAP Quality Management/Manufacturing Manager - Chemicals Industry,Vari
 Accenture,SAP Transportation Management/WM Manager - Chemicals Industry,Various locations,Senior Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,Customer Experience & Service Transformation Management Consultant - Health & Public Service,Various locations,Mid-Level
+Accenture,Sales Reinvention Manager | Sales & Commerce Consulting | Comms & Media,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager or Senior Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
