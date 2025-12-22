@@ -1,4 +1,11 @@
 Company,Role,Country,Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Application Developer-Mobile iOS,India             	      ,Entry Level
+IBM,AI Software Engineer,US,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
@@ -8,27 +15,20 @@ IBM,Package Specialist-SAP Cloud Integration,India             	      ,Entry Lev
 IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,サプライチェーンコンサルタント,Japan             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Package Consultant-Workday Data Conversion,India             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
+IBM,Application Developer-Commerce Transformation,India             	      ,Entry Level
+IBM,Package Consultant-SAP Cloud Integration,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Sr. Process Analyst Finance & Administration Delivery - Order to Cash,India             	      ,Entry Level
 IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,AI Software Engineer,US,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
 IBM,DELIVERY MANAGER-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
 IBM,Package Consultant-Workday Integrations,India             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Application Developer-Commerce Transformation,India             	      ,Entry Level
-IBM,Package Consultant-SAP Cloud Integration,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,Application Developer - Experience Fullstack,Brazil             	      ,Entry Level
@@ -122,6 +122,7 @@ IBM,Package Consultant-Workday Integrations,India             	      ,Entry Leve
 Accenture,Oracle Peoplesoft QA Lead FSCM 5959110,Various locations,Mid-Level
 Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
 Accenture,Data Quality Associate Manager,Various locations,Mid-Level
+Accenture,Technical Program Manager - 6070077,"Mountain View, CA",Mid-Level
 Accenture,AI Tools Specialist for Developers/Enterprise Solutions,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
@@ -130,10 +131,10 @@ Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales Reinvention | High Tech,Various locations,Senior Level
 Accenture,CPQ Manager - Financial Services,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
-Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Oracle Peoplesoft QA Lead FSCM 5959110,Various locations,Mid-Level
 Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
 Accenture,Data Quality Associate Manager,Various locations,Mid-Level
+Accenture,Technical Program Manager - 6070077,"Mountain View, CA",Mid-Level
 Accenture,AI Tools Specialist for Developers/Enterprise Solutions,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
@@ -142,10 +143,10 @@ Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales Reinvention | High Tech,Various locations,Senior Level
 Accenture,CPQ Manager - Financial Services,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
-Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Oracle Peoplesoft QA Lead FSCM 5959110,Various locations,Mid-Level
 Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
 Accenture,Data Quality Associate Manager,Various locations,Mid-Level
+Accenture,Technical Program Manager - 6070077,"Mountain View, CA",Mid-Level
 Accenture,AI Tools Specialist for Developers/Enterprise Solutions,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
@@ -154,10 +155,10 @@ Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales Reinvention | High Tech,Various locations,Senior Level
 Accenture,CPQ Manager - Financial Services,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
-Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Oracle Peoplesoft QA Lead FSCM 5959110,Various locations,Mid-Level
 Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
 Accenture,Data Quality Associate Manager,Various locations,Mid-Level
+Accenture,Technical Program Manager - 6070077,"Mountain View, CA",Mid-Level
 Accenture,AI Tools Specialist for Developers/Enterprise Solutions,Various locations,Mid-Level
 Accenture,Sales Director - Data & AI Knowledge Asset,Various locations,Senior Level
 Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
@@ -166,4 +167,3 @@ Accenture,Senior Art Director,Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales Reinvention | High Tech,Various locations,Senior Level
 Accenture,CPQ Manager - Financial Services,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
-Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
