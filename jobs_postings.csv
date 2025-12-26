@@ -19,7 +19,6 @@ IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,AI Software Engineer,US,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,DELIVERY MANAGER-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
@@ -28,7 +27,8 @@ IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Data Scientist  - Artificial Intelligence,Multiple Cities,Entry Level
+IBM,Automation Engineer,India             	      ,Entry Level
+IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -49,7 +49,6 @@ IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,AI Software Engineer,US,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,DELIVERY MANAGER-TALENT DEVELOPMENT OPTIMIZATION PROCESSES,India             	      ,Entry Level
@@ -58,7 +57,8 @@ IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Data Scientist  - Artificial Intelligence,Multiple Cities,Entry Level
+IBM,Automation Engineer,India             	      ,Entry Level
+IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -119,23 +119,51 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
 IBM,Automation Engineer,India             	      ,Entry Level
 IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
+Accenture,Forward Deployed Engineer Associate Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,Adobe AEM Functional Lead / Product Lead,Various locations,Mid-Level
+Accenture,Adobe AEM Platform Functional Consultant,Various locations,Mid-Level
+Accenture,Blue Yonder WMS Application Developer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Marketing Transformation Manager- Campaign & Enablement,Various locations,Senior Level
+Accenture,Forward Deployed Engineer Associate Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,Adobe AEM Functional Lead / Product Lead,Various locations,Mid-Level
+Accenture,Adobe AEM Platform Functional Consultant,Various locations,Mid-Level
+Accenture,Blue Yonder WMS Application Developer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Marketing Transformation Manager- Campaign & Enablement,Various locations,Senior Level
+Accenture,Forward Deployed Engineer Associate Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,Adobe AEM Functional Lead / Product Lead,Various locations,Mid-Level
+Accenture,Adobe AEM Platform Functional Consultant,Various locations,Mid-Level
+Accenture,Blue Yonder WMS Application Developer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Marketing Transformation Manager- Campaign & Enablement,Various locations,Senior Level
+Accenture,Forward Deployed Engineer Associate Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,Adobe AEM Functional Lead / Product Lead,Various locations,Mid-Level
+Accenture,Adobe AEM Platform Functional Consultant,Various locations,Mid-Level
+Accenture,Blue Yonder WMS Application Developer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Marketing Transformation Manager- Campaign & Enablement,Various locations,Senior Level
