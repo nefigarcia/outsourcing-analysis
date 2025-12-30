@@ -30,8 +30,6 @@ IBM,Federal Associate Consultant,US,Entry Level
 IBM,Associate Application Developer-IT Service Management (ServiceNow),Singapore             	      ,Entry Level
 IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
 IBM,Technical Consultant-Application Security,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
@@ -40,7 +38,9 @@ IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Lev
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -50,8 +50,8 @@ IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Application Developer-Commerce Transformation,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,FP&A JR Financial Analyst,Mexico             	      ,Entry Level
@@ -86,10 +86,12 @@ IBM,Application Developer-Commerce Transformation,India             	      ,Entr
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,FP&A JR Financial Analyst,Mexico             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Contact Center Fresh Graduates,Philippines             	      ,Entry Level
-IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
+IBM,Associate Application Developer-IT Service Management (ServiceNow),Singapore             	      ,Entry Level
+IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
 IBM,Technical Consultant-Application Security,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
@@ -98,9 +100,7 @@ IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Lev
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Contact Center Professionals,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -110,15 +110,15 @@ IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Application Developer-Commerce Transformation,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,FP&A JR Financial Analyst,Mexico             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Contact Center Fresh Graduates,Philippines             	      ,Entry Level
-IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
+IBM,Associate Application Developer-IT Service Management (ServiceNow),Singapore             	      ,Entry Level
+IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
 Accenture,Data Quality Associate Manager,Various locations,Mid-Level
 Accenture,Oracle HCM Talent and Learning Module Lead,Various locations,Mid-Level
 Accenture,ServiceNow Implementation Specialist,Various locations,Mid-Level
