@@ -1,17 +1,15 @@
 Company,Role,Country,Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
@@ -19,7 +17,39 @@ IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,Analista de crédito junior,Colombia             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Technical Consultant-Application Security,India             	      ,Entry Level
+IBM,Billing Analyst,Philippines             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
+IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
+IBM,BPOプロジェクトメンバー,Japan             	      ,Entry Level
+IBM,Accounts Receivables Professionals,Philippines             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Analista de crédito junior,Colombia             	      ,Entry Level
+IBM,Quality Engineer-FullStack,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
 IBM,Associate Package Consultant-SAP HANA SCM MM,Indonesia             	      ,Entry Level
 IBM,Application Developer-Asset Management,India             	      ,Entry Level
 IBM,Technical Consultant-Application Security,India             	      ,Entry Level
@@ -29,98 +59,66 @@ IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
 IBM,Full Stack Developer – Entry Level,Canada             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Analista de crédito junior,Colombia             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Technical Consultant-Application Security,India             	      ,Entry Level
-IBM,Billing Analyst,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
-IBM,BPOプロジェクトメンバー,Japan             	      ,Entry Level
-IBM,Accounts Receivables Professionals,Philippines             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
 IBM,Data Consultant-Data Governance,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Analista de crédito junior,Colombia             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Technical Consultant-Application Security,India             	      ,Entry Level
-IBM,Billing Analyst,Philippines             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
-IBM,BPOプロジェクトメンバー,Japan             	      ,Entry Level
-IBM,Accounts Receivables Professionals,Philippines             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Data Consultant-Data Governance,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Collections Professional,Philippines             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
-IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Analista de crédito junior,Colombia             	      ,Entry Level
+IBM,Quality Engineer-FullStack,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
+IBM,Associate Package Consultant-SAP HANA SCM MM,Indonesia             	      ,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
 IBM,Technical Consultant-Application Security,India             	      ,Entry Level
 IBM,Billing Analyst,Philippines             	      ,Entry Level
+IBM,PROCESS INNOVATION PROFESSIONAL-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
+IBM,Full Stack Developer – Entry Level,Canada             	      ,Entry Level
+IBM,Collections Professional,Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Data Consultant-Data Governance,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
+IBM,Consultant(Finance),Japan             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
-IBM,BPOプロジェクトメンバー,Japan             	      ,Entry Level
-IBM,Accounts Receivables Professionals,Philippines             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Cost Manager (All Levels), ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Analista de crédito junior,Colombia             	      ,Entry Level
+IBM,Quality Engineer-FullStack,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-LEAD TO CASH,India             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Talent Care Advisor II,Philippines             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
+IBM,Associate Package Consultant-SAP HANA SCM MM,Indonesia             	      ,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Technical Consultant-Application Security,India             	      ,Entry Level
+IBM,Billing Analyst,Philippines             	      ,Entry Level
+IBM,PROCESS INNOVATION PROFESSIONAL-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Project Administrator-Project Support - Japanese Bilingual,Multiple Cities,Entry Level
+IBM,Full Stack Developer – Entry Level,Canada             	      ,Entry Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
@@ -129,8 +127,10 @@ Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Cost Manager (All Levels), ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
@@ -139,8 +139,10 @@ Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Cost Manager (All Levels), ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
@@ -149,8 +151,10 @@ Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Cost Manager (All Levels), ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
@@ -159,3 +163,7 @@ Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
