@@ -30,8 +30,9 @@ IBM,Application Developer-Asset Management,India             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Contact Center Fresh Graduates,Philippines             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Analista de crédito junior,Colombia             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
@@ -43,11 +44,9 @@ IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Accounts Receivable Team Leader,Philippines             	      ,Entry Level
 IBM,Customer Engineer - HashiCorp Vault Radar,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,Quality Engineer-Functional,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
@@ -55,10 +54,11 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
 IBM,Automation Engineer,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
-IBM,Application Developer-MuleSoft,India             	      ,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Federal Associate Consultant,US,Entry Level
-IBM,Contact Center Fresh Graduates,Philippines             	      ,Entry Level
+IBM,Analista de crédito junior,Colombia             	      ,Entry Level
+IBM,Package Specialist-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,Financial Analyst (Mandarin / Japanese Bilingual),Malaysia             	      ,Entry Level
+IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
+IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
@@ -90,8 +90,9 @@ IBM,Financial Analyst (Mandarin / Japanese Bilingual),Malaysia             	    
 IBM,Absence & Benefits Administrator,Poland             	      ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,Egypt                                                    ,Entry Level
-IBM,Analista de crédito junior,Colombia             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN FI,India             	      ,Entry Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
@@ -103,11 +104,9 @@ IBM,Consultant(Finance),Japan             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Accounts Receivable Team Leader,Philippines             	      ,Entry Level
 IBM,Customer Engineer - HashiCorp Vault Radar,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
 IBM,Quality Engineer-Functional,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
@@ -115,55 +114,56 @@ IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry L
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
 IBM,Automation Engineer,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
+IBM,Analista de crédito junior,Colombia             	      ,Entry Level
 IBM,Application Developer-MuleSoft,India             	      ,Entry Level
 IBM,Application Developer-Asset Management,India             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Contact Center Fresh Graduates,Philippines             	      ,Entry Level
-Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Retail/Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
-Accenture,SAP Supply Chain Delivery Lead - Industrial,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
+Accenture,Partners In Performance - Performance Strategy Associate,Various locations,Mid-Level
+Accenture,Partners in Performance - Performance Strategy Manager,Various locations,Senior Level
+Accenture,Partners in Performance - Performance Strategy Senior Principal,Various locations,Senior Level
+Accenture,Retail Media Strategy Manager,Various locations,Senior Level
+Accenture,Retail Media Strategist,Various locations,Mid-Level
+Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
+Accenture,Partners In Performance - Performance Strategy Associate,Various locations,Mid-Level
+Accenture,Partners in Performance - Performance Strategy Manager,Various locations,Senior Level
+Accenture,Partners in Performance - Performance Strategy Senior Principal,Various locations,Senior Level
+Accenture,Retail Media Strategy Manager,Various locations,Senior Level
+Accenture,Retail Media Strategist,Various locations,Mid-Level
+Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
+Accenture,Partners In Performance - Performance Strategy Associate,Various locations,Mid-Level
+Accenture,Partners in Performance - Performance Strategy Manager,Various locations,Senior Level
+Accenture,Partners in Performance - Performance Strategy Senior Principal,Various locations,Senior Level
+Accenture,Retail Media Strategy Manager,Various locations,Senior Level
+Accenture,Retail Media Strategist,Various locations,Mid-Level
+Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Peoplesoft developer 5623166,Various locations,Mid-Level
+Accenture,Partners In Performance - Performance Strategy Associate,Various locations,Mid-Level
+Accenture,Partners in Performance - Performance Strategy Manager,Various locations,Senior Level
+Accenture,Partners in Performance - Performance Strategy Senior Principal,Various locations,Senior Level
+Accenture,Retail Media Strategy Manager,Various locations,Senior Level
+Accenture,Retail Media Strategist,Various locations,Mid-Level
+Accenture,Fixed Income Business Analyst 6062246,Various locations,Mid-Level
+Accenture,Service CCaaS Technology Delivery Manager (H&PS),Various locations,Senior Level
+Accenture,Service CCaaS Technology Delivery Manager (CMT),Various locations,Senior Level
+Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
+Accenture,BPO Account Lead - HR,Various locations,Senior Level
