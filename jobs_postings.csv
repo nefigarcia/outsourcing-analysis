@@ -90,6 +90,8 @@ IBM,PROCESS INNOVATION PROFESSIONAL-RECORD TO REPORT,India             	      ,E
 IBM,Billing Analyst,Philippines             	      ,Entry Level
 IBM,Associate Application Developer-IT Service Management (ServiceNow),Singapore             	      ,Entry Level
 IBM,IT Technical Specialist,India             	      ,Entry Level
+IBM,Associate Experience Consultant-Customer & Experience Transformation,Multiple Cities,Entry Level
+IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-AWS,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
@@ -101,9 +103,7 @@ IBM,OpenShift Hypervisor Developer (f/m/x),Germany                              
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Application Developer-Contact Center,India             	      ,Entry Level
-IBM,Associate Experience Consultant-Customer & Experience Transformation,Multiple Cities,Entry Level
 IBM,Consultant(Finance),Japan             	      ,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-PROCURE TO PAY,India             	      ,Entry Level
 IBM,PROCESS DELIVERY SPECIALIST-RECORD TO REPORT,India             	      ,Entry Level
@@ -119,51 +119,23 @@ IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-RECORD TO REPORT,India             	      ,Entry Level
 IBM,Billing Analyst,Philippines             	      ,Entry Level
 IBM,Associate Application Developer-IT Service Management (ServiceNow),Singapore             	      ,Entry Level
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,MDM Architect (Stibo Systems),"Chicago, IL",Senior Level
-Accenture,AI Strategy Manager,Various locations,Senior Level
-Accenture,^Business System Analyst Techno Functional - 6028381,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Consultant – Manhattan Warehouse Management,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Program Manager MAWM,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Manager,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Senior Manager,Various locations,Senior Level
-Accenture,Tech Strategy Senior Analyst - Digital Operations,Various locations,Early Career
-Accenture,Supply Chain and Operations Consulting – Consultant – Warehousing Transformation,Various locations,Mid-Level
-Accenture,Payroll Tax Administrator,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting- Senior Manager- SAP Extended Warehouse Management,Various locations,Senior Level
-Accenture,Data Engineer,Various locations,Mid-Level
-Accenture,MDM Architect (Stibo Systems),"Chicago, IL",Senior Level
-Accenture,AI Strategy Manager,Various locations,Senior Level
-Accenture,^Business System Analyst Techno Functional - 6028381,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Consultant – Manhattan Warehouse Management,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Program Manager MAWM,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Manager,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Senior Manager,Various locations,Senior Level
-Accenture,Tech Strategy Senior Analyst - Digital Operations,Various locations,Early Career
-Accenture,Supply Chain and Operations Consulting – Consultant – Warehousing Transformation,Various locations,Mid-Level
-Accenture,Payroll Tax Administrator,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting- Senior Manager- SAP Extended Warehouse Management,Various locations,Senior Level
-Accenture,Data Engineer,Various locations,Mid-Level
-Accenture,MDM Architect (Stibo Systems),"Chicago, IL",Senior Level
-Accenture,AI Strategy Manager,Various locations,Senior Level
-Accenture,^Business System Analyst Techno Functional - 6028381,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Consultant – Manhattan Warehouse Management,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Program Manager MAWM,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Manager,Various locations,Senior Level
-Accenture,SAP CS&S/CPQ Senior Manager,Various locations,Senior Level
-Accenture,Tech Strategy Senior Analyst - Digital Operations,Various locations,Early Career
-Accenture,Supply Chain and Operations Consulting – Consultant – Warehousing Transformation,Various locations,Mid-Level
-Accenture,Payroll Tax Administrator,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting- Senior Manager- SAP Extended Warehouse Management,Various locations,Senior Level
-Accenture,Data Engineer,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager (Multiple Locations), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Cost Manager - All Levels - (Consultant, Senior Cost, Lead Cost), ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager,ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Scheduler, ANS",Various locations,Senior Level
