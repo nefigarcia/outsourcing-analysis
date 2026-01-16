@@ -1,6 +1,6 @@
 Company,Role,Country,Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Customer Engineer - HashiCorp Vault Radar,India             	      ,Entry Level
@@ -12,10 +12,40 @@ IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,Curador Pleno,Brazil             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Security Specialist-Infrastructure Security,India             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Associate System Engineer,Multiple Cities,Entry Level
+IBM,Federal Associate Consultant,US,Entry Level
+IBM,Application Developer-Asset Management,India             	      ,Entry Level
+IBM,Package Specialist-SAP HANA FIN FI,India             	      ,Entry Level
+IBM,FP&A JR Financial Analyst,Mexico             	      ,Entry Level
+IBM,IBM Automation Sales Specialist,Israel             	      ,Entry Level
+IBM,Collections SME,Philippines             	      ,Entry Level
+IBM,Entry Level Designer Austin,US,Entry Level
+IBM,Quality Engineer-Data,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Quality Engineer-FullStack,India             	      ,Entry Level
+IBM,Quality Engineer-FullStack,India             	      ,Entry Level
+IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
+IBM,Quality Engineer-Data,India             	      ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Customer Engineer - HashiCorp Vault Radar,India             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Application Developer-ServiceNow,India             	      ,Entry Level
+IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
+IBM,Quality Engineer-Data,India             	      ,Entry Level
+IBM,Quality Engineer-Data,India             	      ,Entry Level
+IBM,Quality Engineer-Data,India             	      ,Entry Level
+IBM,Curador Pleno,Brazil             	      ,Entry Level
+IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
+IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
+IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Security Specialist-Infrastructure Security,India             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Associate System Engineer,Multiple Cities,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
@@ -74,36 +104,6 @@ IBM,Curador Pleno,Brazil             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
-IBM,Security Specialist-Infrastructure Security,India             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Associate System Engineer,Multiple Cities,Entry Level
-IBM,Federal Associate Consultant,US,Entry Level
-IBM,Application Developer-Asset Management,India             	      ,Entry Level
-IBM,Package Specialist-SAP HANA FIN FI,India             	      ,Entry Level
-IBM,FP&A JR Financial Analyst,Mexico             	      ,Entry Level
-IBM,IBM Automation Sales Specialist,Israel             	      ,Entry Level
-IBM,Collections SME,Philippines             	      ,Entry Level
-IBM,Entry Level Designer Austin,US,Entry Level
-IBM,Quality Engineer-Data,India             	      ,Entry Level
-IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
-IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
-IBM,Quality Engineer-Data,India             	      ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Customer Engineer - HashiCorp Vault Radar,India             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer-ServiceNow,India             	      ,Entry Level
-IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
-IBM,Quality Engineer-Data,India             	      ,Entry Level
-IBM,Quality Engineer-Data,India             	      ,Entry Level
-IBM,Quality Engineer-Data,India             	      ,Entry Level
-IBM,Curador Pleno,Brazil             	      ,Entry Level
-IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
-IBM,BPOプロジェクトチームリーダー,Japan             	      ,Entry Level
-IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Security Specialist-Infrastructure Security,India             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
@@ -119,51 +119,47 @@ IBM,Quality Engineer-Data,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
 IBM,Quality Engineer-FullStack,India             	      ,Entry Level
-Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
-Accenture,Epic Cogito SSIS Application Support Specialist 6062518,Various locations,Mid-Level
-Accenture,Investment Banking Senior Manager,Various locations,Senior Level
-Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
-Accenture,Investment Banking Manager,Various locations,Senior Level
-Accenture,Investment Banking Consultant,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Content Digital Asset Management Manager (DAM),Various locations,Senior Level
-Accenture,Labor and Employment Counsel Senior Manager,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,Design Lead,Various locations,Mid-Level
-Accenture,Senior Design Lead,Various locations,Senior Level
-Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
-Accenture,Epic Cogito SSIS Application Support Specialist 6062518,Various locations,Mid-Level
-Accenture,Investment Banking Senior Manager,Various locations,Senior Level
-Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
-Accenture,Investment Banking Manager,Various locations,Senior Level
-Accenture,Investment Banking Consultant,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Content Digital Asset Management Manager (DAM),Various locations,Senior Level
-Accenture,Labor and Employment Counsel Senior Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,Design Lead,Various locations,Mid-Level
-Accenture,Senior Design Lead,Various locations,Senior Level
-Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
-Accenture,Epic Cogito SSIS Application Support Specialist 6062518,Various locations,Mid-Level
-Accenture,Investment Banking Senior Manager,Various locations,Senior Level
-Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
-Accenture,Investment Banking Manager,Various locations,Senior Level
-Accenture,Investment Banking Consultant,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Content Digital Asset Management Manager (DAM),Various locations,Senior Level
-Accenture,Labor and Employment Counsel Senior Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,Design Lead,Various locations,Mid-Level
-Accenture,Senior Design Lead,Various locations,Senior Level
-Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
-Accenture,Epic Cogito SSIS Application Support Specialist 6062518,Various locations,Mid-Level
-Accenture,Investment Banking Senior Manager,Various locations,Senior Level
-Accenture,BPO Account Lead - Finance & Accounting,Various locations,Senior Level
-Accenture,Investment Banking Manager,Various locations,Senior Level
-Accenture,Investment Banking Consultant,Various locations,Mid-Level
-Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
-Accenture,Content Digital Asset Management Manager (DAM),Various locations,Senior Level
-Accenture,Labor and Employment Counsel Senior Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Lead Quantity Surveyor, ANS","Cheyenne, WY",Senior Level
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,Design Lead,Various locations,Mid-Level
-Accenture,Senior Design Lead,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
+Accenture,SAP Supply Chain Delivery Lead - Automotive,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Life Sciences,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Industrial,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Supply Chain) - Automotive,Various locations,Senior Level
