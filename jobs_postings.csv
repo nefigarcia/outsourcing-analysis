@@ -2,13 +2,13 @@ Company,Role,Country,Level
 IBM,OpenShift Hypervisor Developer (f/m/x),Germany                                                           ,Entry Level
 IBM,Design Intern - Advanced Integrated Circuits Research,Multiple Cities,Entry Level
 IBM,Associate Experience Consultant-Customer & Experience Transformation,Multiple Cities,Entry Level
-IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
 IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
+IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
@@ -99,8 +99,12 @@ IBM,Entry Level Technical Support Engineer - Cloudability,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
+IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Associate System Engineer,Multiple Cities,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Mathematics of Computing Research Summer Intern: 2026,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
 IBM,Entry Level Designer Austin,US,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
@@ -114,11 +118,7 @@ IBM,Associate System Engineer,Multiple Cities,Entry Level
 IBM,Promontory Analyst,Australia,Entry Level
 IBM,Front-end Web Software Developer - Junior,Mexico             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
-IBM,Application Developer-MuleSoft,India             	      ,Entry Level
-IBM,Mathematics of Computing Research Summer Intern: 2026,Multiple Cities,Entry Level
-IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
 IBM,Associate Package Consultant 2026 – Salesforce,Multiple Cities,Entry Level
-IBM,Automation - Delivery Consultant,Multiple Cities,Entry Level
 Accenture,SAP PreSales Demo Architect - Public Cloud*,Various locations,Senior Level
 Accenture,Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -127,10 +127,10 @@ Accenture,Retirement Management Consulting Manager,Various locations,Senior Leve
 Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Oracle HCM Talent Management Lead,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
+Accenture,"HR Transformation Senior Manager, Insurance",Various locations,Senior Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Customer Service Technology Business Consultant (CMT),Various locations,Mid-Level
 Accenture,Health Payer Operations Manager (Claims Operations),Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
 Accenture,SAP PreSales Demo Architect - Public Cloud*,Various locations,Senior Level
 Accenture,Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -139,10 +139,10 @@ Accenture,Retirement Management Consulting Manager,Various locations,Senior Leve
 Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Oracle HCM Talent Management Lead,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
+Accenture,"HR Transformation Senior Manager, Insurance",Various locations,Senior Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Customer Service Technology Business Consultant (CMT),Various locations,Mid-Level
 Accenture,Health Payer Operations Manager (Claims Operations),Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
 Accenture,SAP PreSales Demo Architect - Public Cloud*,Various locations,Senior Level
 Accenture,Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -151,10 +151,10 @@ Accenture,Retirement Management Consulting Manager,Various locations,Senior Leve
 Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Oracle HCM Talent Management Lead,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
+Accenture,"HR Transformation Senior Manager, Insurance",Various locations,Senior Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Customer Service Technology Business Consultant (CMT),Various locations,Mid-Level
 Accenture,Health Payer Operations Manager (Claims Operations),Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
 Accenture,SAP PreSales Demo Architect - Public Cloud*,Various locations,Senior Level
 Accenture,Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,SAP Supply Chain Delivery Lead – Utilities Industry,Various locations,Senior Level
@@ -163,7 +163,7 @@ Accenture,Retirement Management Consulting Manager,Various locations,Senior Leve
 Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Oracle HCM Talent Management Lead,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
+Accenture,"HR Transformation Senior Manager, Insurance",Various locations,Senior Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Customer Service Technology Business Consultant (CMT),Various locations,Mid-Level
 Accenture,Health Payer Operations Manager (Claims Operations),Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
