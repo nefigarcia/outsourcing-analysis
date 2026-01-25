@@ -46,19 +46,19 @@ IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Mathematics of Computing Research Summer Intern: 2026,Multiple Cities,Entry Level
 IBM,Associate Package Consultant – SAP HANA Analytics,Multiple Cities,Entry Level
-IBM,Promontory Analyst,Australia,Entry Level
 IBM,Associate Business Transformation Consultant - Digital Change,United                                                  ,Entry Level
 IBM,Entry Level Designer Austin,US,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-FP&A,India             	      ,Entry Level
-IBM,Client Engineering - Ecosystem,VN,Entry Level
-IBM,Associate System Engineer,Multiple Cities,Entry Level
-IBM,Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
-IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
-IBM,Application Developer-MuleSoft,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Promontory Analyst,Australia,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Associate Package Consultant 2026 – Salesforce,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
+IBM,Sales Development Representative - STUDENT CONVERSION,Argentina             	      ,Entry Level
+IBM,Client Engineering - Ecosystem,VN,Entry Level
+IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Front-end Web Software Developer - Junior,Mexico             	      ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
@@ -76,19 +76,19 @@ IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Mathematics of Computing Research Summer Intern: 2026,Multiple Cities,Entry Level
 IBM,Associate Package Consultant – SAP HANA Analytics,Multiple Cities,Entry Level
-IBM,Promontory Analyst,Australia,Entry Level
 IBM,Associate Business Transformation Consultant - Digital Change,United                                                  ,Entry Level
 IBM,Entry Level Designer Austin,US,Entry Level
-IBM,PROCESS DELIVERY SPECIALIST-FP&A,India             	      ,Entry Level
-IBM,Client Engineering - Ecosystem,VN,Entry Level
-IBM,Associate System Engineer,Multiple Cities,Entry Level
-IBM,Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
-IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
-IBM,Application Developer-MuleSoft,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Promontory Analyst,Australia,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Associate Package Consultant 2026 – Salesforce,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Test Engineer,Multiple Cities,Entry Level
+IBM,Sales Development Representative - STUDENT CONVERSION,Argentina             	      ,Entry Level
+IBM,Client Engineering - Ecosystem,VN,Entry Level
+IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
+IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
+IBM,Front-end Web Software Developer - Junior,Mexico             	      ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
 IBM,Entry Level Technical Enablement Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer-AWS Cloud FullStack,Thailand             	      ,Entry Level
@@ -120,6 +120,7 @@ IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
 IBM,Data Engineer-Data Platforms,India             	      ,Entry Level
 IBM,Front-end Web Software Developer - Junior,Mexico             	      ,Entry Level
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,MES Shop Floor Support,"Raleigh, NC",Early Career
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
@@ -130,8 +131,8 @@ Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Oracle HCM Core HR Lead,Various locations,Mid-Level
 Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
-Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,MES Shop Floor Support,"Raleigh, NC",Early Career
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
@@ -142,8 +143,8 @@ Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Oracle HCM Core HR Lead,Various locations,Mid-Level
 Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
-Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,MES Shop Floor Support,"Raleigh, NC",Early Career
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
@@ -154,8 +155,8 @@ Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Oracle HCM Core HR Lead,Various locations,Mid-Level
 Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
-Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,MES Shop Floor Support,"Raleigh, NC",Early Career
 Accenture,SAP Delivery Excellence Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
 Accenture,SAP Order to Cash/CS&S Consultant - Mid-Market (Public Cloud),Various locations,Mid-Level
@@ -166,4 +167,3 @@ Accenture,Payroll Tax Administrator,Various locations,Mid-Level
 Accenture,Retail Media Product Manager,Various locations,Senior Level
 Accenture,Oracle HCM Core HR Lead,Various locations,Mid-Level
 Accenture,SAP Supply Chain Delivery Lead – Chemicals Industry,Various locations,Senior Level
-Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
