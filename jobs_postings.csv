@@ -71,7 +71,6 @@ IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
 IBM,Back-end Developer,Mexico             	      ,Entry Level
 IBM,Application Developer-Experience Fullstack - 5676388,Brazil             	      ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Associate System Engineer,Multiple Cities,Entry Level
@@ -83,6 +82,7 @@ IBM,Entry Level Designer Austin,US,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
 IBM,Application Developer-MuleSoft,India             	      ,Entry Level
 IBM,Client Engineering - Ecosystem,VN,Entry Level
 IBM,Associate System Engineer,Multiple Cities,Entry Level
@@ -101,7 +101,6 @@ IBM,Data Engineer-Data Platforms-Google,India             	      ,Entry Level
 IBM,Back-end Developer,Mexico             	      ,Entry Level
 IBM,Application Developer-Experience Fullstack - 5676388,Brazil             	      ,Entry Level
 IBM,PROCESS INNOVATION PROFESSIONAL-PROCURE TO PAY,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
 IBM,Federal Associate Consultant,US,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Associate System Engineer,Multiple Cities,Entry Level
@@ -113,6 +112,7 @@ IBM,Entry Level Designer Austin,US,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Application Developer-SAP ABAP HANA,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN CO,India             	      ,Entry Level
 IBM,Application Developer-MuleSoft,India             	      ,Entry Level
 IBM,Client Engineering - Ecosystem,VN,Entry Level
 IBM,Associate System Engineer,Multiple Cities,Entry Level
@@ -130,7 +130,7 @@ Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,Commercial Credit/ nCino Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Consultant,Various locations,Mid-Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Service Desk Analyst - 6111387,Various locations,Mid-Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Epic Professional Billing Application Developer - 6041408,Various locations,Mid-Level
 Accenture,Data Analyst - 6106008,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
@@ -142,7 +142,7 @@ Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,Commercial Credit/ nCino Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Consultant,Various locations,Mid-Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Service Desk Analyst - 6111387,Various locations,Mid-Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Epic Professional Billing Application Developer - 6041408,Various locations,Mid-Level
 Accenture,Data Analyst - 6106008,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
@@ -154,7 +154,7 @@ Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,Commercial Credit/ nCino Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Consultant,Various locations,Mid-Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Service Desk Analyst - 6111387,Various locations,Mid-Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Epic Professional Billing Application Developer - 6041408,Various locations,Mid-Level
 Accenture,Data Analyst - 6106008,Various locations,Mid-Level
 Accenture,Life Sciences Labs Digital Transformation/Informatics Consultant,Various locations,Mid-Level
@@ -166,4 +166,4 @@ Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,Commercial Credit/ nCino Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Consultant,Various locations,Mid-Level
 Accenture,SAP Transportation Management Manager - Consumer Goods,Various locations,Senior Level
-Accenture,Service Desk Analyst - 6111387,Various locations,Mid-Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
