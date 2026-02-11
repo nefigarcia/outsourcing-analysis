@@ -1,5 +1,4 @@
 Company,Role,Country,Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
@@ -12,6 +11,7 @@ IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Ent
 IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Application Developer,Multiple Cities,Entry Level
@@ -44,36 +44,6 @@ IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	  
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Application Developer,Multiple Cities,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Site Reliability Engineer,Multiple Cities,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Quality Engineer-Functional,India             	      ,Entry Level
-IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
@@ -104,12 +74,12 @@ IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	  
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Application Developer,Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
+IBM,Application Developer,Multiple Cities,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -119,15 +89,51 @@ IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
+Accenture,Management Consultant | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Mid-Level
+Accenture,Consulting Manager | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Senior Level
+Accenture,Technology Delivery Lead (Utilities),Various locations,Senior Level
+Accenture,Global Behavioral Threat Program Lead,Various locations,Senior Level
+Accenture,Insider Threat Program Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant - Life Sciences Industry,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Manager - Software & Platforms Industry,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Industrials - Aerospace & Defense),Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
+Accenture,Ironclad CLM Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Management Consultant | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Mid-Level
+Accenture,Consulting Manager | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Senior Level
+Accenture,Technology Delivery Lead (Utilities),Various locations,Senior Level
+Accenture,Global Behavioral Threat Program Lead,Various locations,Senior Level
+Accenture,Insider Threat Program Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant - Life Sciences Industry,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Manager - Software & Platforms Industry,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Industrials - Aerospace & Defense),Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
+Accenture,Ironclad CLM Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Management Consultant | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Mid-Level
+Accenture,Consulting Manager | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Senior Level
+Accenture,Technology Delivery Lead (Utilities),Various locations,Senior Level
+Accenture,Global Behavioral Threat Program Lead,Various locations,Senior Level
+Accenture,Insider Threat Program Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant - Life Sciences Industry,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Manager - Software & Platforms Industry,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Industrials - Aerospace & Defense),Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
+Accenture,Ironclad CLM Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Management Consultant | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Mid-Level
+Accenture,Consulting Manager | Sales & Commerce ReInvention | Energy/Chemicals & Natural Resources,Various locations,Senior Level
+Accenture,Technology Delivery Lead (Utilities),Various locations,Senior Level
+Accenture,Global Behavioral Threat Program Lead,Various locations,Senior Level
+Accenture,Insider Threat Program Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant - Life Sciences Industry,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Manager - Software & Platforms Industry,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Industrials - Aerospace & Defense),Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
+Accenture,Ironclad CLM Management Consultant - Manager,Various locations,Mid-Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
