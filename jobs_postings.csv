@@ -14,9 +14,9 @@ IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Ar
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
+IBM,Application Developer,Multiple Cities,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
-IBM,Application Developer,Multiple Cities,Entry Level
 IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -104,9 +104,9 @@ IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Ar
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
+IBM,Application Developer,Multiple Cities,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
-IBM,Application Developer,Multiple Cities,Entry Level
 IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -119,31 +119,51 @@ IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects-QA/QC Adviser, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects-QA/QC Adviser, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects-QA/QC Adviser, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects-QA/QC Adviser, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Manager,Various locations,Senior Level
+Accenture,HR Transformation Senior Manager - Industrial,Various locations,Senior Level
+Accenture,Sourcing & Procurement CoE - Equipment & Construction Management Consulting Manager,Various locations,Senior Level
+Accenture,Talent Senior Manager - Life Sciences,Various locations,Senior Level
+Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
+Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
+Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
+Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
+Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Manager,Various locations,Senior Level
+Accenture,HR Transformation Senior Manager - Industrial,Various locations,Senior Level
+Accenture,Sourcing & Procurement CoE - Equipment & Construction Management Consulting Manager,Various locations,Senior Level
+Accenture,Talent Senior Manager - Life Sciences,Various locations,Senior Level
+Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
+Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
+Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
+Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
+Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Manager,Various locations,Senior Level
+Accenture,HR Transformation Senior Manager - Industrial,Various locations,Senior Level
+Accenture,Sourcing & Procurement CoE - Equipment & Construction Management Consulting Manager,Various locations,Senior Level
+Accenture,Talent Senior Manager - Life Sciences,Various locations,Senior Level
+Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
+Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
+Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
+Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
+Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Manager,Various locations,Senior Level
+Accenture,HR Transformation Senior Manager - Industrial,Various locations,Senior Level
+Accenture,Sourcing & Procurement CoE - Equipment & Construction Management Consulting Manager,Various locations,Senior Level
+Accenture,Talent Senior Manager - Life Sciences,Various locations,Senior Level
+Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
+Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
+Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
+Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
+Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
