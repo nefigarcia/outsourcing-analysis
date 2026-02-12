@@ -1,34 +1,4 @@
 Company,Role,Country,Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
-IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
-IBM,Quality Engineer-Functional,India             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
-IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
-IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
-IBM,ServiceNow Developer,Canada             	      ,Entry Level
-IBM,Application Developer,Multiple Cities,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
-IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Site Reliability Engineer,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
@@ -89,6 +59,7 @@ IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
+IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
@@ -103,7 +74,6 @@ IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Ar
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
@@ -119,51 +89,81 @@ IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
+IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
+IBM,Delivery Consultant Data Platform,Italy             	      ,Entry Level
+IBM,Quality Engineer-Functional,India             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
+IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
+IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
+IBM,ServiceNow Developer,Canada             	      ,Entry Level
+IBM,Organizational Change Management Consultant Associate (Sept 2026 - Ottawa - Montreal - Toronto),Multiple Cities,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
+IBM,Application Developer,Multiple Cities,Entry Level
+IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Site Reliability Engineer,Multiple Cities,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Software Test Automation,Mexico             	      ,Entry Level
+Accenture,Transaction Advisory Strategy Manager,Various locations,Senior Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
 Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
 Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
 Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,Java Developer 6090921,"Chicago, IL",Mid-Level
 Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148244,"Chicago, IL",Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
-Accenture,CLM Management Consultant - Manager,Various locations,Mid-Level
-Accenture,SAP Talent & HR Consultant - Mid-Market,Various locations,Mid-Level
-Accenture,"Enterprise Architect Senior Manager, FS Insurance",Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
+Accenture,Transaction Advisory Strategy Manager,Various locations,Senior Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
 Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
 Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
 Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,Java Developer 6090921,"Chicago, IL",Mid-Level
 Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148244,"Chicago, IL",Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
-Accenture,CLM Management Consultant - Manager,Various locations,Mid-Level
-Accenture,SAP Talent & HR Consultant - Mid-Market,Various locations,Mid-Level
-Accenture,"Enterprise Architect Senior Manager, FS Insurance",Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
+Accenture,Transaction Advisory Strategy Manager,Various locations,Senior Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
 Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
 Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
 Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,Java Developer 6090921,"Chicago, IL",Mid-Level
 Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148244,"Chicago, IL",Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
-Accenture,CLM Management Consultant - Manager,Various locations,Mid-Level
-Accenture,SAP Talent & HR Consultant - Mid-Market,Various locations,Mid-Level
-Accenture,"Enterprise Architect Senior Manager, FS Insurance",Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
+Accenture,Transaction Advisory Strategy Manager,Various locations,Senior Level
 Accenture,Scientific and Laboratory Informatics Consultant,Various locations,Mid-Level
 Accenture,Supply Chain and Operations Consulting - SAP Extended Warehouse Management Manager,Various locations,Senior Level
 Accenture,Supply Chain and Operations Consulting- Manager- SAP Extended Warehouse Management,Various locations,Senior Level
 Accenture,ServiceNow Business Process Manager,Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
 Accenture,Site Reliability Engineer - Dynatrace - 6158762,Various locations,Mid-Level
+Accenture,Java Developer 6090921,"Chicago, IL",Mid-Level
 Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148244,"Chicago, IL",Mid-Level
 Accenture,Life Sciences: Scientific and Laboratory Informatics Manager - Manager/Sr. Manager,Various locations,Senior Level
 Accenture,"Enterprise Architect Manager, Banking & Cap Mkts",Various locations,Senior Level
-Accenture,CLM Management Consultant - Manager,Various locations,Mid-Level
-Accenture,SAP Talent & HR Consultant - Mid-Market,Various locations,Mid-Level
-Accenture,"Enterprise Architect Senior Manager, FS Insurance",Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
