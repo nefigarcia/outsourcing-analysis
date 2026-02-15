@@ -1,64 +1,4 @@
 Company,Role,Country,Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,Quality Engineer-Functional,India             	      ,Entry Level
-IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
-IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
-IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
-IBM,ServiceNow Developer,Canada             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
-IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
-IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Associate Data Scientist - hiring req Kshitiz,Austria             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,Quality Engineer-Functional,India             	      ,Entry Level
-IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
-IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
-IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
-IBM,ServiceNow Developer,Canada             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
-IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
-IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Associate Data Scientist - hiring req Kshitiz,Austria             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
@@ -103,6 +43,36 @@ IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Ent
 IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
 IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
+IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
+IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Associate Data Scientist - hiring req Kshitiz,Austria             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Product Manager - IBM Storage,Multiple Cities,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
+IBM,Expert Labs Delivery Consultant - Early Professional Infrastructure,Saudi Arabia       ,Entry Level
+IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,Quality Engineer-Functional,India             	      ,Entry Level
+IBM,Fieldglass Tactical Buyer (Japanese Bilingual),Malaysia             	      ,Entry Level
+IBM,Trainee SAP Application Developer - Data Migration (m/w/d),Multiple Cities,Entry Level
+IBM,ServiceNow Developer,Canada             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
@@ -125,45 +95,45 @@ Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Sen
 Accenture,SAP Product Costing Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
+Accenture,HR Transformation Manager,Various locations,Senior Level
+Accenture,Talent Development Consulting Manager,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Industry X - Engineering System PTC Windchill PLM Senior Manager,Various locations,Senior Level
 Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
 Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,SAP Finance Delivery Lead - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Industrial,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Product Costing Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
+Accenture,HR Transformation Manager,Various locations,Senior Level
+Accenture,Talent Development Consulting Manager,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Industry X - Engineering System PTC Windchill PLM Senior Manager,Various locations,Senior Level
 Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
 Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,SAP Finance Delivery Lead - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Industrial,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Product Costing Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
+Accenture,HR Transformation Manager,Various locations,Senior Level
+Accenture,Talent Development Consulting Manager,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Industry X - Engineering System PTC Windchill PLM Senior Manager,Various locations,Senior Level
 Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
 Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,SAP Finance Delivery Lead - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Industrial,Various locations,Senior Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Intercompany Lead Manager - Industrial,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Automotive,Various locations,Senior Level
 Accenture,SAP Product Costing Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Consumer Goods,Various locations,Senior Level
 Accenture,SAP Finance Workstream Lead Manager - Life Sciences,Various locations,Senior Level
+Accenture,HR Transformation Manager,Various locations,Senior Level
+Accenture,Talent Development Consulting Manager,Various locations,Senior Level
 Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
 Accenture,Industry X - Engineering System PTC Windchill PLM Senior Manager,Various locations,Senior Level
 Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
 Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,SAP Finance Delivery Lead - Life Sciences,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Industrial,Various locations,Senior Level
