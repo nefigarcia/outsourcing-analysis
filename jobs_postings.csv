@@ -80,7 +80,6 @@ IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
-IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
@@ -89,6 +88,7 @@ IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Industry Consultant-Consulting Services,India             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
 IBM,2026 Intern: Quantum Data Analyst,Multiple Cities,Entry Level
@@ -110,7 +110,6 @@ IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
-IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Entry Level AI Software Engineer,Multiple Cities,Entry Level
 IBM,Site Reliability Engineer,Multiple Cities,Entry Level
@@ -119,11 +118,10 @@ IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Industry Consultant-Consulting Services,India             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 Accenture,SAP Platform Security Manager,Various locations,Senior Level
 Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
 Accenture,Manhattan Application Support Engineer,Various locations,Mid-Level
-Accenture,Life Sciences R&D Technology Consulting Principal Director,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consultant,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
 Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
@@ -131,11 +129,11 @@ Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Products,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
+Accenture,SAP EWM Consultant - Consumer Goods,Various locations,Mid-Level
+Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
 Accenture,SAP Platform Security Manager,Various locations,Senior Level
 Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
 Accenture,Manhattan Application Support Engineer,Various locations,Mid-Level
-Accenture,Life Sciences R&D Technology Consulting Principal Director,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consultant,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
 Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
@@ -143,11 +141,11 @@ Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Products,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
+Accenture,SAP EWM Consultant - Consumer Goods,Various locations,Mid-Level
+Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
 Accenture,SAP Platform Security Manager,Various locations,Senior Level
 Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
 Accenture,Manhattan Application Support Engineer,Various locations,Mid-Level
-Accenture,Life Sciences R&D Technology Consulting Principal Director,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consultant,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
 Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
@@ -155,11 +153,11 @@ Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Products,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
+Accenture,SAP EWM Consultant - Consumer Goods,Various locations,Mid-Level
+Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
 Accenture,SAP Platform Security Manager,Various locations,Senior Level
 Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
 Accenture,Manhattan Application Support Engineer,Various locations,Mid-Level
-Accenture,Life Sciences R&D Technology Consulting Principal Director,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consultant,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
 Accenture,Adobe AEM Functional Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
@@ -167,3 +165,5 @@ Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Products,Various locations,Mid-Level
 Accenture,Sales Transformation Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Workday Certified Time Tracking/Absence Lead,Various locations,Mid-Level
+Accenture,SAP EWM Consultant - Consumer Goods,Various locations,Mid-Level
+Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
