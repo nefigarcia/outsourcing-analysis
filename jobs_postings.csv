@@ -43,10 +43,10 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
@@ -103,10 +103,10 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,ServiceNow Developer,Canada             	      ,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Application Developer-Java & Web Technologies,China             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Customer Success Manager Architect (Campus),Philippines             	      ,Entry Level
@@ -121,8 +121,6 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,"Life Sciences MedTech Commercial, Management Consulting Senior Manager",Various locations,Senior Level
-Accenture,Life Sciences Commercial Senior Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
-Accenture,Life Sciences Commercial Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
@@ -131,10 +129,10 @@ Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal 
 Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - FDM/R2R,Various locations,Mid-Level
+Accenture,Workday Certified Financials Adaptive Sr Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,"Life Sciences MedTech Commercial, Management Consulting Senior Manager",Various locations,Senior Level
-Accenture,Life Sciences Commercial Senior Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
-Accenture,Life Sciences Commercial Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
@@ -143,10 +141,10 @@ Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal 
 Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - FDM/R2R,Various locations,Mid-Level
+Accenture,Workday Certified Financials Adaptive Sr Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,"Life Sciences MedTech Commercial, Management Consulting Senior Manager",Various locations,Senior Level
-Accenture,Life Sciences Commercial Senior Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
-Accenture,Life Sciences Commercial Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
@@ -155,10 +153,10 @@ Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal 
 Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - FDM/R2R,Various locations,Mid-Level
+Accenture,Workday Certified Financials Adaptive Sr Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Senior Level
 Accenture,Commercial Credit/nCino Senior Manager,Various locations,Senior Level
 Accenture,"Life Sciences MedTech Commercial, Management Consulting Senior Manager",Various locations,Senior Level
-Accenture,Life Sciences Commercial Senior Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
-Accenture,Life Sciences Commercial Manager - Customer Engagement Transformation (Salesforce/Veeva),Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
@@ -167,3 +165,5 @@ Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal 
 Accenture,"Transformation Excellence Manager/Senior Manager, Resources Industry",Various locations,Senior Level
 Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified Financials Consultant/Lead - FDM/R2R,Various locations,Mid-Level
+Accenture,Workday Certified Financials Adaptive Sr Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Senior Level
