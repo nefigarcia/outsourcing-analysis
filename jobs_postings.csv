@@ -17,11 +17,11 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -77,11 +77,11 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
 IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
@@ -112,22 +112,58 @@ IBM,Solutions Engineer HashiCorp – Entry Level Sales Program,US,Entry Level
 IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Business Transformation Consultant-Process Automation,Indonesia             	      ,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Associate Quality Engineer - Automation,Canada             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS",Various locations,Senior Level
+Accenture,Industry X- MES PAS-X Associate Manager,Various locations,Mid-Level
+Accenture,Omni Cloud Strategy and Advisory Manager,Various locations,Senior Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
+Accenture,CFOEV - Finance Transformation Manager,Various locations,Senior Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
+Accenture,Epic Ambulatory & Cadence Associate Manager- 6146639,Various locations,Mid-Level
+Accenture,Epic Cognito Associate Manager - 6182916,Various locations,Mid-Level
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Workday Certified HCM Functional Lead/Architect,Various locations,Senior Level
+Accenture,Technology/Cloud Marketing Development Lead,Various locations,Mid-Level
+Accenture,Digital Asset Management (DAM) Specialist,Various locations,Mid-Level
+Accenture,Industry X- MES PAS-X Associate Manager,Various locations,Mid-Level
+Accenture,Omni Cloud Strategy and Advisory Manager,Various locations,Senior Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
+Accenture,CFOEV - Finance Transformation Manager,Various locations,Senior Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
+Accenture,Epic Ambulatory & Cadence Associate Manager- 6146639,Various locations,Mid-Level
+Accenture,Epic Cognito Associate Manager - 6182916,Various locations,Mid-Level
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Workday Certified HCM Functional Lead/Architect,Various locations,Senior Level
+Accenture,Technology/Cloud Marketing Development Lead,Various locations,Mid-Level
+Accenture,Digital Asset Management (DAM) Specialist,Various locations,Mid-Level
+Accenture,Industry X- MES PAS-X Associate Manager,Various locations,Mid-Level
+Accenture,Omni Cloud Strategy and Advisory Manager,Various locations,Senior Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
+Accenture,CFOEV - Finance Transformation Manager,Various locations,Senior Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
+Accenture,Epic Ambulatory & Cadence Associate Manager- 6146639,Various locations,Mid-Level
+Accenture,Epic Cognito Associate Manager - 6182916,Various locations,Mid-Level
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Workday Certified HCM Functional Lead/Architect,Various locations,Senior Level
+Accenture,Technology/Cloud Marketing Development Lead,Various locations,Mid-Level
+Accenture,Digital Asset Management (DAM) Specialist,Various locations,Mid-Level
+Accenture,Industry X- MES PAS-X Associate Manager,Various locations,Mid-Level
+Accenture,Omni Cloud Strategy and Advisory Manager,Various locations,Senior Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
+Accenture,CFOEV - Finance Transformation Manager,Various locations,Senior Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
+Accenture,Epic Ambulatory & Cadence Associate Manager- 6146639,Various locations,Mid-Level
+Accenture,Epic Cognito Associate Manager - 6182916,Various locations,Mid-Level
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Workday Certified HCM Functional Lead/Architect,Various locations,Senior Level
+Accenture,Technology/Cloud Marketing Development Lead,Various locations,Mid-Level
+Accenture,Digital Asset Management (DAM) Specialist,Various locations,Mid-Level
