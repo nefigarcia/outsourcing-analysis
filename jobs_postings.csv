@@ -2,7 +2,43 @@ Company,Role,Country,Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
+IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
+IBM,Application Developer-SAP ABAP HANA,Egypt                                                    ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,(2026 Campus Hire) Associate Business Consultant,Taiwan          ,Entry Level
+IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
+IBM,Associate Application Developer – Strategy and Transformation,Multiple Cities,Entry Level
+IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
+IBM,Dynamics 365 CE Support Specialist,Multiple Cities,Entry Level
+IBM,Software Engineer – Watsonx Data Platform,Multiple Cities,Entry Level
+IBM,Entry Level Associate Data Engineer,Canada             	      ,Entry Level
+IBM,Associate Quality Engineer - Automation,Canada             	      ,Entry Level
+IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,2026 Intern Conversion,Multiple Cities,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Application Developer- DevOps,Czechia             	,Entry Level
+IBM,Software Test Automation,Mexico             	      ,Entry Level
+IBM,Associate FullStack Developer,Belgium             	         ,Entry Level
+IBM,Linux on IBM Z & LinuxONE Systems Performance Analyst (m/f/x),Germany                                                           ,Entry Level
+IBM,Associate Application Developer-AWS Cloud FullStack,Singapore             	      ,Entry Level
+IBM,PC Board Design and Layout Engineer,Mexico             	      ,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
+IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
+IBM,Application Developer-SAP ABAP HANA,Egypt                                                    ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,(2026 Campus Hire) Associate Business Consultant,Taiwan          ,Entry Level
 IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
@@ -18,17 +54,11 @@ IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Software Test Automation,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion,Multiple Cities,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
-IBM,Associate System Engineer,Multiple Cities,Entry Level
-IBM,SAP S/4HANA Sourcing and Procurement (MM) consultant - Early Graduate,Croatia                                                                                             	      ,Entry Level
+IBM,Kinetic Hiring - Visual Design,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Entry level AI/ML Engineer: SVL,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Associate Package Consultant 2026 – Workday,Multiple Cities,Entry Level
-IBM,Associate Business Transformation Consultant 2026 – IBM Technology and Red Hat,Multiple Cities,Entry Level
-IBM,Kinetic Hiring - Visual Design,Multiple Cities,Entry Level
-IBM,Accountant - Statutory & Reporting (Chinese Speaking),Malaysia             	      ,Entry Level
-IBM,Digital Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
@@ -50,75 +80,45 @@ IBM,Entry Level Associate Data Engineer,Canada             	      ,Entry Level
 IBM,Associate Quality Engineer - Automation,Canada             	      ,Entry Level
 IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Software Test Automation,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion,Multiple Cities,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
-IBM,Associate System Engineer,Multiple Cities,Entry Level
-IBM,SAP S/4HANA Sourcing and Procurement (MM) consultant - Early Graduate,Croatia                                                                                             	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Application Developer- DevOps,Czechia             	,Entry Level
+IBM,Software Test Automation,Mexico             	      ,Entry Level
+IBM,Associate FullStack Developer,Belgium             	         ,Entry Level
+IBM,Linux on IBM Z & LinuxONE Systems Performance Analyst (m/f/x),Germany                                                           ,Entry Level
+IBM,Associate Application Developer-AWS Cloud FullStack,Singapore             	      ,Entry Level
+IBM,PC Board Design and Layout Engineer,Mexico             	      ,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
+IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
+IBM,Application Developer-SAP ABAP HANA,Egypt                                                    ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,(2026 Campus Hire) Associate Business Consultant,Taiwan          ,Entry Level
+IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
+IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
+IBM,2026 Intern Conversion,Multiple Cities,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Application Developer- DevOps,Czechia             	,Entry Level
+IBM,Software Test Automation,Mexico             	      ,Entry Level
+IBM,Associate FullStack Developer,Belgium             	         ,Entry Level
+IBM,Linux on IBM Z & LinuxONE Systems Performance Analyst (m/f/x),Germany                                                           ,Entry Level
+IBM,Associate Application Developer-AWS Cloud FullStack,Singapore             	      ,Entry Level
+IBM,PC Board Design and Layout Engineer,Mexico             	      ,Entry Level
+IBM,Kinetic Hiring - Visual Design,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Entry level AI/ML Engineer: SVL,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
-IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,Egypt                                                    ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,(2026 Campus Hire) Associate Business Consultant,Taiwan          ,Entry Level
-IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
-IBM,Associate Application Developer – Strategy and Transformation,Multiple Cities,Entry Level
-IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
-IBM,Dynamics 365 CE Support Specialist,Multiple Cities,Entry Level
-IBM,Software Engineer – Watsonx Data Platform,Multiple Cities,Entry Level
-IBM,Entry Level Associate Data Engineer,Canada             	      ,Entry Level
-IBM,Associate Quality Engineer - Automation,Canada             	      ,Entry Level
-IBM,2026 Intern Conversion,Multiple Cities,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Application Developer- DevOps,Czechia             	,Entry Level
-IBM,Software Test Automation,Mexico             	      ,Entry Level
-IBM,Associate FullStack Developer,Belgium             	         ,Entry Level
-IBM,Linux on IBM Z & LinuxONE Systems Performance Analyst (m/f/x),Germany                                                           ,Entry Level
-IBM,Associate Application Developer-AWS Cloud FullStack,Singapore             	      ,Entry Level
-IBM,PC Board Design and Layout Engineer,Mexico             	      ,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
-IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
-IBM,Application Developer-SAP ABAP HANA,Egypt                                                    ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,(2026 Campus Hire) Associate Business Consultant,Taiwan          ,Entry Level
-IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
-IBM,Associate Application Developer – Strategy and Transformation,Multiple Cities,Entry Level
-IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
-IBM,Dynamics 365 CE Support Specialist,Multiple Cities,Entry Level
-IBM,Software Engineer – Watsonx Data Platform,Multiple Cities,Entry Level
-IBM,Entry Level Associate Data Engineer,Canada             	      ,Entry Level
-IBM,Associate Quality Engineer - Automation,Canada             	      ,Entry Level
-IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,2026 Intern Conversion,Multiple Cities,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Application Developer- DevOps,Czechia             	,Entry Level
-IBM,Software Test Automation,Mexico             	      ,Entry Level
-IBM,Associate FullStack Developer,Belgium             	         ,Entry Level
-IBM,Linux on IBM Z & LinuxONE Systems Performance Analyst (m/f/x),Germany                                                           ,Entry Level
-IBM,Associate Application Developer-AWS Cloud FullStack,Singapore             	      ,Entry Level
-IBM,PC Board Design and Layout Engineer,Mexico             	      ,Entry Level
+IBM,Associate Package Consultant 2026 – Workday,Multiple Cities,Entry Level
+IBM,Associate System Engineer,Multiple Cities,Entry Level
+IBM,Associate Business Transformation Consultant 2026 – IBM Technology and Red Hat,Multiple Cities,Entry Level
 Accenture,CPQ Consultant - Financial Services,Various locations,Mid-Level
 Accenture,Epic SSIS Developer 6211270,Various locations,Mid-Level
 Accenture,CPQ Manager - Financial Services,Various locations,Senior Level
