@@ -12,36 +12,6 @@ IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Gradua
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Package Consultant,Multiple Cities,Entry Level
-IBM,Associate Security Specialist - 2026,Multiple Cities,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Functions/Project Manager),Thailand             	      ,Entry Level
-IBM,Associate Application Developer 2026 – Salesforce,Multiple Cities,Entry Level
-IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
-IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
-IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Associate Application Developer – Strategy and Transformation,Multiple Cities,Entry Level
-IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
-IBM,2026 Intern Conversion,Multiple Cities,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Software Test Automation,Mexico             	      ,Entry Level
-IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
@@ -96,11 +66,41 @@ IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
 IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Package Consultant,Multiple Cities,Entry Level
+IBM,Associate Security Specialist - 2026,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Functions/Project Manager),Thailand             	      ,Entry Level
+IBM,Associate Application Developer 2026 – Salesforce,Multiple Cities,Entry Level
+IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
+IBM,"Federal Associate Quality Engineer Tester (Rocket Center, WV)",US,Entry Level
+IBM,Associate Business Transformation Consultant 2026 – Data Services,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate Application Developer – Strategy and Transformation,Multiple Cities,Entry Level
+IBM,Java Developer - Japanese Bilingual,Philippines             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist-SOC 보안관제,Korea                       	      ,Entry Level
+IBM,2026 Intern Conversion,Multiple Cities,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Software Test Automation,Mexico             	      ,Entry Level
+IBM,"Associate Security Consultant-Intelligence & Operations (Makati, Philippines)",Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
@@ -126,11 +126,11 @@ Accenture,IAM HxGN EAM Solution Architect,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Oracle PPM Manager,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
-Accenture,Global Innovation and Industry Research Lead for GCP,Various locations,Senior Level
-Accenture,Global Life Sciences Lead for GCP,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,Global CFO and Enterprise Value Technology Lead for GCP,Various locations,Senior Level
+Accenture,"Senior Manager - Finance AI & Data Strategy, Banking & Capital Markets",Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Software & Platforms),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (CGRT),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Utilities),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Life Sciences),Various locations,Senior Level
 Accenture,CFO & EV Indirect Tax Senior Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
@@ -138,11 +138,11 @@ Accenture,IAM HxGN EAM Solution Architect,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Oracle PPM Manager,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
-Accenture,Global Innovation and Industry Research Lead for GCP,Various locations,Senior Level
-Accenture,Global Life Sciences Lead for GCP,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,Global CFO and Enterprise Value Technology Lead for GCP,Various locations,Senior Level
+Accenture,"Senior Manager - Finance AI & Data Strategy, Banking & Capital Markets",Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Software & Platforms),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (CGRT),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Utilities),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Life Sciences),Various locations,Senior Level
 Accenture,CFO & EV Indirect Tax Senior Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
@@ -150,11 +150,11 @@ Accenture,IAM HxGN EAM Solution Architect,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Oracle PPM Manager,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
-Accenture,Global Innovation and Industry Research Lead for GCP,Various locations,Senior Level
-Accenture,Global Life Sciences Lead for GCP,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,Global CFO and Enterprise Value Technology Lead for GCP,Various locations,Senior Level
+Accenture,"Senior Manager - Finance AI & Data Strategy, Banking & Capital Markets",Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Software & Platforms),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (CGRT),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Utilities),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Life Sciences),Various locations,Senior Level
 Accenture,CFO & EV Indirect Tax Senior Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
 Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
@@ -162,8 +162,8 @@ Accenture,IAM HxGN EAM Solution Architect,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
 Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
 Accenture,Oracle PPM Manager,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Manager,Various locations,Senior Level
-Accenture,Global Innovation and Industry Research Lead for GCP,Various locations,Senior Level
-Accenture,Global Life Sciences Lead for GCP,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,Global CFO and Enterprise Value Technology Lead for GCP,Various locations,Senior Level
+Accenture,"Senior Manager - Finance AI & Data Strategy, Banking & Capital Markets",Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Software & Platforms),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (CGRT),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Utilities),Various locations,Senior Level
+Accenture,Senior Manager - Finance AI & Data Strategy (Life Sciences),Various locations,Senior Level
