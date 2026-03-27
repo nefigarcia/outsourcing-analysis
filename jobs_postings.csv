@@ -49,12 +49,12 @@ IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Cloud Engineer - Entry Level,Canada             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Functions/Project Manager),Thailand             	      ,Entry Level
 IBM,Storage ISV Partner Engineer,Multiple Cities,Entry Level
@@ -79,16 +79,16 @@ IBM,Business Analyst-ADM,Multiple Cities,Entry Level
 IBM,IBM Consulting Associates: Java Developer - Japanese Bilingual (Fresh Graduates),Philippines             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Analyst),Singapore             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Cloud Engineer - Entry Level,Canada             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Functions/Project Manager),Thailand             	      ,Entry Level
 IBM,Storage ISV Partner Engineer,Multiple Cities,Entry Level
 IBM,Firmware and Backend Developer,Mexico             	      ,Entry Level
-IBM,Cloud Engineer - Entry Level,Canada             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
 IBM,Jr. Resident Technology Consultant - Entry Level Sales Program,Multiple Cities,Entry Level
@@ -119,15 +119,51 @@ IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Business Fu
 IBM,Storage ISV Partner Engineer,Multiple Cities,Entry Level
 IBM,Firmware and Backend Developer,Mexico             	      ,Entry Level
 IBM,Cloud Engineer - Entry Level,Canada             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Design Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,Telecommunications Strategy Manager,Various locations,Senior Level
+Accenture,Telecommunications Strategy Senior Manager,Various locations,Senior Level
+Accenture,Corporate Communications CEO Positioning Manager,Various locations,Senior Level
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,"Organization Change Manager, Utilities",Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,Oracle General Ledger Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Advisory Manager (Utilities),Various locations,Senior Level
+Accenture,Telecommunications Strategy Manager,Various locations,Senior Level
+Accenture,Telecommunications Strategy Senior Manager,Various locations,Senior Level
+Accenture,Corporate Communications CEO Positioning Manager,Various locations,Senior Level
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,"Organization Change Manager, Utilities",Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,Oracle General Ledger Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Advisory Manager (Utilities),Various locations,Senior Level
+Accenture,Telecommunications Strategy Manager,Various locations,Senior Level
+Accenture,Telecommunications Strategy Senior Manager,Various locations,Senior Level
+Accenture,Corporate Communications CEO Positioning Manager,Various locations,Senior Level
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,"Organization Change Manager, Utilities",Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,Oracle General Ledger Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Advisory Manager (Utilities),Various locations,Senior Level
+Accenture,Telecommunications Strategy Manager,Various locations,Senior Level
+Accenture,Telecommunications Strategy Senior Manager,Various locations,Senior Level
+Accenture,Corporate Communications CEO Positioning Manager,Various locations,Senior Level
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,"Organization Change Manager, Utilities",Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Manager,Various locations,Senior Level
+Accenture,Health Engagement and Experience - Revenue Cycle Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Principal Director,Various locations,Senior Level
+Accenture,Oracle General Ledger Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Advisory Manager (Utilities),Various locations,Senior Level
