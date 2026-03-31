@@ -1,11 +1,11 @@
 Company,Role,Country,Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Business Analyst-ADM,Multiple Cities,Entry Level
@@ -21,44 +21,14 @@ IBM,Backend software developer,Mexico             	      ,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Multiple Cities,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Package Consultant,Multiple Cities,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
 IBM,Process Innovation Professional-Service Operations (Product Expert),Poland             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,"Graduate/Associate Security Consultant-Security Strategy, Risk & Compliance Services",Multiple Cities,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,Graduate Platform Engineer (entry-level role),Multiple Cities,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Backend software developer,Mexico             	      ,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Graduate/Associate Application Developer -EAI,Multiple Cities,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Package Consultant,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
-IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
-IBM,Process Innovation Professional-Service Operations (Product Expert),Poland             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
@@ -119,47 +89,81 @@ IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
 IBM,Process Innovation Professional-Service Operations (Product Expert),Poland             	      ,Entry Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
-Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
-Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
-Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
-Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
-Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
-Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
-Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
-Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
-Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
-Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer-Cloud FullStack,India             	      ,Entry Level
+IBM,"Graduate/Associate Security Consultant-Security Strategy, Risk & Compliance Services",Multiple Cities,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Sales Development Representative - Federal Government,Canada             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,Graduate Platform Engineer (entry-level role),Multiple Cities,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Backend software developer,Mexico             	      ,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Multiple Cities,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Package Consultant,Multiple Cities,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
+IBM,Process Innovation Professional-Service Operations (Product Expert),Poland             	      ,Entry Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,SAP Delivery Excellence Manager - Mid-Market (Private Cloud),Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148246,"Chicago, IL",Mid-Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
+Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
+Accenture,AI Native Software Engineer,Various locations,Mid-Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Consumer Goods,Various locations,Senior Level
+Accenture,Marketing Measurement Software Sales Director,Various locations,Senior Level
+Accenture,Accenture Billing & Payments (ABPE) Sales Director - USA,Various locations,Senior Level
+Accenture,Product Management Associate Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,SAP Delivery Excellence Manager - Mid-Market (Private Cloud),Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148246,"Chicago, IL",Mid-Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
+Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
+Accenture,AI Native Software Engineer,Various locations,Mid-Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Consumer Goods,Various locations,Senior Level
+Accenture,Marketing Measurement Software Sales Director,Various locations,Senior Level
+Accenture,Accenture Billing & Payments (ABPE) Sales Director - USA,Various locations,Senior Level
+Accenture,Product Management Associate Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,SAP Delivery Excellence Manager - Mid-Market (Private Cloud),Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148246,"Chicago, IL",Mid-Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
+Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
+Accenture,AI Native Software Engineer,Various locations,Mid-Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Consumer Goods,Various locations,Senior Level
+Accenture,Marketing Measurement Software Sales Director,Various locations,Senior Level
+Accenture,Accenture Billing & Payments (ABPE) Sales Director - USA,Various locations,Senior Level
+Accenture,Product Management Associate Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - PSA (Professional Services Automation),Various locations,Mid-Level
+Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
+Accenture,SAP Delivery Excellence Manager - Mid-Market (Private Cloud),Various locations,Senior Level
+Accenture,Full Stack Java Developer 6148246,"Chicago, IL",Mid-Level
+Accenture,Full Stack Java Developer 6148245,"Chicago, IL",Mid-Level
+Accenture,"CPQ Consultant - Comms, Media, & Tech",Various locations,Mid-Level
+Accenture,AI Native Software Engineer,Various locations,Mid-Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Consumer Goods,Various locations,Senior Level
+Accenture,Marketing Measurement Software Sales Director,Various locations,Senior Level
+Accenture,Accenture Billing & Payments (ABPE) Sales Director - USA,Various locations,Senior Level
+Accenture,Product Management Associate Manager,Various locations,Mid-Level
