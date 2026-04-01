@@ -1,6 +1,7 @@
 Company,Role,Country,Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
@@ -9,7 +10,6 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,"Graduate/Associate Security Consultant-Security Strategy, Risk & Compliance Services",Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
@@ -61,6 +61,7 @@ IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,Associate Application Developer-AWS Cloud Fullstack,Thailand             	      ,Entry Level
@@ -69,7 +70,6 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,"Graduate/Associate Security Consultant-Security Strategy, Risk & Compliance Services",Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
@@ -122,6 +122,8 @@ IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Payments Banking Consultant,Various locations,Mid-Level
 Accenture,Payments Technical Architect - Sr Manager,Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Life Sciences",Various locations,Senior Level
@@ -129,11 +131,11 @@ Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Sen
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Issues Management - Americas,Various locations,Mid-Level
 Accenture,AI & Marketing Transformation Lead,Various locations,Senior Level
-Accenture,Agentic Commerce Manager | Consumer Goods & Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance & Supply Chain) - Consumer Goods,Various locations,Senior Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Payments Banking Consultant,Various locations,Mid-Level
 Accenture,Payments Technical Architect - Sr Manager,Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Life Sciences",Various locations,Senior Level
@@ -141,11 +143,11 @@ Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Sen
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Issues Management - Americas,Various locations,Mid-Level
 Accenture,AI & Marketing Transformation Lead,Various locations,Senior Level
-Accenture,Agentic Commerce Manager | Consumer Goods & Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance & Supply Chain) - Consumer Goods,Various locations,Senior Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Payments Banking Consultant,Various locations,Mid-Level
 Accenture,Payments Technical Architect - Sr Manager,Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Life Sciences",Various locations,Senior Level
@@ -153,11 +155,11 @@ Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Sen
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Issues Management - Americas,Various locations,Mid-Level
 Accenture,AI & Marketing Transformation Lead,Various locations,Senior Level
-Accenture,Agentic Commerce Manager | Consumer Goods & Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance & Supply Chain) - Consumer Goods,Various locations,Senior Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Payments Banking Consultant,Various locations,Mid-Level
 Accenture,Payments Technical Architect - Sr Manager,Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Management Consulting Senior Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech R&D, Technology Consulting Senior Manager",Various locations,Senior Level
 Accenture,Life Sciences Supply Chain and Manufacturing Transformation Principal Director,Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Consumer Goods & Services",Various locations,Senior Level
 Accenture,"Enterprise Architect Senior Manager, Life Sciences",Various locations,Senior Level
@@ -165,5 +167,3 @@ Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Sen
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Issues Management - Americas,Various locations,Mid-Level
 Accenture,AI & Marketing Transformation Lead,Various locations,Senior Level
-Accenture,Agentic Commerce Manager | Consumer Goods & Retail,Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance & Supply Chain) - Consumer Goods,Various locations,Senior Level
