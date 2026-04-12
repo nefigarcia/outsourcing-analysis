@@ -1,5 +1,65 @@
 Company,Role,Country,Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Backend software developer,Mexico             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Central Storage Site Reliability Engineer,US,Entry Level
+IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,Business Analyst-ADM,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Backend software developer,Mexico             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
+IBM,Central Storage Site Reliability Engineer,US,Entry Level
+IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
@@ -55,115 +115,55 @@ IBM,Sourcing Professional,Brazil             	      ,Entry Level
 IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
-IBM,Central Storage Site Reliability Engineer,US,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Backend software developer,Mexico             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
-IBM,Central Storage Site Reliability Engineer,US,Entry Level
-IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,Business Analyst-ADM,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Backend software developer,Mexico             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
 Accenture,JD Edwards & Infor Solutions Architect - Manufacturing / Supply Chain*,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Talent Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Energy or Chem/Nat Resources,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
 Accenture,Oracle Utilities Integration Lead - WACS & CCS,Various locations,Senior Level
 Accenture,IBM Mainframe Modernization Solution Architect,Various locations,Senior Level
 Accenture,Oracle PPM Consultant,Various locations,Mid-Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
+Accenture,AV Tech Support Analyst - (SELECT) - Chicago,"Chicago, IL",Early Career
 Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
-Accenture,Software & Platforms Strategy Manager,Various locations,Senior Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Accessibility Coach - 5860272,Various locations,Mid-Level
-Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,FIS Systematic ALS (Lending SME) - 6250693,Various locations,Senior Level
 Accenture,JD Edwards & Infor Solutions Architect - Manufacturing / Supply Chain*,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Talent Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Energy or Chem/Nat Resources,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
 Accenture,Oracle Utilities Integration Lead - WACS & CCS,Various locations,Senior Level
 Accenture,IBM Mainframe Modernization Solution Architect,Various locations,Senior Level
 Accenture,Oracle PPM Consultant,Various locations,Mid-Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
+Accenture,AV Tech Support Analyst - (SELECT) - Chicago,"Chicago, IL",Early Career
 Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
-Accenture,Software & Platforms Strategy Manager,Various locations,Senior Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Accessibility Coach - 5860272,Various locations,Mid-Level
-Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,FIS Systematic ALS (Lending SME) - 6250693,Various locations,Senior Level
 Accenture,JD Edwards & Infor Solutions Architect - Manufacturing / Supply Chain*,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Talent Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Energy or Chem/Nat Resources,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
 Accenture,Oracle Utilities Integration Lead - WACS & CCS,Various locations,Senior Level
 Accenture,IBM Mainframe Modernization Solution Architect,Various locations,Senior Level
 Accenture,Oracle PPM Consultant,Various locations,Mid-Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
+Accenture,AV Tech Support Analyst - (SELECT) - Chicago,"Chicago, IL",Early Career
 Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
-Accenture,Software & Platforms Strategy Manager,Various locations,Senior Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Accessibility Coach - 5860272,Various locations,Mid-Level
-Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,FIS Systematic ALS (Lending SME) - 6250693,Various locations,Senior Level
 Accenture,JD Edwards & Infor Solutions Architect - Manufacturing / Supply Chain*,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Talent Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - Energy or Chem/Nat Resources,Various locations,Senior Level
+Accenture,HR Transformation Strategy Manager/Senior Manager - High Tech,Various locations,Senior Level
 Accenture,Oracle Utilities Integration Lead - WACS & CCS,Various locations,Senior Level
 Accenture,IBM Mainframe Modernization Solution Architect,Various locations,Senior Level
 Accenture,Oracle PPM Consultant,Various locations,Mid-Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
+Accenture,AV Tech Support Analyst - (SELECT) - Chicago,"Chicago, IL",Early Career
 Accenture,AWS Amazon Connect Sales Architect,Various locations,Senior Level
-Accenture,Software & Platforms Strategy Manager,Various locations,Senior Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Accessibility Coach - 5860272,Various locations,Mid-Level
-Accenture,Strategy Manager or Senior Manager - Utilities Industry aligned,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,FIS Systematic ALS (Lending SME) - 6250693,Various locations,Senior Level
