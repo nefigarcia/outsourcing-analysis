@@ -40,14 +40,14 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
 IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Backend software developer,Mexico             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -59,7 +59,6 @@ IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -70,6 +69,7 @@ IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Backend software developer,Mexico             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
@@ -89,7 +89,6 @@ IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -100,14 +99,15 @@ IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Backend software developer,Mexico             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -119,51 +119,47 @@ IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Customer Experience CCAAS Technology Lead,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Customer Experience/Service Technology Business Consultant,Various locations,Mid-Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
-Accenture,UKG Advanced Scheduler Retail Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Manager,Various locations,Senior Level
-Accenture,Financial Crime Consulting Senior Manager - Finance Risk Compliance,Various locations,Senior Level
-Accenture,Sales Capture - Oracle Cloud Infrastructure (OCI),Various locations,Senior Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Customer Experience CCAAS Technology Lead,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Customer Experience/Service Technology Business Consultant,Various locations,Mid-Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
-Accenture,UKG Advanced Scheduler Retail Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Manager,Various locations,Senior Level
-Accenture,Financial Crime Consulting Senior Manager - Finance Risk Compliance,Various locations,Senior Level
-Accenture,Sales Capture - Oracle Cloud Infrastructure (OCI),Various locations,Senior Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Customer Experience CCAAS Technology Lead,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Customer Experience/Service Technology Business Consultant,Various locations,Mid-Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
-Accenture,UKG Advanced Scheduler Retail Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Manager,Various locations,Senior Level
-Accenture,Financial Crime Consulting Senior Manager - Finance Risk Compliance,Various locations,Senior Level
-Accenture,Sales Capture - Oracle Cloud Infrastructure (OCI),Various locations,Senior Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Customer Experience CCAAS Technology Lead,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Customer Experience/Service Technology Business Consultant,Various locations,Mid-Level
-Accenture,Value-Based Care Principal Director,Various locations,Senior Level
-Accenture,Cyber Security Mid Market Sales Account Executive,Various locations,Senior Level
-Accenture,SAP Platform Security Consultant,Various locations,Mid-Level
-Accenture,UKG Advanced Scheduler Retail Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Manager,Various locations,Senior Level
-Accenture,Financial Crime Consulting Senior Manager - Finance Risk Compliance,Various locations,Senior Level
-Accenture,Sales Capture - Oracle Cloud Infrastructure (OCI),Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,Life Sciences R&D Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Intercompany Sr. Manager - Consumer Goods,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
