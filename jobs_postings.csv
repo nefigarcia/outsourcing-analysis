@@ -73,13 +73,13 @@ IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,Backend software developer,Mexico             	      ,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Sales Development Representative - Select - Data & AI,US,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Backend software developer,Mexico             	      ,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
@@ -89,10 +89,6 @@ IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Package Consultant-SAP HANA SCM SD,India             	      ,Entry Level
@@ -100,6 +96,10 @@ IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant
 IBM,Associate Package Specialist 2026- Business Applications,Multiple Cities,Entry Level
 IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"Associate Consultant - Public Market, Hybrid Cloud & Data 2026",Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
@@ -123,7 +123,6 @@ Accenture,"Organizational Change Manager, Utilities",Various locations,Senior Le
 Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
 Accenture,Regional Sales Vice President (Senior Manager) - East*,Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
-Accenture,Case Study Facilitator Senior Analyst - 6156522,Various locations,Early Career
 Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
 Accenture,Data Tester (Python) - 6254091,Various locations,Early Career
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
@@ -131,11 +130,11 @@ Accenture,Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
 Accenture,Technology Sales Capture Lead - AMS,Various locations,Senior Level
 Accenture,Tech Sales Capture - Google Cloud,Various locations,Senior Level
+Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
 Accenture,"Organizational Change Manager, Utilities",Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
 Accenture,Regional Sales Vice President (Senior Manager) - East*,Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
-Accenture,Case Study Facilitator Senior Analyst - 6156522,Various locations,Early Career
 Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
 Accenture,Data Tester (Python) - 6254091,Various locations,Early Career
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
@@ -143,11 +142,11 @@ Accenture,Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
 Accenture,Technology Sales Capture Lead - AMS,Various locations,Senior Level
 Accenture,Tech Sales Capture - Google Cloud,Various locations,Senior Level
+Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
 Accenture,"Organizational Change Manager, Utilities",Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
 Accenture,Regional Sales Vice President (Senior Manager) - East*,Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
-Accenture,Case Study Facilitator Senior Analyst - 6156522,Various locations,Early Career
 Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
 Accenture,Data Tester (Python) - 6254091,Various locations,Early Career
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
@@ -155,11 +154,11 @@ Accenture,Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
 Accenture,Technology Sales Capture Lead - AMS,Various locations,Senior Level
 Accenture,Tech Sales Capture - Google Cloud,Various locations,Senior Level
+Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
 Accenture,"Organizational Change Manager, Utilities",Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
 Accenture,Regional Sales Vice President (Senior Manager) - East*,Various locations,Senior Level
 Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
-Accenture,Case Study Facilitator Senior Analyst - 6156522,Various locations,Early Career
 Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
 Accenture,Data Tester (Python) - 6254091,Various locations,Early Career
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
@@ -167,3 +166,4 @@ Accenture,Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
 Accenture,Technology Sales Capture Lead - AMS,Various locations,Senior Level
 Accenture,Tech Sales Capture - Google Cloud,Various locations,Senior Level
+Accenture,Deployment Lead - Mainframe Modernization,Various locations,Senior Level
