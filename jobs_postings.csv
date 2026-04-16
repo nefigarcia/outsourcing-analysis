@@ -82,13 +82,13 @@ IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
-IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
 IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
@@ -119,51 +119,43 @@ IBM,Central Storage Site Reliability Engineer,US,Entry Level
 IBM,Quality Engineering 2026- Test_Specialist,US,Entry Level
 IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
-Accenture,Global High Tech Lead for Google Cloud Platform,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
-Accenture,Agentic Commerce Consultant | Banking,"Chicago, IL",Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Engineer",Various locations,Mid-Level
-Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Manager",Various locations,Senior Level
-Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
-Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
-Accenture,Global High Tech Lead for Google Cloud Platform,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
-Accenture,Agentic Commerce Consultant | Banking,"Chicago, IL",Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Engineer",Various locations,Mid-Level
-Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Manager",Various locations,Senior Level
-Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
-Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
-Accenture,Global High Tech Lead for Google Cloud Platform,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
-Accenture,Agentic Commerce Consultant | Banking,"Chicago, IL",Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Engineer",Various locations,Mid-Level
-Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Manager",Various locations,Senior Level
-Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
-Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
-Accenture,Global High Tech Lead for Google Cloud Platform,Various locations,Senior Level
-Accenture,Global Google Cloud Platform & Independent Software Vendors Technology Lead,Various locations,Senior Level
-Accenture,AI Native Software Engineering Senior Manager - Assoc Director,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Senior Level
-Accenture,Agentic Commerce Consultant | Banking,"Chicago, IL",Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Engineer",Various locations,Mid-Level
-Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
-Accenture,"Trading, Investment & Optimization - QuantAI Manager",Various locations,Senior Level
-Accenture,Salesforce Revenue(CPQ) Cloud Functional Architect - CMT,Various locations,Senior Level
-Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
+Accenture,SAP Intercompany Manager - Consumer Goods,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Consumer Goods,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Consumer Goods,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Consumer Goods,Various locations,Senior Level
+Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
+Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
+Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
+Accenture,SAP EWM Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Transportation Management Consultant - Life Sciences,Various locations,Mid-Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
