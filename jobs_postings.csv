@@ -26,9 +26,9 @@ IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
-IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Central Storage Site Reliability Engineer,US,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -60,10 +60,6 @@ IBM,Automotive Product Expert - Process Innovation Professional,Poland          
 IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -74,6 +70,10 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,Application Developer-IT Service Management,India             	      ,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Entry Level Development Support,Mexico             	      ,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
@@ -104,9 +104,6 @@ IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -115,10 +112,13 @@ IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Central Storage Site Reliability Engineer,US,Entry Level
-IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
+IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
 Accenture,Song Sales Capture Lead - Marketing (Senior Manager),Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
@@ -127,10 +127,10 @@ Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Epic Revenue Cycle Hospital Billing Team Analyst 6258199,Various locations,Early Career
 Accenture,HealthRules Medicare Provider Sr Manager,Various locations,Senior Level
 Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Mid-Level
-Accenture,Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26,Various locations,Early Career
-Accenture,Forward Deployed Engineer (FDE) Analyst - NAELFY26,Various locations,Early Career
-Accenture,IT Customer Service Representative - Chicago,"Chicago, IL",Early Career
 Accenture,Workday Certified Time Tracking/Absence/Scheduling Consultant,Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence/Scheduling Lead - H&PS,Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Creative Agency Senior Copywriter,Various locations,Mid-Level
 Accenture,Song Sales Capture Lead - Marketing (Senior Manager),Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
@@ -139,10 +139,10 @@ Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Epic Revenue Cycle Hospital Billing Team Analyst 6258199,Various locations,Early Career
 Accenture,HealthRules Medicare Provider Sr Manager,Various locations,Senior Level
 Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Mid-Level
-Accenture,Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26,Various locations,Early Career
-Accenture,Forward Deployed Engineer (FDE) Analyst - NAELFY26,Various locations,Early Career
-Accenture,IT Customer Service Representative - Chicago,"Chicago, IL",Early Career
 Accenture,Workday Certified Time Tracking/Absence/Scheduling Consultant,Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence/Scheduling Lead - H&PS,Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Creative Agency Senior Copywriter,Various locations,Mid-Level
 Accenture,Song Sales Capture Lead - Marketing (Senior Manager),Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
@@ -151,10 +151,10 @@ Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Epic Revenue Cycle Hospital Billing Team Analyst 6258199,Various locations,Early Career
 Accenture,HealthRules Medicare Provider Sr Manager,Various locations,Senior Level
 Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Mid-Level
-Accenture,Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26,Various locations,Early Career
-Accenture,Forward Deployed Engineer (FDE) Analyst - NAELFY26,Various locations,Early Career
-Accenture,IT Customer Service Representative - Chicago,"Chicago, IL",Early Career
 Accenture,Workday Certified Time Tracking/Absence/Scheduling Consultant,Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence/Scheduling Lead - H&PS,Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Creative Agency Senior Copywriter,Various locations,Mid-Level
 Accenture,Song Sales Capture Lead - Marketing (Senior Manager),Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
 Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
@@ -163,7 +163,7 @@ Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Epic Revenue Cycle Hospital Billing Team Analyst 6258199,Various locations,Early Career
 Accenture,HealthRules Medicare Provider Sr Manager,Various locations,Senior Level
 Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Mid-Level
-Accenture,Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst - NAELFY26,Various locations,Early Career
-Accenture,Forward Deployed Engineer (FDE) Analyst - NAELFY26,Various locations,Early Career
-Accenture,IT Customer Service Representative - Chicago,"Chicago, IL",Early Career
 Accenture,Workday Certified Time Tracking/Absence/Scheduling Consultant,Various locations,Mid-Level
+Accenture,Workday Certified Time Tracking/Absence/Scheduling Lead - H&PS,Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Creative Agency Senior Copywriter,Various locations,Mid-Level
