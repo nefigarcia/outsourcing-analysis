@@ -1,5 +1,9 @@
 Company,Role,Country,Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -10,10 +14,9 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,Application Developer-IT Service Management,India             	      ,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -22,9 +25,6 @@ IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
 IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
@@ -44,6 +44,9 @@ IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -52,9 +55,6 @@ IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
 IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
@@ -74,6 +74,9 @@ IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -82,9 +85,6 @@ IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
 IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
@@ -104,6 +104,9 @@ IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multi
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Entry Level Development Support,Mexico             	      ,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
@@ -112,58 +115,55 @@ IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry Level Development Support,Mexico             	      ,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Central Storage Site Reliability Engineer,US,Entry Level
-IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
+IBM,Domain Education Portal Developer,Canada             	      ,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
 Accenture,Dell Business Group Global CTO,Various locations,Senior Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
-Accenture,Treasury Senior Analyst,"Chicago, IL",Early Career
 Accenture,Manhattan/Supply Chain Lead,Various locations,Mid-Level
 Accenture,SAP GTS Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
 Accenture,Kinaxis Planning Solution Consultant,Various locations,Mid-Level
 Accenture,Agentic DevOps Lead,Various locations,Senior Level
 Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
 Accenture,Dell Business Group Global CTO,Various locations,Senior Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
-Accenture,Treasury Senior Analyst,"Chicago, IL",Early Career
 Accenture,Manhattan/Supply Chain Lead,Various locations,Mid-Level
 Accenture,SAP GTS Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
 Accenture,Kinaxis Planning Solution Consultant,Various locations,Mid-Level
 Accenture,Agentic DevOps Lead,Various locations,Senior Level
 Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
 Accenture,Dell Business Group Global CTO,Various locations,Senior Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
-Accenture,Treasury Senior Analyst,"Chicago, IL",Early Career
 Accenture,Manhattan/Supply Chain Lead,Various locations,Mid-Level
 Accenture,SAP GTS Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
 Accenture,Kinaxis Planning Solution Consultant,Various locations,Mid-Level
 Accenture,Agentic DevOps Lead,Various locations,Senior Level
 Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
 Accenture,Dell Business Group Global CTO,Various locations,Senior Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
 Accenture,SAP Transportation Management/WM Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP S/4 Process Integration Lead (CS&S) - Utilities Industry,Various locations,Senior Level
-Accenture,Treasury Senior Analyst,"Chicago, IL",Early Career
 Accenture,Manhattan/Supply Chain Lead,Various locations,Mid-Level
 Accenture,SAP GTS Consultant - Chemicals Industry,Various locations,Mid-Level
 Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
 Accenture,Kinaxis Planning Solution Consultant,Various locations,Mid-Level
 Accenture,Agentic DevOps Lead,Various locations,Senior Level
 Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP EWM Manager - Industrial,Various locations,Senior Level
