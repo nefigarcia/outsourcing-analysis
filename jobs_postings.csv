@@ -1,6 +1,36 @@
 Company,Role,Country,Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
+IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
+IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Application Developer-IT Service Management,India             	      ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Associate Developer 2026,Multiple Cities,Entry Level
+IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
+IBM,Associate Hacker 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
@@ -54,36 +84,6 @@ IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,Central Storage Site Reliability Engineer,US,Entry Level
-IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
-IBM,Sales Development Representative- Infrastructure,Multiple Cities,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
-IBM,Associate Hacker 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Application Developer-IT Service Management,India             	      ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
@@ -91,13 +91,10 @@ IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Storage Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,"Associate Data Scientist (f,m,x)",Multiple Cities,Entry Level
@@ -105,6 +102,11 @@ IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entr
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
+IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
+IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -112,46 +114,56 @@ IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,"Associate Application Consultant - AWS Cloud (f,m,x)",Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Associate Developer 2026,Multiple Cities,Entry Level
 IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Mid-Level
+Accenture,Forward Deployed Engineer (FDE) Sr Analyst,Various locations,Early Career
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Connected Solutions Manhattan Supply Chain Mid-Market Lead Qualification,Various locations,Early Career
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
+Accenture,Banking Product Owner Senior Principal,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
-Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Consultant,Various locations,Mid-Level
+Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Mid-Level
+Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Mid-Level
+Accenture,Forward Deployed Engineer (FDE) Sr Analyst,Various locations,Early Career
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Connected Solutions Manhattan Supply Chain Mid-Market Lead Qualification,Various locations,Early Career
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
+Accenture,Banking Product Owner Senior Principal,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
-Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Consultant,Various locations,Mid-Level
+Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Mid-Level
+Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Mid-Level
+Accenture,Forward Deployed Engineer (FDE) Sr Analyst,Various locations,Early Career
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Connected Solutions Manhattan Supply Chain Mid-Market Lead Qualification,Various locations,Early Career
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
+Accenture,Banking Product Owner Senior Principal,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
-Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Senior Level
-Accenture,Life Sciences R&D Technology Consulting Senior Manager,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Consultant,Various locations,Mid-Level
+Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Mid-Level
+Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Mid-Level
+Accenture,Forward Deployed Engineer (FDE) Sr Analyst,Various locations,Early Career
+Accenture,Epic Mychart Associate Manager - 6146647,Various locations,Mid-Level
+Accenture,Connected Solutions Manhattan Supply Chain Mid-Market Lead Qualification,Various locations,Early Career
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Icertis CLM Management Consulting Consultant - Manager,Various locations,Mid-Level
+Accenture,Banking Product Owner Senior Principal,Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Strategy Manager - Utilities Industry aligned,Various locations,Senior Level
 Accenture,Utilities Industry Consultant/CIS transformation,Various locations,Mid-Level
-Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Senior Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Consultant,Various locations,Mid-Level
+Accenture,Strategist | Sales Reinvention | Utilities,Various locations,Mid-Level
+Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Mid-Level
