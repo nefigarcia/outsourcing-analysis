@@ -1,14 +1,13 @@
 Company,Role,Country,Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
 IBM,Associate Hacker 2026,Multiple Cities,Entry Level
 IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
@@ -16,6 +15,7 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
@@ -56,36 +56,6 @@ IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
 IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,"ELH Site Reliability Engineer Lowell, SVL, Austin",Multiple Cities,Entry Level
-IBM,Associate Hacker 2026,Multiple Cities,Entry Level
-IBM,Technical Project Manager – Core Software Center of Excellence - ELH,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Data Engineer 2026- Data Integration,Multiple Cities,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,QA / Test Automation for SW Storage Products - Junior,Mexico             	      ,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
-IBM,Application Developer-IT Service Management,India             	      ,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
 IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
 IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
@@ -106,20 +76,20 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,Application Developer-IT Service Management,India             	      ,Entry Level
 IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,Software Developer 2026 ELH,Multiple Cities,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Associate Developer 2026,Multiple Cities,Entry Level
-Accenture,Stability Lab Tech - 6232146,"Mountain View, CA",Early Career
+IBM,Package Specialist 2026- Strategy and Transformation- Finance/simpler,Multiple Cities,Entry Level
+IBM,Automotive Product Expert - Process Innovation Professional,Poland             	      ,Entry Level
+IBM,Graduate/Associate Application Developer -EAI,Australia,Entry Level
+Accenture,AS/400 Application Support Engineer,Various locations,Mid-Level
 Accenture,SEO/GEO Marketing Strategy Lead,Various locations,Mid-Level
 Accenture,Senior SEO/GEO Consultant,Various locations,Mid-Level
 Accenture,Risk Consulting Senior Manager,Various locations,Senior Level
@@ -128,10 +98,10 @@ Accenture,Epic Tapestry Application Developer,Various locations,Mid-Level
 Accenture,Epic Resolute Application Developer (Charge Router and Coding Skills) - 6260321,Various locations,Mid-Level
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
+Accenture,Finance Operating Model Strategist - Consultant,"Chicago, IL",Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Senior Manager – Manhattan WMS,Various locations,Senior Level
-Accenture,Stability Lab Tech - 6232146,"Mountain View, CA",Early Career
+Accenture,AS/400 Application Support Engineer,Various locations,Mid-Level
 Accenture,SEO/GEO Marketing Strategy Lead,Various locations,Mid-Level
 Accenture,Senior SEO/GEO Consultant,Various locations,Mid-Level
 Accenture,Risk Consulting Senior Manager,Various locations,Senior Level
@@ -140,10 +110,10 @@ Accenture,Epic Tapestry Application Developer,Various locations,Mid-Level
 Accenture,Epic Resolute Application Developer (Charge Router and Coding Skills) - 6260321,Various locations,Mid-Level
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
+Accenture,Finance Operating Model Strategist - Consultant,"Chicago, IL",Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Senior Manager – Manhattan WMS,Various locations,Senior Level
-Accenture,Stability Lab Tech - 6232146,"Mountain View, CA",Early Career
+Accenture,AS/400 Application Support Engineer,Various locations,Mid-Level
 Accenture,SEO/GEO Marketing Strategy Lead,Various locations,Mid-Level
 Accenture,Senior SEO/GEO Consultant,Various locations,Mid-Level
 Accenture,Risk Consulting Senior Manager,Various locations,Senior Level
@@ -152,10 +122,10 @@ Accenture,Epic Tapestry Application Developer,Various locations,Mid-Level
 Accenture,Epic Resolute Application Developer (Charge Router and Coding Skills) - 6260321,Various locations,Mid-Level
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
+Accenture,Finance Operating Model Strategist - Consultant,"Chicago, IL",Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Senior Manager – Manhattan WMS,Various locations,Senior Level
-Accenture,Stability Lab Tech - 6232146,"Mountain View, CA",Early Career
+Accenture,AS/400 Application Support Engineer,Various locations,Mid-Level
 Accenture,SEO/GEO Marketing Strategy Lead,Various locations,Mid-Level
 Accenture,Senior SEO/GEO Consultant,Various locations,Mid-Level
 Accenture,Risk Consulting Senior Manager,Various locations,Senior Level
@@ -164,6 +134,6 @@ Accenture,Epic Tapestry Application Developer,Various locations,Mid-Level
 Accenture,Epic Resolute Application Developer (Charge Router and Coding Skills) - 6260321,Various locations,Mid-Level
 Accenture,Marketing Transformation & Operating Model Reinvention Lead,Various locations,Senior Level
 Accenture,Contracting Counsel Senior Manager,Various locations,Senior Level
+Accenture,Finance Operating Model Strategist - Consultant,"Chicago, IL",Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
-Accenture,Supply Chain and Operations Consulting – Senior Manager – Manhattan WMS,Various locations,Senior Level
