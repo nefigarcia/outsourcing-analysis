@@ -1,94 +1,4 @@
 Company,Role,Country,Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Linux Kernel developer,Ireland             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Salesforce Consulting & GTM Associate (September 2026 - Toronto),Canada             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,UI Developer,Multiple Cities,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
-IBM,Graduate/Associate Package Consultant – SAP IS (other industries),Multiple Cities,Entry Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Linux Kernel developer,Ireland             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Salesforce Consulting & GTM Associate (September 2026 - Toronto),Canada             	      ,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,UI Developer,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Linux Kernel developer,Ireland             	      ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Salesforce Consulting & GTM Associate (September 2026 - Toronto),Canada             	      ,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Application Developer 2026- Salesforce,US,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,UI Developer,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
 IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -119,6 +29,66 @@ IBM,UI Developer,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Linux Kernel developer,Ireland             	      ,Entry Level
+IBM,Project Manager,Canada             	      ,Entry Level
+IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Salesforce Consulting & GTM Associate (September 2026 - Toronto),Canada             	      ,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,UI Developer,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
+IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Linux Kernel developer,Ireland             	      ,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Salesforce Consulting & GTM Associate (September 2026 - Toronto),Canada             	      ,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Application Developer 2026- Salesforce,US,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,UI Developer,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
 Accenture,Workday Certified Financials SCM/P2P Lead – Government,Various locations,Mid-Level
 Accenture,Anaplan Mid Market Lead Qualification Specialist,Various locations,Mid-Level
 Accenture,Coupa Mid Market Lead Qualification Specialist,Various locations,Mid-Level
