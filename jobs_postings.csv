@@ -26,18 +26,18 @@ IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore  
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Graduate/Associate Package Consultant – SAP IS (other industries),Multiple Cities,Entry Level
 IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
-IBM,Associate Security Specialist - 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
 IBM,Linux Kernel developer,Ireland             	      ,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
@@ -60,14 +60,14 @@ IBM,Graduate/Associate Package Consultant – SAP IS (other industries),Multiple
 IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
 IBM,Linux Kernel developer,Ireland             	      ,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Associate Consultant 2026 - Business Applications,Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,QA/Test Developer - Junior,Mexico             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
@@ -116,42 +116,54 @@ IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore  
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Graduate/Associate Package Consultant – SAP IS (other industries),Multiple Cities,Entry Level
 IBM,Associate Application Developer 2026,Multiple Cities,Entry Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
+IBM,Associate Security Specialist - 2026,Multiple Cities,Entry Level
+Accenture,PCP Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Oracle Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Azure Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,GCP Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,AWS Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Director of Infrastructure Engineering - Udacity,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
+Accenture,"Oracle HCM Integrated Talent - Recruiting, Talent & Learn Consultant",Various locations,Mid-Level
+Accenture,Oracle HCM Core HR & Compensation Consultant,Various locations,Mid-Level
+Accenture,Oracle HCM Time and Labor Consultant,Various locations,Mid-Level
 Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Early Career
-Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Senior Level
-Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
-Accenture,Utilities Power Generation Consultant,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
+Accenture,PCP Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Oracle Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Azure Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,GCP Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,AWS Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Director of Infrastructure Engineering - Udacity,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
+Accenture,"Oracle HCM Integrated Talent - Recruiting, Talent & Learn Consultant",Various locations,Mid-Level
+Accenture,Oracle HCM Core HR & Compensation Consultant,Various locations,Mid-Level
+Accenture,Oracle HCM Time and Labor Consultant,Various locations,Mid-Level
 Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Early Career
-Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Senior Level
-Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
-Accenture,Utilities Power Generation Consultant,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
+Accenture,PCP Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Oracle Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Azure Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,GCP Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,AWS Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Director of Infrastructure Engineering - Udacity,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
+Accenture,"Oracle HCM Integrated Talent - Recruiting, Talent & Learn Consultant",Various locations,Mid-Level
+Accenture,Oracle HCM Core HR & Compensation Consultant,Various locations,Mid-Level
+Accenture,Oracle HCM Time and Labor Consultant,Various locations,Mid-Level
 Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Early Career
-Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Senior Level
-Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
-Accenture,Utilities Power Generation Consultant,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
+Accenture,PCP Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Oracle Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Azure Pre Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,GCP Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,AWS Sales Engineer - Data & AI,Various locations,Senior Level
+Accenture,Director of Infrastructure Engineering - Udacity,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Telecommunications & Media Consulting Senior Manager,Various locations,Senior Level
+Accenture,"Oracle HCM Integrated Talent - Recruiting, Talent & Learn Consultant",Various locations,Mid-Level
+Accenture,Oracle HCM Core HR & Compensation Consultant,Various locations,Mid-Level
+Accenture,Oracle HCM Time and Labor Consultant,Various locations,Mid-Level
 Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Early Career
-Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Senior Level
-Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
-Accenture,Utilities Power Generation Consultant,Various locations,Mid-Level
