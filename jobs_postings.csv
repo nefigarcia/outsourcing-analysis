@@ -1,6 +1,36 @@
 Company,Role,Country,Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Quantum Lab Engineer,US,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Product Marketing Manager -Z Software,US,Entry Level
+IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
@@ -61,40 +91,10 @@ IBM,Product Marketing Manager -Z Software,US,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,AI Foundations - Research Co-Op,Multiple Cities,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Quantum Lab Engineer,US,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Product Marketing Manager -Z Software,US,Entry Level
-IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -119,39 +119,51 @@ IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Product Marketing Manager -Z Software,US,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
+Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
-Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Senior Manager,Various locations,Mid-Level
-Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
+Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
+Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
-Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Senior Manager,Various locations,Mid-Level
-Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
+Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
+Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
-Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Senior Manager,Various locations,Mid-Level
-Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Mid-Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
+Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
+Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
-Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Senior Manager,Various locations,Mid-Level
-Accenture,Content Automation and GenAI - Consulting and Delivery Manager,Various locations,Mid-Level
+Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
