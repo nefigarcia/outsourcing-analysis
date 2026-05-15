@@ -1,10 +1,10 @@
 Company,Role,Country,Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -89,12 +89,12 @@ IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	
 IBM,Graduate Customer Success Manager (entry-level role),Australia,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Storage Technology Consultant - IBM Expert Labs (f/m/x),Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -119,39 +119,51 @@ IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	
 IBM,Graduate Customer Success Manager (entry-level role),Australia,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
-Accenture,Palantir Forward Deployed Engineer,Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
 Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
 Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
-Accenture,Palantir Forward Deployed Engineer,Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
 Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
 Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
-Accenture,Palantir Forward Deployed Engineer,Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
 Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
 Accenture,Data & AI Technology Sales Director (Snowflake or Databricks),Various locations,Senior Level
-Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Senior Level
-Accenture,Palantir Forward Deployed Engineer,Various locations,Senior Level
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,B2B Marketing Strategy Director - Resources (Oil & Gas),Various locations,Senior Level
 Accenture,SAP Order to Cash Senior Manager - CMT,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Resources,Various locations,Senior Level
+Accenture,Oracle Technology Sales Director - Financial Services,Various locations,Senior Level
+Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
+Accenture,Home Equity Loan Processor,Various locations,Early Career
+Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Sales & Commerce Consulting Manager | Lead to Cash | Industrials,Various locations,Senior Level
