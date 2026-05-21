@@ -1,11 +1,11 @@
 Company,Role,Country,Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
@@ -25,10 +25,10 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Software developer - Intern conversion,Canada             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
+IBM,Software developer - Intern conversion,Canada             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -61,11 +61,11 @@ IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
@@ -85,17 +85,17 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Software developer - Intern conversion,Canada             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
+IBM,Software developer - Intern conversion,Canada             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
@@ -119,23 +119,51 @@ IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
 IBM,Software developer - Intern conversion,Canada             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Early Career
+Accenture,Design Lead,Various locations,Mid-Level
+Accenture,Programmatic Media Manager,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Health Strategy Manager,Various locations,Senior Level
+Accenture,Sr. Observability Engineer,Various locations,Senior Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Corporate Financial Strategy and Business Manager,Various locations,Senior Level
+Accenture,Workday Certified Time Tracking/Absence Lead - H&PS,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
+Accenture,Design Lead,Various locations,Mid-Level
+Accenture,Programmatic Media Manager,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Health Strategy Manager,Various locations,Senior Level
+Accenture,Sr. Observability Engineer,Various locations,Senior Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Corporate Financial Strategy and Business Manager,Various locations,Senior Level
+Accenture,Workday Certified Time Tracking/Absence Lead - H&PS,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
+Accenture,Design Lead,Various locations,Mid-Level
+Accenture,Programmatic Media Manager,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Health Strategy Manager,Various locations,Senior Level
+Accenture,Sr. Observability Engineer,Various locations,Senior Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Corporate Financial Strategy and Business Manager,Various locations,Senior Level
+Accenture,Workday Certified Time Tracking/Absence Lead - H&PS,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
+Accenture,Design Lead,Various locations,Mid-Level
+Accenture,Programmatic Media Manager,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Health Strategy Manager,Various locations,Senior Level
+Accenture,Sr. Observability Engineer,Various locations,Senior Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Corporate Financial Strategy and Business Manager,Various locations,Senior Level
+Accenture,Workday Certified Time Tracking/Absence Lead - H&PS,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center Manager,Various locations,Senior Level
+Accenture,Salesforce Revenue(CPQ) Cloud Technical Architect - CMT,Various locations,Senior Level
+Accenture,Workday Certified Financials Adaptive Lead/Manager,Various locations,Mid-Level
