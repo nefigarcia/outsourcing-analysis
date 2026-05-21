@@ -40,6 +40,36 @@ IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,RF/Microwave Design Engineer,US,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Procurement Entry Level Hire,US,Entry Level
+IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,【2026校招】客户成功经理(深圳),China             	      ,Entry Level
+IBM,【2026校招】客户成功经理(广州),China             	      ,Entry Level
+IBM,2026 IBM Consulting Associates - Security Consultant,Korea                       	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Application Developer- DevOps,Czechia             	,Entry Level
+IBM,Client Engineering Platform Engineer,Czechia             	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,RF/Microwave Design Engineer,US,Entry Level
 IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -47,8 +77,8 @@ IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry L
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
 IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
@@ -80,78 +110,60 @@ IBM,Sourcing Professional,Brazil             	      ,Entry Level
 IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Procurement Entry Level Hire,US,Entry Level
+IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,【2026校招】客户成功经理(深圳),China             	      ,Entry Level
 IBM,【2026校招】客户成功经理(广州),China             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Security Consultant,Korea                       	      ,Entry Level
-IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Application Developer- DevOps,Czechia             	,Entry Level
 IBM,Client Engineering Platform Engineer,Czechia             	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,RF/Microwave Design Engineer,US,Entry Level
-IBM,Associate Package Consultant 2026 - Adobe Experience Manager,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Application Consultant - AWS Cloud (m/w/d),Multiple Cities,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,Back-End Developer for Tape Storage,Mexico             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,【2026校招】客户成功经理(深圳),China             	      ,Entry Level
-IBM,【2026校招】客户成功经理(广州),China             	      ,Entry Level
-IBM,2026 IBM Consulting Associates - Security Consultant,Korea                       	      ,Entry Level
-IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Procurement Entry Level Hire,US,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Application Developer- DevOps,Czechia             	,Entry Level
-IBM,Client Engineering Platform Engineer,Czechia             	,Entry Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Retail Banking Senior Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
 Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Design Lead,Various locations,Mid-Level
 Accenture,Programmatic Media Manager,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
-Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Retail Banking Senior Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
 Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Design Lead,Various locations,Mid-Level
 Accenture,Programmatic Media Manager,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
-Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Retail Banking Senior Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
 Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Design Lead,Various locations,Mid-Level
 Accenture,Programmatic Media Manager,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
-Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Senior Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,Observability Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Retail Banking Senior Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
+Accenture,Responsible AI Engineer,Various locations,Mid-Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
 Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Design Lead,Various locations,Mid-Level
 Accenture,Programmatic Media Manager,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
-Accenture,Sunquest Information System (LIS) Analyst 6116802,Various locations,Senior Level
+Accenture,Observability Engineer,Various locations,Mid-Level
