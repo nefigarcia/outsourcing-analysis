@@ -1,9 +1,9 @@
 Company,Role,Country,Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -29,11 +29,11 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -59,11 +59,11 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -121,6 +121,7 @@ IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 Accenture,Asset Management Consultant,Various locations,Mid-Level
 Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI – Engagement Lead | Pharmaceuticals / Life Sciences,Various locations,Senior Level
 Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
@@ -129,10 +130,10 @@ Accenture,Retail Banking Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
 Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Responsible AI Engineer,Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
 Accenture,Asset Management Consultant,Various locations,Mid-Level
 Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI – Engagement Lead | Pharmaceuticals / Life Sciences,Various locations,Senior Level
 Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
@@ -141,10 +142,10 @@ Accenture,Retail Banking Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
 Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Responsible AI Engineer,Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
 Accenture,Asset Management Consultant,Various locations,Mid-Level
 Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI – Engagement Lead | Pharmaceuticals / Life Sciences,Various locations,Senior Level
 Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
@@ -153,10 +154,10 @@ Accenture,Retail Banking Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
 Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Responsible AI Engineer,Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
 Accenture,Asset Management Consultant,Various locations,Mid-Level
 Accenture,Financial Services Sales Transformation Lead Senior Manager,Various locations,Senior Level
+Accenture,Content Automation and GenAI – Engagement Lead | Pharmaceuticals / Life Sciences,Various locations,Senior Level
 Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
 Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
@@ -165,5 +166,4 @@ Accenture,Retail Banking Senior Manager,Various locations,Senior Level
 Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
 Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Responsible AI Engineer,Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
-Accenture,Epic Certified Clinical Inpatient and Stork Analyst 5944556,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
