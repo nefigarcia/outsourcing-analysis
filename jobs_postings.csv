@@ -1,4 +1,5 @@
 Company,Role,Country,Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -6,7 +7,6 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -29,6 +29,7 @@ IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand    
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -36,7 +37,6 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -89,7 +89,6 @@ IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand    
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -97,6 +96,7 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,Storage Site Test Automation Engineer,Mexico             	      ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -118,7 +118,7 @@ IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation,Thailand             	      ,Entry Level
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
 Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
 Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
