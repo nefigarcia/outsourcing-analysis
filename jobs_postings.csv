@@ -21,12 +21,12 @@ IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 mon
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Consulting Associate - 2026,Ireland             	      ,Entry Level
 IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -119,23 +119,51 @@ IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Procurement Entry Level Hire,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Digital Imaging PACS Administrator 6116810,Various locations,Early Career
+Accenture,Digital Imaging Radiology PACS Administrator 6116808,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
+Accenture,^Technical Program Manager and Quality Analyst - 6314910,"Arlington, VA",Mid-Level
+Accenture,SAP Platform Security Senior Manager - Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,DevOps Engineer (Azure & OCI) - 6250785,"Arlington, VA",Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Oracle Cloud Security Manager,Various locations,Senior Level
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Digital Imaging PACS Administrator 6116810,Various locations,Early Career
+Accenture,Digital Imaging Radiology PACS Administrator 6116808,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
+Accenture,^Technical Program Manager and Quality Analyst - 6314910,"Arlington, VA",Mid-Level
+Accenture,SAP Platform Security Senior Manager - Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,DevOps Engineer (Azure & OCI) - 6250785,"Arlington, VA",Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Oracle Cloud Security Manager,Various locations,Senior Level
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Digital Imaging PACS Administrator 6116810,Various locations,Early Career
+Accenture,Digital Imaging Radiology PACS Administrator 6116808,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
+Accenture,^Technical Program Manager and Quality Analyst - 6314910,"Arlington, VA",Mid-Level
+Accenture,SAP Platform Security Senior Manager - Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,DevOps Engineer (Azure & OCI) - 6250785,"Arlington, VA",Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Oracle Cloud Security Manager,Various locations,Senior Level
+Accenture,Oracle Utilities Functional Consultant - WACS,Various locations,Mid-Level
+Accenture,Talent Strategy Manager/Senior Manager - Banking/Capital Markets,Various locations,Senior Level
+Accenture,Digital Imaging PACS Administrator 6116810,Various locations,Early Career
+Accenture,Digital Imaging Radiology PACS Administrator 6116808,Various locations,Early Career
+Accenture,Talent Strategy Manager/Senior Manager - Energy or Chemicals/Natural Resources,Various locations,Senior Level
+Accenture,^Technical Program Manager and Quality Analyst - 6314910,"Arlington, VA",Mid-Level
+Accenture,SAP Platform Security Senior Manager - Manager,Various locations,Senior Level
+Accenture,SAP Supply Chain Consultant - Mid-Market (Private Cloud),Various locations,Mid-Level
+Accenture,DevOps Engineer (Azure & OCI) - 6250785,"Arlington, VA",Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Oracle Cloud Security Manager,Various locations,Senior Level
