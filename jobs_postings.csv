@@ -1,11 +1,71 @@
 Company,Role,Country,Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,Quality Engineer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
+IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Sourcing Professional,Brazil             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,Quality Engineer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -53,101 +113,57 @@ IBM,Java Jumpstart @ IBM (m/w/d),Germany                                        
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Supply Chain Security Specialist,US,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,Quality Engineer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Supply Chain Security Specialist,US,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Quality Engineer - Student Conversion,Mexico             	      ,Entry Level
 IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
 IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Sourcing Professional,Brazil             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Supply Chain Security Specialist,US,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,2026 IBM Consulting Associates - Data Engineer,Korea                       	      ,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,IBMz Hardware Remote Technical Support,Bulgaria             	              ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,Quality Engineer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Epic Certified Grand Central Analyst 6088038,Various locations,Early Career
 Accenture,Certified OnBase AMS Support Senior Analyst 6317729,Various locations,Early Career
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Products",Various locations,Senior Level
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Financial Services",Various locations,Senior Level
+Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
+Accenture,Cybersecurity Service Now Alliance Business Origination Lead,Various locations,Senior Level
+Accenture,Creative Producer,Various locations,Senior Level
+Accenture,M&A Senior Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Infrastructure Management / Datacenter Solutions Architect *,Various locations,Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Epic Certified Grand Central Analyst 6088038,Various locations,Early Career
 Accenture,Certified OnBase AMS Support Senior Analyst 6317729,Various locations,Early Career
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Products",Various locations,Senior Level
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Financial Services",Various locations,Senior Level
+Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
+Accenture,Cybersecurity Service Now Alliance Business Origination Lead,Various locations,Senior Level
+Accenture,Creative Producer,Various locations,Senior Level
+Accenture,M&A Senior Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Infrastructure Management / Datacenter Solutions Architect *,Various locations,Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Epic Certified Grand Central Analyst 6088038,Various locations,Early Career
 Accenture,Certified OnBase AMS Support Senior Analyst 6317729,Various locations,Early Career
-Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Early Career
-Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Early Career
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Products",Various locations,Senior Level
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Financial Services",Various locations,Senior Level
+Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
+Accenture,Cybersecurity Service Now Alliance Business Origination Lead,Various locations,Senior Level
+Accenture,Creative Producer,Various locations,Senior Level
+Accenture,M&A Senior Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Infrastructure Management / Datacenter Solutions Architect *,Various locations,Mid-Level
+Accenture,Technology Development Program (TDP) – Artificial Intelligence Analyst - NAELFY26,Various locations,Early Career
+Accenture,Marketing Services Campaign Manager - Adobe Journey Optimizer,Various locations,Mid-Level
 Accenture,Epic Certified Grand Central Analyst 6088038,Various locations,Early Career
 Accenture,Certified OnBase AMS Support Senior Analyst 6317729,Various locations,Early Career
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Products",Various locations,Senior Level
+Accenture,"Data Engineering, Management & Governance Senior Manager/Associate Director - Financial Services",Various locations,Senior Level
+Accenture,ICM Consultant-- Manager Anaplan and Varicent,Various locations,Mid-Level
+Accenture,Cybersecurity Service Now Alliance Business Origination Lead,Various locations,Senior Level
+Accenture,Creative Producer,Various locations,Senior Level
+Accenture,M&A Senior Manager,Various locations,Senior Level
+Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
+Accenture,Infrastructure Management / Datacenter Solutions Architect *,Various locations,Mid-Level
