@@ -2,41 +2,11 @@ Company,Role,Country,Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Junior Java Developer (fresh graduate),Slovakia             	,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
-IBM,Übernahme in IBM Client Engineering (m/f/x),Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Supply Chain Security Specialist,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Junior Java Developer (fresh graduate),Slovakia             	,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
@@ -119,51 +89,73 @@ IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	    
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Junior Java Developer (fresh graduate),Slovakia             	,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"Enterprise Strategy Consultant Associate (September 2026 - Toronto, Ottawa)",Multiple Cities,Entry Level
+IBM,Übernahme in IBM Client Engineering (m/f/x),Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,UKG Absence Lead,Various locations,Mid-Level
-Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
+Accenture,"Applied AI Engineer, Founding Team",Various locations,Senior Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Senior Level
 Accenture,Portal Product Owner - Life and Annuity Business Unit,Various locations,Senior Level
-Accenture,Red Hat Business Group Americas CTO,Various locations,Senior Level
-Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Senior Level
-Accenture,SAP Platform Security Associate Manager,Various locations,Mid-Level
-Accenture,Salesforce Life Science Technology Lead,Various locations,Mid-Level
-Accenture,Salesforce Life Science Patient Service Delivery Lead,Various locations,Senior Level
-Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Experience Strategy Senior Manager,Various locations,Senior Level
-Accenture,Visual Design Associate Manager,Various locations,Mid-Level
+Accenture,Red Hat Business Group Americas CTO,Various locations,Mid-Level
+Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Mid-Level
+Accenture,SAP Platform Security Associate Manager,Various locations,Senior Level
+Accenture,Salesforce Life Science Technology Lead,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,UKG Absence Lead,Various locations,Mid-Level
-Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
+Accenture,"Applied AI Engineer, Founding Team",Various locations,Senior Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Senior Level
 Accenture,Portal Product Owner - Life and Annuity Business Unit,Various locations,Senior Level
-Accenture,Red Hat Business Group Americas CTO,Various locations,Senior Level
-Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Senior Level
-Accenture,SAP Platform Security Associate Manager,Various locations,Mid-Level
-Accenture,Salesforce Life Science Technology Lead,Various locations,Mid-Level
-Accenture,Salesforce Life Science Patient Service Delivery Lead,Various locations,Senior Level
-Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Experience Strategy Senior Manager,Various locations,Senior Level
-Accenture,Visual Design Associate Manager,Various locations,Mid-Level
+Accenture,Red Hat Business Group Americas CTO,Various locations,Mid-Level
+Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Mid-Level
+Accenture,SAP Platform Security Associate Manager,Various locations,Senior Level
+Accenture,Salesforce Life Science Technology Lead,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,UKG Absence Lead,Various locations,Mid-Level
-Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
+Accenture,"Applied AI Engineer, Founding Team",Various locations,Senior Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Senior Level
 Accenture,Portal Product Owner - Life and Annuity Business Unit,Various locations,Senior Level
-Accenture,Red Hat Business Group Americas CTO,Various locations,Senior Level
-Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Senior Level
-Accenture,SAP Platform Security Associate Manager,Various locations,Mid-Level
-Accenture,Salesforce Life Science Technology Lead,Various locations,Mid-Level
-Accenture,Salesforce Life Science Patient Service Delivery Lead,Various locations,Senior Level
-Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Experience Strategy Senior Manager,Various locations,Senior Level
-Accenture,Visual Design Associate Manager,Various locations,Mid-Level
+Accenture,Red Hat Business Group Americas CTO,Various locations,Mid-Level
+Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Mid-Level
+Accenture,SAP Platform Security Associate Manager,Various locations,Senior Level
+Accenture,Salesforce Life Science Technology Lead,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,UKG Absence Lead,Various locations,Mid-Level
-Accenture,"Applied AI Engineer, Founding Team",Various locations,Mid-Level
-Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Mid-Level
+Accenture,"Applied AI Engineer, Founding Team",Various locations,Senior Level
+Accenture,Senior Epic Cadence Application Developer - 6234726,Various locations,Senior Level
 Accenture,Portal Product Owner - Life and Annuity Business Unit,Various locations,Senior Level
-Accenture,Red Hat Business Group Americas CTO,Various locations,Senior Level
-Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Senior Level
-Accenture,SAP Platform Security Associate Manager,Various locations,Mid-Level
-Accenture,Salesforce Life Science Technology Lead,Various locations,Mid-Level
-Accenture,Salesforce Life Science Patient Service Delivery Lead,Various locations,Senior Level
-Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Experience Strategy Senior Manager,Various locations,Senior Level
-Accenture,Visual Design Associate Manager,Various locations,Mid-Level
+Accenture,Red Hat Business Group Americas CTO,Various locations,Mid-Level
+Accenture,Data & AI FS Offering Lead & Practitioner (WatsonX&Orchestrate),Various locations,Mid-Level
+Accenture,SAP Platform Security Associate Manager,Various locations,Senior Level
+Accenture,Salesforce Life Science Technology Lead,Various locations,Senior Level
