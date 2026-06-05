@@ -6,6 +6,36 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,zOS Technical Support Professional,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
+IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -57,38 +87,8 @@ IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	    
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,zOS Technical Support Professional,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Supply Chain Security Specialist,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,Procurement Entry Level Hire,US,Entry Level
-IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
+IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
 IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
 IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -96,10 +96,10 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,Quality Engineer-Automation,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
@@ -119,35 +119,23 @@ IBM,Client Engineer Sales Associate,Spain                                   ,Ent
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Infrastructure & Network Security Response & Recovery Lead,Various locations,Early Career
-Accenture,Epic Certified Willow Senior Analyst 5944599,Various locations,Early Career
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Infrastructure & Network Security Response & Recovery Lead,Various locations,Early Career
-Accenture,Epic Certified Willow Senior Analyst 5944599,Various locations,Early Career
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Infrastructure & Network Security Response & Recovery Lead,Various locations,Early Career
-Accenture,Epic Certified Willow Senior Analyst 5944599,Various locations,Early Career
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Health and Safety Manager (Bi-Lingual English/Español),ANS",Various locations,Mid-Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Infrastructure & Network Security Response & Recovery Lead,Various locations,Early Career
-Accenture,Epic Certified Willow Senior Analyst 5944599,Various locations,Early Career
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Project Manager - Distribution Center/Warehouse Project and Construction Planning, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
