@@ -28,6 +28,36 @@ IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	    
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
+IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
+IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
+IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
+IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Quality Engineer-Automation,India             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,zOS Technical Support Professional,US,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Software Developer 2026,Multiple Cities,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
 IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -36,36 +66,6 @@ IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Mult
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Quality Engineer-Automation,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,zOS Technical Support Professional,US,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
-IBM,Supply Chain Security Specialist,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Software Developer 2026,Multiple Cities,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Entry Level Oracle Package Specialist 2026,Multiple Cities,Entry Level
-IBM,Associate AI & Analytics – Data Scientist-Finance Transformation 2026,Multiple Cities,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
-IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -110,12 +110,60 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Client Engineer Sales Associate,Spain                                   ,Entry Level
-IBM,Client Engineering Sales Associate - IBM CEE,Czechia             	,Entry Level
+IBM,Procurement Entry Level Hire,US,Entry Level
+Accenture,Connected Solutions Mid Market Sales Engineer (T&O),Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Senior Design Lead,Various locations,Senior Level
+Accenture,Mid Market Connected Solutions Sales Account Executive (Anaplan),Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Lead,Various locations,Mid-Level
+Accenture,Workforce Software (WFS) Consultant/Functional Architect,Various locations,Mid-Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6334801,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
+Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Early Career
+Accenture,Connected Solutions Mid Market Sales Engineer (T&O),Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Senior Design Lead,Various locations,Senior Level
+Accenture,Mid Market Connected Solutions Sales Account Executive (Anaplan),Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Lead,Various locations,Mid-Level
+Accenture,Workforce Software (WFS) Consultant/Functional Architect,Various locations,Mid-Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6334801,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
+Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Early Career
+Accenture,Connected Solutions Mid Market Sales Engineer (T&O),Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Senior Design Lead,Various locations,Senior Level
+Accenture,Mid Market Connected Solutions Sales Account Executive (Anaplan),Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Lead,Various locations,Mid-Level
+Accenture,Workforce Software (WFS) Consultant/Functional Architect,Various locations,Mid-Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6334801,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
+Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Early Career
+Accenture,Connected Solutions Mid Market Sales Engineer (T&O),Various locations,Mid-Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Senior Design Lead,Various locations,Senior Level
+Accenture,Mid Market Connected Solutions Sales Account Executive (Anaplan),Various locations,Senior Level
+Accenture,Industry X – Life Sciences Digital Manufacturing Manager,Various locations,Senior Level
+Accenture,Ivalua Technical Lead,Various locations,Mid-Level
+Accenture,Workforce Software (WFS) Consultant/Functional Architect,Various locations,Mid-Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6334801,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
+Accenture,Epic Certified Clinical Inpatient (Orders/Bugsy) Senior Analyst 5944610,Various locations,Early Career
+Accenture,Epic Certified Hospital Billing (Charge Router) Senior Analyst 5944607,Various locations,Early Career
+Accenture,Epic Certified ASAP (Emergency Department) Analyst 5944597,Various locations,Early Career
