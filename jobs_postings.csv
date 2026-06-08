@@ -5,21 +5,21 @@ IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Subscription Annuity Representative,Canada             	      ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Associate Application Developer AWS 2026 - FutureNow - Chicago,US,Entry Level
-IBM,zOS Technical Support Professional,US,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (including 18 months in IBM Spain, Valencia)",Luxembourg             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,zOS Technical Support Professional,US,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
@@ -74,12 +74,12 @@ IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (inc
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,zOS Technical Support Professional,US,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
@@ -104,12 +104,12 @@ IBM,"IBM Sales Accelerator Program: Storage Sales Specialist for Luxembourg (inc
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,Associate Application Developer (Early Career) - Future Now,US,Entry Level
 IBM,zOS Technical Support Professional,US,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Supply Chain Security Specialist,US,Entry Level
+IBM,Java Jumpstart @ IBM (m/w/d),Germany                                                           ,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
@@ -119,51 +119,43 @@ IBM,Procurement Entry Level Hire,US,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,"SAP Consultant Associate (September 2026 - Montreal, Toronto, Ottawa)",Multiple Cities,Entry Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Portfolio Dispositioning Associate Manager,Various locations,Mid-Level
-Accenture,Agentic DevOps Engineer,Various locations,Mid-Level
+Accenture,Portfolio Dispositioning Associate Manager,Various locations,Senior Level
+Accenture,Agentic DevOps Engineer,Various locations,Senior Level
 Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
-Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Senior Level
+Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Mid-Level
 Accenture,Blue Yonder TMS (Transportation Management) Solution Architect - Senior Manager (Hi-Tech Industry),Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
 Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Designer,Various locations,Early Career
-Accenture,Industry X - Engineering Consulting Senior Manager - Functional Lead (Engineering & PLM),Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Portfolio Dispositioning Associate Manager,Various locations,Mid-Level
-Accenture,Agentic DevOps Engineer,Various locations,Mid-Level
+Accenture,Portfolio Dispositioning Associate Manager,Various locations,Senior Level
+Accenture,Agentic DevOps Engineer,Various locations,Senior Level
 Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
-Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Senior Level
+Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Mid-Level
 Accenture,Blue Yonder TMS (Transportation Management) Solution Architect - Senior Manager (Hi-Tech Industry),Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
 Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Designer,Various locations,Early Career
-Accenture,Industry X - Engineering Consulting Senior Manager - Functional Lead (Engineering & PLM),Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Portfolio Dispositioning Associate Manager,Various locations,Mid-Level
-Accenture,Agentic DevOps Engineer,Various locations,Mid-Level
+Accenture,Portfolio Dispositioning Associate Manager,Various locations,Senior Level
+Accenture,Agentic DevOps Engineer,Various locations,Senior Level
 Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
-Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Senior Level
+Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Mid-Level
 Accenture,Blue Yonder TMS (Transportation Management) Solution Architect - Senior Manager (Hi-Tech Industry),Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
 Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Designer,Various locations,Early Career
-Accenture,Industry X - Engineering Consulting Senior Manager - Functional Lead (Engineering & PLM),Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,Cloud Advisory Product Engineer,Various locations,Mid-Level
-Accenture,Portfolio Dispositioning Associate Manager,Various locations,Mid-Level
-Accenture,Agentic DevOps Engineer,Various locations,Mid-Level
+Accenture,Portfolio Dispositioning Associate Manager,Various locations,Senior Level
+Accenture,Agentic DevOps Engineer,Various locations,Senior Level
 Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
-Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Senior Level
+Accenture,Blue Yonder TMS (Transportation Management) Functional Architect - Manager (Consumer Goods Industry),Various locations,Mid-Level
 Accenture,Blue Yonder TMS (Transportation Management) Solution Architect - Senior Manager (Hi-Tech Industry),Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Mid-Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
 Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Designer,Various locations,Early Career
-Accenture,Industry X - Engineering Consulting Senior Manager - Functional Lead (Engineering & PLM),Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
