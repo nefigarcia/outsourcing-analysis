@@ -4,12 +4,12 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
@@ -28,7 +28,7 @@ IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Leve
 IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,2026 Intern Conversion,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
@@ -94,12 +94,12 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
@@ -118,44 +118,52 @@ IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Leve
 IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Early Career
-Accenture,Knowledge Engineer Specialist,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
-Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Senior Level
-Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Senior Level
+IBM,2026 Intern Conversion,Multiple Cities,Entry Level
+Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP FSCM (Credit/Collections/Disputes) Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Early Career
-Accenture,Knowledge Engineer Specialist,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
-Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Senior Level
-Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Senior Level
+Accenture,SAP EWM/Manufacturing Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP FSCM (Credit/Collections/Disputes) Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Early Career
-Accenture,Knowledge Engineer Specialist,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
-Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Senior Level
-Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Senior Level
+Accenture,SAP EWM/Manufacturing Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP FSCM (Credit/Collections/Disputes) Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Early Career
-Accenture,Knowledge Engineer Specialist,Various locations,Early Career
-Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
-Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Senior Level
-Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Senior Level
+Accenture,SAP EWM/Manufacturing Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Early Career
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Early Career
 Accenture,SAP Manufacturing Workstream Manager - Automotive,Various locations,Senior Level
 Accenture,SAP FSCM (Credit/Collections/Disputes) Manager - Life Sciences,Various locations,Senior Level
 Accenture,SAP Transportation Management Manager - Industrial,Various locations,Senior Level
 Accenture,Executive Creative Director,Various locations,Senior Level
+Accenture,SAP EWM/Manufacturing Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Aerospace & Defense,Various locations,Senior Level
+Accenture,SAP Order to Cash Manager - Life Sciences,Various locations,Senior Level
+Accenture,SAP Supply Chain/Logistics Manager - Retail,Various locations,Senior Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
