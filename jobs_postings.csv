@@ -64,9 +64,9 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -94,9 +94,9 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -119,31 +119,39 @@ IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,2026 Intern Conversion,Multiple Cities,Entry Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,AI Native Software Engineer,Various locations,Senior Level
-Accenture,Wealth Management Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,AI Native Software Engineer,Various locations,Senior Level
-Accenture,Wealth Management Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,AI Native Software Engineer,Various locations,Senior Level
-Accenture,Wealth Management Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,AI Native Software Engineer,Various locations,Senior Level
-Accenture,Wealth Management Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager l Consumer Goods & Retail,Various locations,Early Career
+Accenture,"Agentic Commerce Senior Manager | Comms, Media, & Technology",Various locations,Early Career
+Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Mid-Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager l Consumer Goods & Retail,Various locations,Early Career
+Accenture,"Agentic Commerce Senior Manager | Comms, Media, & Technology",Various locations,Early Career
+Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Mid-Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager l Consumer Goods & Retail,Various locations,Early Career
+Accenture,"Agentic Commerce Senior Manager | Comms, Media, & Technology",Various locations,Early Career
+Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Mid-Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager l Consumer Goods & Retail,Various locations,Early Career
+Accenture,"Agentic Commerce Senior Manager | Comms, Media, & Technology",Various locations,Early Career
+Accenture,Icertis CLM Management Consulting Manager - Senior Manager,Various locations,Mid-Level
+Accenture,Epic Certified Cupid Analyst 5944592,Various locations,Mid-Level
+Accenture,Epic Certified Professional Billing Analyst 6135586,Various locations,Mid-Level
+Accenture,SAP IS-U Billing & Rates Lead - Utilities Industry,Various locations,Mid-Level
