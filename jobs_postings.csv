@@ -52,12 +52,12 @@ IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -82,12 +82,12 @@ IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Client Voice Strategist,Brazil             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
@@ -119,8 +119,6 @@ IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
 IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Digital Assets Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
 Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
@@ -128,9 +126,11 @@ Accenture,Digital Assets Principal Director,Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
 Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,"Technology Strategy Manager, Health",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
+Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
 Accenture,Digital Assets Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
 Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
@@ -138,9 +138,11 @@ Accenture,Digital Assets Principal Director,Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
 Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,"Technology Strategy Manager, Health",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
+Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
 Accenture,Digital Assets Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
 Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
@@ -148,9 +150,11 @@ Accenture,Digital Assets Principal Director,Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
 Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,"Technology Strategy Manager, Health",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
+Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
 Accenture,Digital Assets Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
 Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
@@ -158,4 +162,8 @@ Accenture,Digital Assets Principal Director,Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
 Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
 Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Mid-Level
+Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
+Accenture,"Technology Strategy Manager, Health",Various locations,Senior Level
+Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
+Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
+Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
