@@ -5,36 +5,6 @@ IBM,Delivery Consultant,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
-IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Software Developer 2026,Multiple Cities,Entry Level
-IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
-IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
-IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
-IBM,Client Voice Strategist,Brazil             	      ,Entry Level
-IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
-IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
-IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
-IBM,Delivery Consultant,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
@@ -55,10 +25,10 @@ IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
 IBM,Delivery Consultant,Multiple Cities,Entry Level
@@ -85,10 +55,10 @@ IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
 IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
 IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
@@ -109,6 +79,36 @@ IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,Software Developer 2026,Multiple Cities,Entry Level
 IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
+IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
+IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Delivery Consultant Data,Saudi Arabia       ,Entry Level
+IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
+IBM,Client Voice Strategist,Brazil             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Application Developer 2026- Azure Cloud Migration,US,Entry Level
+IBM,2026 IBM HK Consulting Associates Program - Business & Technology Consultant,Hong                                                           	,Entry Level
+IBM,Delivery Consultant,Multiple Cities,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Delivery Consultant Integration,Saudi Arabia       ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,Client Engineering Sales Associate- AI Engineer - IBM Italy,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Belgium             	         ,Entry Level
+IBM,Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Business Automation - Delivery Consultant,Multiple Cities,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Software Developer 2026,Multiple Cities,Entry Level
+IBM,Associate Data Scientist-Artificial Intelligence,Singapore             	      ,Entry Level
 IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
 IBM,Campus Hiring 2026 - Customer Success Manager (Technical / Post-Sales),Hong                                                           	,Entry Level
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (m/f/x),Multiple Cities,Entry Level
@@ -119,51 +119,39 @@ IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Lev
 IBM,Security and Supply Chain Professional,Mexico             	      ,Entry Level
 IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
 IBM,Client Voice Strategist,Brazil             	      ,Entry Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
-Accenture,Digital Assets Principal Director,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
-Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
-Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
-Accenture,Accenture Digital Video Solutions Presales Manager for AVS,Various locations,Senior Level
-Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Early Career
-Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
-Accenture,Digital Assets Principal Director,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
-Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
-Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
-Accenture,Accenture Digital Video Solutions Presales Manager for AVS,Various locations,Senior Level
-Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Early Career
-Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
-Accenture,Digital Assets Principal Director,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
-Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
-Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
-Accenture,Accenture Digital Video Solutions Presales Manager for AVS,Various locations,Senior Level
-Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Early Career
-Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Retirement Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Retirement/Insurance Strategy Manager/Senior Manager,Various locations,Senior Level
-Accenture,Digital Assets Principal Director,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, CG&S, Life Sciences or Industrial",Various locations,Senior Level
-Accenture,Knowledge Engineer / Semantic Expert for AI Sr Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager: Communications, Media and High Tech",Various locations,Senior Level
-Accenture,Data and AI Mid-Market Inside Sales Representative,Various locations,Mid-Level
-Accenture,AWS Agentic Delivery Lead - Americas – LS/FS/CMT,Various locations,Senior Level
-Accenture,Accenture Digital Video Solutions Presales Manager for AVS,Various locations,Senior Level
-Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Early Career
-Accenture,AWS (AABG) Mid-Market Technical Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Mid-Level
+Accenture,Marketing Engagement Associate Manager,Various locations,Senior Level
+Accenture,SAP Order to Cash/Pricing Manager - CMT,Various locations,Senior Level
+Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Senior Level
+Accenture,"SAP CS&S Lead/Associate Director (BRIM, CPQ and VC) - CMT Industry",Various locations,Senior Level
+Accenture,AI Transformation Senior Manager | Retail | Agentic Commerce,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Mid-Level
+Accenture,Marketing Engagement Associate Manager,Various locations,Senior Level
+Accenture,SAP Order to Cash/Pricing Manager - CMT,Various locations,Senior Level
+Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Senior Level
+Accenture,"SAP CS&S Lead/Associate Director (BRIM, CPQ and VC) - CMT Industry",Various locations,Senior Level
+Accenture,AI Transformation Senior Manager | Retail | Agentic Commerce,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Mid-Level
+Accenture,Marketing Engagement Associate Manager,Various locations,Senior Level
+Accenture,SAP Order to Cash/Pricing Manager - CMT,Various locations,Senior Level
+Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Senior Level
+Accenture,"SAP CS&S Lead/Associate Director (BRIM, CPQ and VC) - CMT Industry",Various locations,Senior Level
+Accenture,AI Transformation Senior Manager | Retail | Agentic Commerce,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Epic Certified Home Care Dorothy Analyst 6304732,Various locations,Mid-Level
+Accenture,Marketing Engagement Associate Manager,Various locations,Senior Level
+Accenture,SAP Order to Cash/Pricing Manager - CMT,Various locations,Senior Level
+Accenture,Patient Access Application Coordinator Flex 6202759,Various locations,Senior Level
+Accenture,"SAP CS&S Lead/Associate Director (BRIM, CPQ and VC) - CMT Industry",Various locations,Senior Level
+Accenture,AI Transformation Senior Manager | Retail | Agentic Commerce,Various locations,Early Career
