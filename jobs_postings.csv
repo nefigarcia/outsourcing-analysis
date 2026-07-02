@@ -1,34 +1,4 @@
 Company,Role,Country,Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Consultant z/OS Performance & Résilience,France                                      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Application Developer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
-IBM,Package Specialist Student Conversion,Mexico             	      ,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
@@ -36,36 +6,6 @@ IBM,Entry level Technical Storage Seller - Belgium,Belgium             	        
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Consultant z/OS Performance & Résilience,France                                      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Application Developer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
-IBM,Package Specialist Student Conversion,Mexico             	      ,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
@@ -119,51 +59,87 @@ IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
-Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Consultant z/OS Performance & Résilience,France                                      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Application Developer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
+IBM,Package Specialist Student Conversion,Mexico             	      ,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Consultant z/OS Performance & Résilience,France                                      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Application Developer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
+IBM,Package Specialist Student Conversion,Mexico             	      ,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Senior Salesforce Consultant,Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+Accenture,"Infrastructure & Capital Projects – Junior Associate - Data Center Cost Management, ANS","Phoenix, AZ",Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Junior Associate - Data Center Cost Management, ANS","Phoenix, AZ",Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Junior Associate - Data Center Cost Management, ANS","Phoenix, AZ",Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Junior Associate - Data Center Cost Management, ANS","Phoenix, AZ",Senior Level
+Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
