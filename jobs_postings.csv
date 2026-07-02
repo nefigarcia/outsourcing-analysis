@@ -6,36 +6,6 @@ IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,Associate Consultant 2026 - Finance,US,Entry Level
-IBM,Associate Consultant 2026 - Supply Chain (Materials Management),US,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Quantum Error Correction Control Systems Engineer,Multiple Cities,Entry Level
-IBM,Junior Back-end Developer,Hungary             	      ,Entry Level
-IBM,Identity and Access Management (IAM) Engineer,Belgium             	         ,Entry Level
-IBM,2026 IBM Consulting Associates - Security Consultant,Korea                       	      ,Entry Level
-IBM,Associate Application Developer – Hybrid Cloud and Data,Multiple Cities,Entry Level
-IBM,Storage Test Developer,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,(IJDS デジタル事業部)インフラストラクチャー・セキュリティ・スペシャリスト,Japan             	      ,Entry Level
-IBM,IBM Consulting Associates,Philippines             	      ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
@@ -106,9 +76,9 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Associate Consultant 2026 - Supply Chain (Materials Management),US,Entry Level
 IBM,Associate Consultant 2026 - Finance,US,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Quantum Error Correction Control Systems Engineer,Multiple Cities,Entry Level
 IBM,Junior Back-end Developer,Hungary             	      ,Entry Level
@@ -119,51 +89,69 @@ IBM,Storage Test Developer,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,(IJDS デジタル事業部)インフラストラクチャー・セキュリティ・スペシャリスト,Japan             	      ,Entry Level
 IBM,IBM Consulting Associates,Philippines             	      ,Entry Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Consultant 2026 - Supply Chain (Materials Management),US,Entry Level
+IBM,Associate Consultant 2026 - Finance,US,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Quantum Error Correction Control Systems Engineer,Multiple Cities,Entry Level
+IBM,Junior Back-end Developer,Hungary             	      ,Entry Level
+IBM,Identity and Access Management (IAM) Engineer,Belgium             	         ,Entry Level
+IBM,2026 IBM Consulting Associates - Security Consultant,Korea                       	      ,Entry Level
+IBM,Associate Application Developer – Hybrid Cloud and Data,Multiple Cities,Entry Level
+IBM,Storage Test Developer,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,(IJDS デジタル事業部)インフラストラクチャー・セキュリティ・スペシャリスト,Japan             	      ,Entry Level
+IBM,IBM Consulting Associates,Philippines             	      ,Entry Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
+Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Senior Level
 Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
+Accenture,Epic Certified Health Information Management (HIM) Senior Analyst 5944593,Various locations,Mid-Level
+Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
+Accenture,Tolling Industry Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Tolling Industry Management Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
+Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Senior Level
 Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
+Accenture,Epic Certified Health Information Management (HIM) Senior Analyst 5944593,Various locations,Mid-Level
+Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
+Accenture,Tolling Industry Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Tolling Industry Management Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
+Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Senior Level
 Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
-Accenture,Advanced AI Architect,Various locations,Senior Level
-Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Mid-Level
-Accenture,SAP Delivery Lead - Mid-Market,Various locations,Senior Level
-Accenture,Salesforce Data Cloud & AI Tech Architect (Tech Architecture/Solution Architecture),Various locations,Senior Level
-Accenture,SAP S/4 Process Integration Lead (Finance) - Life Sciences,Various locations,Senior Level
-Accenture,SAP Finance Transformation Senior Manager - Utilities,Various locations,Senior Level
-Accenture,SAP EWM Manager - CMT,Various locations,Senior Level
-Accenture,Executive Creative Director,Various locations,Senior Level
-Accenture,Oracle Batch Lead,Various locations,Mid-Level
-Accenture,SAP Product Costing Senior Manager - Retail,Various locations,Senior Level
+Accenture,Epic Certified Health Information Management (HIM) Senior Analyst 5944593,Various locations,Mid-Level
+Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
+Accenture,Tolling Industry Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Tolling Industry Management Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Early Career
+Accenture,Epic Certified Beacon Consultant 6304718,Various locations,Senior Level
 Accenture,Strategy Senior Manager | Sales Reinvention | Comms & Media,Various locations,Senior Level
-Accenture,Oracle Utilities Tech Arch SME (Oracle Cloud Infrastructure),Various locations,Senior Level
+Accenture,Epic Certified Health Information Management (HIM) Senior Analyst 5944593,Various locations,Mid-Level
+Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
+Accenture,Tolling Industry Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Tolling Industry Management Consultant,Various locations,Senior Level
