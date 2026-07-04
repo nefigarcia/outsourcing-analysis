@@ -1,10 +1,10 @@
 Company,Role,Country,Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
@@ -35,50 +35,20 @@ IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Lev
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Quantum Lab Engineer,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
@@ -95,15 +65,45 @@ IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Quantum Lab Engineer,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Package Consultant-Digital Commerce,Bulgaria             	              ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Cybersecurity Analyst - SOC,Multiple Cities,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -115,39 +115,39 @@ IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
-Accenture,Customer Support Associate,"San Antonio, TX",Early Career
-Accenture,"Infrastructure & Capital Projects – Vice President of Program Delivery, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center SME – Data Centers, ANS","San Antonio, TX",Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,Tolling Industry Management Consulting Principal Director,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consulting Senior Manager,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consultant,"Austin, TX",Senior Level
-Accenture,Customer Support Associate,"San Antonio, TX",Early Career
-Accenture,"Infrastructure & Capital Projects – Vice President of Program Delivery, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center SME – Data Centers, ANS","San Antonio, TX",Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,Tolling Industry Management Consulting Principal Director,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consulting Senior Manager,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consultant,"Austin, TX",Senior Level
-Accenture,Customer Support Associate,"San Antonio, TX",Early Career
-Accenture,"Infrastructure & Capital Projects – Vice President of Program Delivery, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center SME – Data Centers, ANS","San Antonio, TX",Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,Tolling Industry Management Consulting Principal Director,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consulting Senior Manager,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consultant,"Austin, TX",Senior Level
-Accenture,Customer Support Associate,"San Antonio, TX",Early Career
-Accenture,"Infrastructure & Capital Projects – Vice President of Program Delivery, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center SME – Data Centers, ANS","San Antonio, TX",Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,Tolling Industry Management Consulting Principal Director,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consulting Senior Manager,"Austin, TX",Early Career
-Accenture,Tolling Industry Management Consultant,"Austin, TX",Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,API Postman Tester - 6237166,"Arlington, VA",Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,"Arlington, VA",Senior Level
+Accenture,Sales Director - Financial Services - Capital Markets,"Arlington, VA",Mid-Level
+Accenture,Threat Informed Defense Senior Manager,"Arlington, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,API Postman Tester - 6237166,"Arlington, VA",Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,"Arlington, VA",Senior Level
+Accenture,Sales Director - Financial Services - Capital Markets,"Arlington, VA",Mid-Level
+Accenture,Threat Informed Defense Senior Manager,"Arlington, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,API Postman Tester - 6237166,"Arlington, VA",Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,"Arlington, VA",Senior Level
+Accenture,Sales Director - Financial Services - Capital Markets,"Arlington, VA",Mid-Level
+Accenture,Threat Informed Defense Senior Manager,"Arlington, VA",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,API Postman Tester - 6237166,"Arlington, VA",Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,"Arlington, VA",Senior Level
+Accenture,Sales Director - Financial Services - Capital Markets,"Arlington, VA",Mid-Level
+Accenture,Threat Informed Defense Senior Manager,"Arlington, VA",Mid-Level
