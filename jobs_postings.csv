@@ -1,40 +1,10 @@
 Company,Role,Country,Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Quantum Lab Engineer,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
-IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
@@ -44,10 +14,10 @@ IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg          
 IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
@@ -104,6 +74,36 @@ IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg          
 IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
+IBM,Package Consultant-SAP HANA FIN CO,Egypt                                                    ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,Quantum Lab Engineer,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
@@ -129,8 +129,8 @@ Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources"
 Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Senior Level
 Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
 Accenture,Security Operations Technology Manager,Various locations,Senior Level
@@ -141,8 +141,8 @@ Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources"
 Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Senior Level
 Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
 Accenture,Security Operations Technology Manager,Various locations,Senior Level
@@ -153,8 +153,8 @@ Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources"
 Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Senior Level
 Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
 Accenture,Security Operations Technology Manager,Various locations,Senior Level
@@ -165,5 +165,5 @@ Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources"
 Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Senior Level
 Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
