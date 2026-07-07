@@ -27,8 +27,8 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
 IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
@@ -57,8 +57,8 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
 IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
@@ -66,16 +66,16 @@ IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Lev
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -117,41 +117,53 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+Accenture,Cellular Dev Ops Engineer - 6254486,"Mountain View, CA",Mid-Level
+Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
+Accenture,Custom Software Engineer 6321038,Various locations,Mid-Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Mid-Level
-Accenture,Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
-Accenture,"Utilities Power Generation, Consulting Manager",Various locations,Senior Level
-Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Security Operations Technology Manager,Various locations,Senior Level
+Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
+Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
+Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
+Accenture,"Enterprise Operating Model Manager, Energy",Various locations,Senior Level
+Accenture,Accenture Life Insurance and Annuity Industry Data Product Lead,Various locations,Senior Level
+Accenture,Oracle Utilities Meter Data Management (MDM) Functional Lead,Various locations,Mid-Level
+Accenture,Cellular Dev Ops Engineer - 6254486,"Mountain View, CA",Mid-Level
+Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
+Accenture,Custom Software Engineer 6321038,Various locations,Mid-Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Mid-Level
-Accenture,Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
-Accenture,"Utilities Power Generation, Consulting Manager",Various locations,Senior Level
-Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Security Operations Technology Manager,Various locations,Senior Level
+Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
+Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
+Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
+Accenture,"Enterprise Operating Model Manager, Energy",Various locations,Senior Level
+Accenture,Accenture Life Insurance and Annuity Industry Data Product Lead,Various locations,Senior Level
+Accenture,Oracle Utilities Meter Data Management (MDM) Functional Lead,Various locations,Mid-Level
+Accenture,Cellular Dev Ops Engineer - 6254486,"Mountain View, CA",Mid-Level
+Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
+Accenture,Custom Software Engineer 6321038,Various locations,Mid-Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Mid-Level
-Accenture,Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
-Accenture,"Utilities Power Generation, Consulting Manager",Various locations,Senior Level
-Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Security Operations Technology Manager,Various locations,Senior Level
+Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
+Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
+Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
+Accenture,"Enterprise Operating Model Manager, Energy",Various locations,Senior Level
+Accenture,Accenture Life Insurance and Annuity Industry Data Product Lead,Various locations,Senior Level
+Accenture,Oracle Utilities Meter Data Management (MDM) Functional Lead,Various locations,Mid-Level
+Accenture,Cellular Dev Ops Engineer - 6254486,"Mountain View, CA",Mid-Level
+Accenture,Clinical Specialty Applications 6117426,Various locations,Early Career
+Accenture,Custom Software Engineer 6321038,Various locations,Mid-Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Mid-Level
-Accenture,Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
-Accenture,"Utilities Power Generation, Consulting Manager",Various locations,Senior Level
-Accenture,"Consultant, Scientific and Laboratory Informatics",Various locations,Senior Level
-Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Senior Level
+Accenture,Security Operations Technology Manager,Various locations,Senior Level
+Accenture,Salesforce Data Cloud & AI Associate Architect,Various locations,Mid-Level
+Accenture,Azure Scrum Master - 6343826,Various locations,Early Career
+Accenture,Strategy Manager | Sales Reinvention | Insurance,Various locations,Senior Level
+Accenture,Udacity LearnVantage Mid-Market Account Success Management Associate Manager,Various locations,Mid-Level
+Accenture,"Enterprise Operating Model Manager, Energy",Various locations,Senior Level
+Accenture,Accenture Life Insurance and Annuity Industry Data Product Lead,Various locations,Senior Level
+Accenture,Oracle Utilities Meter Data Management (MDM) Functional Lead,Various locations,Mid-Level
