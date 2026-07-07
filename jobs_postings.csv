@@ -1,4 +1,34 @@
 Company,Role,Country,Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Quantum Lab Engineer,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
+IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
@@ -53,10 +83,10 @@ IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
@@ -65,36 +95,6 @@ IBM,Entry level Technical Storage Seller - Belgium,Belgium             	        
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Junior Application Developer- Cloud FullStack,Czechia             	,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Quantum Lab Engineer,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
-IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry Level Hardware Developer 2026,Multiple Cities,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -109,41 +109,53 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Quantum Lab Engineer,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,Data Engineer - Business Intelligence,Czechia             	,Entry Level
 IBM,Associate Strategy Consultant-Enterprise & Cloud Transformation (Fresh Graduates Tech & Sales Track),Philippines             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Early Career
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Senior Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,Security Operations Technology Manager,Various locations,Mid-Level
+Accenture,Healthcare AI Value Strategy Manager,Various locations,Senior Level
+Accenture,Healthcare Payer AI Decision Science Consultant,Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Sr. Manager, Chemicals & Natural Resources",Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources",Various locations,Mid-Level
+Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Early Career
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Senior Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,Security Operations Technology Manager,Various locations,Mid-Level
+Accenture,Healthcare AI Value Strategy Manager,Various locations,Senior Level
+Accenture,Healthcare Payer AI Decision Science Consultant,Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Sr. Manager, Chemicals & Natural Resources",Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources",Various locations,Mid-Level
+Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Early Career
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Senior Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Commercial & Contract Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,Security Operations Technology Manager,Various locations,Mid-Level
+Accenture,Healthcare AI Value Strategy Manager,Various locations,Senior Level
+Accenture,Healthcare Payer AI Decision Science Consultant,Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Sr. Manager, Chemicals & Natural Resources",Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources",Various locations,Mid-Level
+Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Early Career
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Clinical Specialty Applications 6117426,Various locations,Senior Level
 Accenture,Strategy Leadership Enterprise Reinvention Strategy Senior Manager,Various locations,Senior Level
+Accenture,Security Operations Technology Manager,Various locations,Mid-Level
+Accenture,Healthcare AI Value Strategy Manager,Various locations,Senior Level
+Accenture,Healthcare Payer AI Decision Science Consultant,Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Sr. Manager, Chemicals & Natural Resources",Various locations,Senior Level
+Accenture,"Talent & Workforce Consulting Manager, Chemicals & Natural Resources",Various locations,Mid-Level
+Accenture,Healthcare Workforce Advisory Senior Manager,Various locations,Early Career
