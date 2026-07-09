@@ -5,36 +5,6 @@ IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Le
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Client Engineering,Multiple Cities,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,Student Conversion - Application Developer-Microsoft .NET,Mexico             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-IBM,Student Conversion - Application Developer-RDBMS,Mexico             	      ,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -45,9 +15,9 @@ IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment 
 IBM,Client Engineering,Multiple Cities,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,Student Conversion - Application Developer-Microsoft .NET,Mexico             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
@@ -119,6 +89,36 @@ IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hun
 IBM,Student Conversion - Application Developer-RDBMS,Mexico             	      ,Entry Level
 IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Client Engineering,Multiple Cities,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Student Conversion - Application Developer-Microsoft .NET,Mexico             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Student Conversion - Application Developer-RDBMS,Mexico             	      ,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Salesforce Solution Architect Senior Manager,Various locations,Senior Level
@@ -127,10 +127,10 @@ Accenture,Organizational Change Senior Manager - Chemicals & Natural Resources,V
 Accenture,Organizational Change Manager - Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6355851,Various locations,Early Career
+Accenture,Health Strategy Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
 Accenture,Organization Change Senior Manager - Energy,Various locations,Senior Level
 Accenture,Oracle HCM Absence Management Consultant,Various locations,Mid-Level
-Accenture,Secure AI Architect Senior Manager/Assoc Director,Various locations,Senior Level
 Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Salesforce Solution Architect Senior Manager,Various locations,Senior Level
@@ -139,10 +139,10 @@ Accenture,Organizational Change Senior Manager - Chemicals & Natural Resources,V
 Accenture,Organizational Change Manager - Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6355851,Various locations,Early Career
+Accenture,Health Strategy Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
 Accenture,Organization Change Senior Manager - Energy,Various locations,Senior Level
 Accenture,Oracle HCM Absence Management Consultant,Various locations,Mid-Level
-Accenture,Secure AI Architect Senior Manager/Assoc Director,Various locations,Senior Level
 Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Salesforce Solution Architect Senior Manager,Various locations,Senior Level
@@ -151,10 +151,10 @@ Accenture,Organizational Change Senior Manager - Chemicals & Natural Resources,V
 Accenture,Organizational Change Manager - Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6355851,Various locations,Early Career
+Accenture,Health Strategy Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
 Accenture,Organization Change Senior Manager - Energy,Various locations,Senior Level
 Accenture,Oracle HCM Absence Management Consultant,Various locations,Mid-Level
-Accenture,Secure AI Architect Senior Manager/Assoc Director,Various locations,Senior Level
 Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Salesforce Solution Architect Senior Manager,Various locations,Senior Level
@@ -163,7 +163,7 @@ Accenture,Organizational Change Senior Manager - Chemicals & Natural Resources,V
 Accenture,Organizational Change Manager - Chemicals & Natural Resources,Various locations,Senior Level
 Accenture,Knowledge Engineer Specialist,Various locations,Mid-Level
 Accenture,Azure Scrum Master - 6355851,Various locations,Early Career
+Accenture,Health Strategy Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
 Accenture,Organization Change Senior Manager - Energy,Various locations,Senior Level
 Accenture,Oracle HCM Absence Management Consultant,Various locations,Mid-Level
-Accenture,Secure AI Architect Senior Manager/Assoc Director,Various locations,Senior Level
