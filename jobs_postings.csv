@@ -1,9 +1,39 @@
 Company,Role,Country,Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Student Conversion - Application Developer-RDBMS,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -48,8 +78,8 @@ IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -59,11 +89,11 @@ IBM,Entry Level Sales Specialist - Data & AI,Spain                              
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP EWM Consultant,Czechia             	,Entry Level
@@ -89,36 +119,6 @@ IBM,Entry Level Sales Specialist - Data & AI,Spain                              
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Operations Buyer - Procurement Assistance Center Representative (German),Hungary             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,Student Conversion - Application Developer-RDBMS,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
 Accenture,4111: Americas Industry Marketing Lead,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
@@ -130,7 +130,7 @@ Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various lo
 Accenture,Oracle Finance Consultant - Utilities,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Management Marketing Consultant - NASPFY26,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
-Accenture,Industry X- Siemens MES Senior Manager,Various locations,Senior Level
+Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Mid-Level
 Accenture,4111: Americas Industry Marketing Lead,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
@@ -142,7 +142,7 @@ Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various lo
 Accenture,Oracle Finance Consultant - Utilities,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Management Marketing Consultant - NASPFY26,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
-Accenture,Industry X- Siemens MES Senior Manager,Various locations,Senior Level
+Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Mid-Level
 Accenture,4111: Americas Industry Marketing Lead,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
@@ -154,7 +154,7 @@ Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various lo
 Accenture,Oracle Finance Consultant - Utilities,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Management Marketing Consultant - NASPFY26,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
-Accenture,Industry X- Siemens MES Senior Manager,Various locations,Senior Level
+Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Mid-Level
 Accenture,4111: Americas Industry Marketing Lead,Various locations,Senior Level
 Accenture,Google Data Specialist,Various locations,Mid-Level
 Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
@@ -166,4 +166,4 @@ Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various lo
 Accenture,Oracle Finance Consultant - Utilities,Various locations,Mid-Level
 Accenture,Sourcing & Procurement Management Marketing Consultant - NASPFY26,Various locations,Mid-Level
 Accenture,Equipment & Construction Management Consultant (Sourcing & Procurement) - NASPFY26,Various locations,Mid-Level
-Accenture,Industry X- Siemens MES Senior Manager,Various locations,Senior Level
+Accenture,Industry X – Industrial and Automotive Manufacturing Consulting Consultant,Various locations,Mid-Level
