@@ -17,68 +17,8 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
-IBM,Analista contable - Junior,Mexico             	      ,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Analista contable - Junior,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,SAP EWM Consultant,Czechia             	,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -115,43 +55,115 @@ IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,Analista contable - Junior,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
 IBM,Analista contable - Junior,Mexico             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Senior Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,SAP EWM Consultant,Czechia             	,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,Analista contable - Junior,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+Accenture,AO/SI Solution Architect Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Advanced AI Full Stack Engineer,Various locations,Mid-Level
+Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Early Career
 Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
 Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Senior Level
+Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
+Accenture,Mainframe Application Programmer Assoc Manager,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
 Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,AO/SI Solution Architect Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Advanced AI Full Stack Engineer,Various locations,Mid-Level
+Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Early Career
 Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
 Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Senior Level
+Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
+Accenture,Mainframe Application Programmer Assoc Manager,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
 Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,AO/SI Solution Architect Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Advanced AI Full Stack Engineer,Various locations,Mid-Level
+Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Early Career
 Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
 Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Senior Level
+Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
+Accenture,Mainframe Application Programmer Assoc Manager,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
 Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,AO/SI Solution Architect Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Advanced AI Full Stack Engineer,Various locations,Mid-Level
+Accenture,Epic Certified Willow Ambulatory Analyst 6341788,Various locations,Early Career
 Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
 Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Senior Level
+Accenture,Sourcing and Procurement Energy Practice Specialist,Various locations,Mid-Level
+Accenture,Mainframe Application Programmer Assoc Manager,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
 Accenture,Epic Certified Willow Pharmacy Applications Manager 6355647,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Mid-Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
