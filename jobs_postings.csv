@@ -5,36 +5,6 @@ IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Lev
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Data Scientist,Multiple Cities,Entry Level
-IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Package Specialist-SAP BW HANA Analytics,Italy             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Application Developer - Experience Front End,Italy             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
-IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Retirals Practitioner,India             	      ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -63,8 +33,38 @@ IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Le
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Data Scientist,Multiple Cities,Entry Level
+IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Package Specialist-SAP BW HANA Analytics,Italy             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Application Developer - Experience Front End,Italy             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Client Engineering Platform Engineer ELH,VN,Entry Level
+IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Retirals Practitioner,India             	      ,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -93,15 +93,15 @@ IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Le
 IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Data Scientist,Multiple Cities,Entry Level
 IBM,Treasury Analyst (Korean Bilingual),Malaysia             	      ,Entry Level
@@ -119,27 +119,35 @@ IBM,Software Developer,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Retirals Practitioner,India             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Financial Systems Analyst, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Financial Systems Analyst, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Financial Systems Analyst, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Financial Systems Analyst, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Estimator, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Epic Certified Willow Inpatient Analyst 5340180,Various locations,Senior Level
+Accenture,Epic Certified Willow Home Infusion Analyst 6340181,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Epic Certified Willow Inpatient Analyst 5340180,Various locations,Senior Level
+Accenture,Epic Certified Willow Home Infusion Analyst 6340181,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Epic Certified Willow Inpatient Analyst 5340180,Various locations,Senior Level
+Accenture,Epic Certified Willow Home Infusion Analyst 6340181,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Epic Certified Willow Inpatient Analyst 5340180,Various locations,Senior Level
+Accenture,Epic Certified Willow Home Infusion Analyst 6340181,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Utilities Transmission & Distribution Field Service Consultant or Manager,Various locations,Early Career
