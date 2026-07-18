@@ -16,9 +16,9 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -76,9 +76,9 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -106,9 +106,9 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -119,51 +119,35 @@ IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry
 IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Technical Support Professional-AMS,Pakistan             	      ,Entry Level
 IBM,Selection Specialist - German Speaker,Hungary             	      ,Entry Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
-Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
-Accenture,Sourcing & Procurement Management Metals Center of Excellence Lead Associate Director,Various locations,Senior Level
-Accenture,"Strategy Principal Director, Data & AI Strategy - Utilities",Various locations,Senior Level
-Accenture,Delivery Lead Associate Manager,Various locations,Mid-Level
-Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Senior Level
-Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,SAP Enterprise Portfolio & Project Management (EPPM) Manager,Various locations,Mid-Level
-Accenture,Healthcare Provider AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Healthcare Interoperability and Health IT Advisory Lead,Various locations,Senior Level
-Accenture,Delivery Lead – Transportation Management Solution Architect (High Tech),Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
-Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
-Accenture,Sourcing & Procurement Management Metals Center of Excellence Lead Associate Director,Various locations,Senior Level
-Accenture,"Strategy Principal Director, Data & AI Strategy - Utilities",Various locations,Senior Level
-Accenture,Delivery Lead Associate Manager,Various locations,Mid-Level
-Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Senior Level
-Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,SAP Enterprise Portfolio & Project Management (EPPM) Manager,Various locations,Mid-Level
-Accenture,Healthcare Provider AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Healthcare Interoperability and Health IT Advisory Lead,Various locations,Senior Level
-Accenture,Delivery Lead – Transportation Management Solution Architect (High Tech),Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
-Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
-Accenture,Sourcing & Procurement Management Metals Center of Excellence Lead Associate Director,Various locations,Senior Level
-Accenture,"Strategy Principal Director, Data & AI Strategy - Utilities",Various locations,Senior Level
-Accenture,Delivery Lead Associate Manager,Various locations,Mid-Level
-Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Senior Level
-Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,SAP Enterprise Portfolio & Project Management (EPPM) Manager,Various locations,Mid-Level
-Accenture,Healthcare Provider AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Healthcare Interoperability and Health IT Advisory Lead,Various locations,Senior Level
-Accenture,Delivery Lead – Transportation Management Solution Architect (High Tech),Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
-Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
-Accenture,Sourcing & Procurement Management Metals Center of Excellence Lead Associate Director,Various locations,Senior Level
-Accenture,"Strategy Principal Director, Data & AI Strategy - Utilities",Various locations,Senior Level
-Accenture,Delivery Lead Associate Manager,Various locations,Mid-Level
-Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Senior Level
-Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,SAP Enterprise Portfolio & Project Management (EPPM) Manager,Various locations,Mid-Level
-Accenture,Healthcare Provider AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Digital Assets Manager,Various locations,Senior Level
-Accenture,Healthcare Interoperability and Health IT Advisory Lead,Various locations,Senior Level
-Accenture,Delivery Lead – Transportation Management Solution Architect (High Tech),Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Mid-Level
+Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Mid-Level
+Accenture,Designer,Various locations,Early Career
+Accenture,ArcGIS Utility Network Technical Architect,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Mid-Level
+Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Mid-Level
+Accenture,Designer,Various locations,Early Career
+Accenture,ArcGIS Utility Network Technical Architect,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Mid-Level
+Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Mid-Level
+Accenture,Designer,Various locations,Early Career
+Accenture,ArcGIS Utility Network Technical Architect,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Mid-Level
+Accenture,Technical Commerce & AI Manager | Agentic Commerce,Various locations,Mid-Level
+Accenture,Designer,Various locations,Early Career
+Accenture,ArcGIS Utility Network Technical Architect,Various locations,Early Career
