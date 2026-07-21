@@ -24,11 +24,11 @@ IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Technical Support Professional-AMS,Pakistan             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
@@ -54,8 +54,8 @@ IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Technical Support Professional-AMS,Pakistan             	      ,Entry Level
 IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
@@ -128,9 +128,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
+Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
-Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -140,9 +140,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
+Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
-Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -152,9 +152,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
+Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
-Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -164,6 +164,6 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
+Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
-Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
