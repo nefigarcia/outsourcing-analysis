@@ -1,4 +1,34 @@
 Company,Role,Country,Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Data Engineer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
+IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Corporate Development Associate,US,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
@@ -47,8 +77,8 @@ IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	    
 IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Data Engineer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
@@ -89,81 +119,43 @@ IBM,Entry Level Sales Specialist - Data & AI,Spain                              
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
 IBM,Retirals Practitioner,India             	      ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Japan ELH Nurturing Lead,Japan             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Data Engineer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
-IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Corporate Development Associate,US,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Retirals Practitioner,India             	      ,Entry Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Talent Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Talent Strategy Manager - Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Senior Level
+Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Mid-Level
 Accenture,Customer Growth Strategy Senior Manager | Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Mid-Level
+Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Senior Level
+Accenture,AI & Data Decision Science Manager - Utilities,Various locations,Mid-Level
 Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Functional Manager – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,Delivery Lead – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,*Infoblox SME 6393895,Various locations,Mid-Level
-Accenture,OneStream Functional Lead,Various locations,Senior Level
-Accenture,*Business Analyst 6408414,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Talent Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Talent Strategy Manager - Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Senior Level
+Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Mid-Level
 Accenture,Customer Growth Strategy Senior Manager | Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Mid-Level
+Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Senior Level
+Accenture,AI & Data Decision Science Manager - Utilities,Various locations,Mid-Level
 Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Functional Manager – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,Delivery Lead – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,*Infoblox SME 6393895,Various locations,Mid-Level
-Accenture,OneStream Functional Lead,Various locations,Senior Level
-Accenture,*Business Analyst 6408414,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Talent Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Talent Strategy Manager - Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Senior Level
+Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Mid-Level
 Accenture,Customer Growth Strategy Senior Manager | Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Mid-Level
+Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Senior Level
+Accenture,AI & Data Decision Science Manager - Utilities,Various locations,Mid-Level
 Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Functional Manager – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,Delivery Lead – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,*Infoblox SME 6393895,Various locations,Mid-Level
-Accenture,OneStream Functional Lead,Various locations,Senior Level
-Accenture,*Business Analyst 6408414,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Talent Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Senior Manager - Utilities,Various locations,Senior Level
 Accenture,Talent Strategy Manager - Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Senior Level
+Accenture,Customer Growth Strategy Manager | Utilities,Various locations,Mid-Level
 Accenture,Customer Growth Strategy Senior Manager | Utilities,Various locations,Senior Level
-Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Mid-Level
+Accenture,Customer Growth Strategy Consultant | Utilities,Various locations,Senior Level
+Accenture,AI & Data Decision Science Manager - Utilities,Various locations,Mid-Level
 Accenture,Experience Strategy Manager,Various locations,Senior Level
-Accenture,Functional Manager – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,Delivery Lead – Blue Yonder Transportation Management Solution Architect,Various locations,Senior Level
-Accenture,*Infoblox SME 6393895,Various locations,Mid-Level
-Accenture,OneStream Functional Lead,Various locations,Senior Level
-Accenture,*Business Analyst 6408414,Various locations,Mid-Level
