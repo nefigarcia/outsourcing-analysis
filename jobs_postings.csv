@@ -1,5 +1,35 @@
 Company,Role,Country,Level
 IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Data Engineer - Student Conversion,Mexico             	      ,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
+IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,Corporate Development Associate,US,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Retirals Practitioner,India             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,AI Security Researcher,US,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
 IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
@@ -50,36 +80,6 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
-IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,Corporate Development Associate,US,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Retirals Practitioner,India             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry level Technical Sales Specialist Automation IBM Sweden (incl. Assignment in Valencia),Sweden             	      ,Entry Level
-IBM,Package Specialist 2026- Workday HCM & Compensation,Multiple Cities,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Brand Technical Specialist,Luxembourg             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Entry level Brand Technical Specialist - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Technical Sales Specialist Data IBM Poland (incl. Assignment in Valencia),Poland             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Data - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Data Engineer - Student Conversion,Mexico             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
@@ -110,8 +110,8 @@ IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,
 IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
-IBM,Corporate Development Associate,US,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,Corporate Development Associate,US,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
@@ -128,9 +128,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
-Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
+Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -140,9 +140,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
-Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
+Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -152,9 +152,9 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
-Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
+Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
 Accenture,Strategy Senior Manager | Sales & Commerce | Utilities,Various locations,Senior Level
 Accenture,Workday Certified Compensation/Benefits Lead,Various locations,Mid-Level
 Accenture,Workday Certified Financials Delivery Lead - H&PS,Various locations,Senior Level
@@ -164,6 +164,6 @@ Accenture,Ivalua Technical Lead,Various locations,Mid-Level
 Accenture,SAP Product Costing Consultant - Life Sciences,Various locations,Mid-Level
 Accenture,SAP Intercompany Manager - Life Sciences,Various locations,Senior Level
 Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Mid-Level
-Accenture,Life Sciences Supply Chain and Operations – Supply Chain Planning Consultant,Various locations,Mid-Level
 Accenture,Healthcare AI Value Strategy Consultant,Various locations,Mid-Level
 Accenture,Oracle WMS Lead,Various locations,Senior Level
+Accenture,"Oracle Batch Lead (OUAF, C2M/CC&B)",Various locations,Mid-Level
