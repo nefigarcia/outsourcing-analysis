@@ -11,10 +11,40 @@ IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                  
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Associate Business Transformation Consultant-Data Analytics,Australia,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate Business Transformation Consultant-Data Analytics,Australia,Entry Level
+IBM,DevOps Developer,Bulgaria             	              ,Entry Level
+IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
+IBM,Associate visual designer,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Platform/Automation Engineer,Mexico             	      ,Entry Level
+IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Retirals Practitioner,India             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Tactical Buyer,India             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Application Consultant-EAI,Australia,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
+IBM,Associate Business Transformation Consultant-Data Analytics,Australia,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
@@ -45,17 +75,17 @@ IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple 
 IBM,Associate Business Transformation Consultant-Data Analytics,Australia,Entry Level
 IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
+IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Platform/Automation Engineer,Mexico             	      ,Entry Level
 IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
+IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
@@ -78,10 +108,10 @@ IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Lev
 IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
 IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Platform/Automation Engineer,Mexico             	      ,Entry Level
 IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
 IBM,Software Developer,Mexico             	      ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Platform/Automation Engineer,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
@@ -89,73 +119,51 @@ IBM,Retirals Practitioner,India             	      ,Entry Level
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Application Consultant-EAI,Australia,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Data Engineer – Client Innovation Center (Entry Level),Multiple Cities,Entry Level
-IBM,Associate Business Transformation Consultant-Data Analytics,Australia,Entry Level
-IBM,DevOps Developer,Bulgaria             	              ,Entry Level
-IBM,QA/Test Automation in Interoperability,Mexico             	      ,Entry Level
-IBM,Associate visual designer,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Platform/Automation Engineer,Mexico             	      ,Entry Level
-IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Software Developer,Mexico             	      ,Entry Level
-IBM,Entry Level Sales Specialist - Data & AI,Spain                                   ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Retirals Practitioner,India             	      ,Entry Level
-IBM,Tactical Buyer,India             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Associate Business Transformation Consultant-Enterprise Strategy,Singapore             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Retirement Management Consultant,Various locations,Senior Level
+Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
-Accenture,Group Employee Benefits Consulting Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
 Accenture,Oracle ICM Configuration Lead - Associate Manager,Various locations,Mid-Level
-Accenture,Data Protect & InfoSec Compliance Manager,"Denver, CO",Senior Level
-Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Senior Level
+Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Mid-Level
 Accenture,CPQ Solution and Delivery Lead - Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Retirement Management Consultant,Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
+Accenture,Organizational Change Manager - Utilities,Various locations,Senior Level
+Accenture,"RedHat Offering Lead - (Private AI, Containers, Automation)",Various locations,Senior Level
+Accenture,High Tech Consulting Senior Manager,Various locations,Senior Level
+Accenture,High Tech Management Consultant,Various locations,Mid-Level
+Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
-Accenture,Group Employee Benefits Consulting Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
 Accenture,Oracle ICM Configuration Lead - Associate Manager,Various locations,Mid-Level
-Accenture,Data Protect & InfoSec Compliance Manager,"Denver, CO",Senior Level
-Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Senior Level
+Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Mid-Level
 Accenture,CPQ Solution and Delivery Lead - Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Retirement Management Consultant,Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
+Accenture,Organizational Change Manager - Utilities,Various locations,Senior Level
+Accenture,"RedHat Offering Lead - (Private AI, Containers, Automation)",Various locations,Senior Level
+Accenture,High Tech Consulting Senior Manager,Various locations,Senior Level
+Accenture,High Tech Management Consultant,Various locations,Mid-Level
+Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
-Accenture,Group Employee Benefits Consulting Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
 Accenture,Oracle ICM Configuration Lead - Associate Manager,Various locations,Mid-Level
-Accenture,Data Protect & InfoSec Compliance Manager,"Denver, CO",Senior Level
-Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Senior Level
+Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Mid-Level
 Accenture,CPQ Solution and Delivery Lead - Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Retirement Management Consultant,Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
+Accenture,Organizational Change Manager - Utilities,Various locations,Senior Level
+Accenture,"RedHat Offering Lead - (Private AI, Containers, Automation)",Various locations,Senior Level
+Accenture,High Tech Consulting Senior Manager,Various locations,Senior Level
+Accenture,High Tech Management Consultant,Various locations,Mid-Level
+Accenture,Retirement Management Consultant,Various locations,Mid-Level
 Accenture,Payments Banking Manager,Various locations,Senior Level
-Accenture,Group Employee Benefits Consulting Manager,Various locations,Mid-Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
 Accenture,Retirement Management Consulting Manager,Various locations,Senior Level
 Accenture,Oracle ICM Configuration Lead - Associate Manager,Various locations,Mid-Level
-Accenture,Data Protect & InfoSec Compliance Manager,"Denver, CO",Senior Level
-Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Senior Level
+Accenture,Epic Certified Analyst - EpicCare Cadence & Prelude 6164543,Various locations,Mid-Level
 Accenture,CPQ Solution and Delivery Lead - Manager,Various locations,Senior Level
+Accenture,Oracle HCM Payroll Lead,Various locations,Senior Level
+Accenture,Organizational Change Manager - Utilities,Various locations,Senior Level
+Accenture,"RedHat Offering Lead - (Private AI, Containers, Automation)",Various locations,Senior Level
+Accenture,High Tech Consulting Senior Manager,Various locations,Senior Level
+Accenture,High Tech Management Consultant,Various locations,Mid-Level
