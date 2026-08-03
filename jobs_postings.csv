@@ -1,4 +1,34 @@
 Company,Role,Country,Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,CPI développement produits,Canada             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
+IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,DevOps Developer,Bulgaria             	              ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Entry Level Software Developer 2026,Multiple Cities,Entry Level
+IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Tactical Buyer,India             	      ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Associate AI Engineer (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
@@ -7,8 +37,8 @@ IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
@@ -59,36 +89,6 @@ IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate AI Engineer (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,CPI développement produits,Canada             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Recruiting Specialist (RPO),Philippines             	      ,Entry Level
-IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,DevOps Developer,Bulgaria             	              ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Entry Level Software Developer 2026,Multiple Cities,Entry Level
-IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Tactical Buyer,India             	      ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Associate AI Engineer (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
@@ -110,44 +110,60 @@ IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Entry Level Software Developer 2026,Multiple Cities,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate AI Engineer (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
 Accenture,Agentic Commerce Senior Manager | Banking,Various locations,Senior Level
-Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,PMO Governance Lead Retail Technology POS Payments 6399375,Various locations,Mid-Level
+Accenture,Enterprise Operating Model Senior Manager,Various locations,Senior Level
+Accenture,Enterprise Operating Model Manager,Various locations,Senior Level
+Accenture,AI Native Product Designer - Products,Various locations,Senior Level
+Accenture,AI Native Product Manager - Products,Various locations,Senior Level
+Accenture,Threat Monitor Lead,Various locations,Mid-Level
+Accenture,OneStream Functional Lead,Various locations,Senior Level
 Accenture,Agentic Commerce Senior Manager | Banking,Various locations,Senior Level
-Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,PMO Governance Lead Retail Technology POS Payments 6399375,Various locations,Mid-Level
+Accenture,Enterprise Operating Model Senior Manager,Various locations,Senior Level
+Accenture,Enterprise Operating Model Manager,Various locations,Senior Level
+Accenture,AI Native Product Designer - Products,Various locations,Senior Level
+Accenture,AI Native Product Manager - Products,Various locations,Senior Level
+Accenture,Threat Monitor Lead,Various locations,Mid-Level
+Accenture,OneStream Functional Lead,Various locations,Senior Level
 Accenture,Agentic Commerce Senior Manager | Banking,Various locations,Senior Level
-Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,PMO Governance Lead Retail Technology POS Payments 6399375,Various locations,Mid-Level
+Accenture,Enterprise Operating Model Senior Manager,Various locations,Senior Level
+Accenture,Enterprise Operating Model Manager,Various locations,Senior Level
+Accenture,AI Native Product Designer - Products,Various locations,Senior Level
+Accenture,AI Native Product Manager - Products,Various locations,Senior Level
+Accenture,Threat Monitor Lead,Various locations,Mid-Level
+Accenture,OneStream Functional Lead,Various locations,Senior Level
 Accenture,Agentic Commerce Senior Manager | Banking,Various locations,Senior Level
-Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Senior Level
-Accenture,Microsoft Ecosystem Business Development Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Manager,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,PMO Governance Lead Retail Technology POS Payments 6399375,Various locations,Mid-Level
+Accenture,Enterprise Operating Model Senior Manager,Various locations,Senior Level
+Accenture,Enterprise Operating Model Manager,Various locations,Senior Level
+Accenture,AI Native Product Designer - Products,Various locations,Senior Level
+Accenture,AI Native Product Manager - Products,Various locations,Senior Level
+Accenture,Threat Monitor Lead,Various locations,Mid-Level
+Accenture,OneStream Functional Lead,Various locations,Senior Level
