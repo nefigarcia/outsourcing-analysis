@@ -2,15 +2,15 @@ Company,Role,Country,Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
@@ -21,41 +21,11 @@ IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
-IBM,CPI développement produits,Canada             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
-IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,DevOps Developer,Bulgaria             	              ,Entry Level
-IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
-IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Tactical Buyer,India             	      ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -96,11 +66,41 @@ IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
+IBM,Entry Level AI-First Transformation – Strategy Consultant,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,DevOps Developer,Bulgaria             	              ,Entry Level
+IBM,2026 Intern Conversion: HR Professional - Armonk NY,US,Entry Level
+IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
+IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Tactical Buyer,India             	      ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
+IBM,CPI développement produits,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Security Specialist- Infrastructure Security,Poland             	      ,Entry Level
@@ -119,7 +119,6 @@ IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
 Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
 Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
 Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
@@ -131,7 +130,7 @@ Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Seni
 Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
+Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
 Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
 Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
 Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
@@ -143,7 +142,7 @@ Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Seni
 Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
+Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
 Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
 Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
 Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
@@ -155,7 +154,7 @@ Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Seni
 Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
+Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
 Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
 Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
 Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
@@ -167,3 +166,4 @@ Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Seni
 Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
 Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
 Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
+Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
