@@ -2,9 +2,9 @@ Company,Role,Country,Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -62,9 +62,9 @@ IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry L
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,Associate Data Scientist (m/w/d),Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
@@ -88,7 +88,7 @@ IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Technical SAP Package Specialist (September 2026 - Calgary),Canada             	      ,Entry Level
 IBM,CPI développement produits,Canada             	      ,Entry Level
@@ -119,51 +119,31 @@ IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
-Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
-Accenture,Strategy Global Capability Center Capability Reinvention Director,Various locations,Senior Level
-Accenture,Oracle Solution Architect - Mid Market,Various locations,Senior Level
-Accenture,Sales Development Program Specialist - Health & Public Service,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Engineer,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Senior Level
-Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
-Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
-Accenture,Sr. Applied AI Engineer (Claude/Codex),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
-Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
-Accenture,Strategy Global Capability Center Capability Reinvention Director,Various locations,Senior Level
-Accenture,Oracle Solution Architect - Mid Market,Various locations,Senior Level
-Accenture,Sales Development Program Specialist - Health & Public Service,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Engineer,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Senior Level
-Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
-Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
-Accenture,Sr. Applied AI Engineer (Claude/Codex),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
-Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
-Accenture,Strategy Global Capability Center Capability Reinvention Director,Various locations,Senior Level
-Accenture,Oracle Solution Architect - Mid Market,Various locations,Senior Level
-Accenture,Sales Development Program Specialist - Health & Public Service,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Engineer,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Senior Level
-Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
-Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
-Accenture,Sr. Applied AI Engineer (Claude/Codex),Various locations,Senior Level
-Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Senior Level
-Accenture,Crowdstrike Technical Consultant,Various locations,Mid-Level
-Accenture,Strategy Global Capability Center Capability Reinvention Director,Various locations,Senior Level
-Accenture,Oracle Solution Architect - Mid Market,Various locations,Senior Level
-Accenture,Sales Development Program Specialist - Health & Public Service,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Engineer,Various locations,Mid-Level
-Accenture,Adobe Edge Delivery Services Solution Architect,Various locations,Senior Level
-Accenture,Adobe Edge Delivery Services Technical Lead,Various locations,Mid-Level
-Accenture,Creative Agency Senior Designer,Various locations,Mid-Level
-Accenture,Workday Certified Financials Manager (FDM/R2R),Various locations,Senior Level
-Accenture,SAP BTP Advanced Event Mesh Developer 6313002,Various locations,Mid-Level
-Accenture,Sr. Applied AI Engineer (Claude/Codex),Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
+Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Mid-Level
+Accenture,Crowdstrike Technical Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
+Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Mid-Level
+Accenture,Crowdstrike Technical Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
+Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Mid-Level
+Accenture,Crowdstrike Technical Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
+Accenture,Customer Experience and Service Transformation Advisory Senior Manager (Products),Various locations,Mid-Level
+Accenture,Crowdstrike Technical Consultant,Various locations,Senior Level
