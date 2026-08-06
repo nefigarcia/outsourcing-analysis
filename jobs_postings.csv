@@ -1,6 +1,6 @@
 Company,Role,Country,Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,AIOps Developer,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -18,11 +18,41 @@ IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,En
 IBM,DevOps Developer,Bulgaria             	              ,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud,Singapore             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,AIOps Developer,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,DevOps Developer,Bulgaria             	              ,Entry Level
+IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
+IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Tactical Buyer,India             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
@@ -55,12 +85,12 @@ IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud,Singapore             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,AIOps Developer,Multiple Cities,Entry Level
+IBM,Associate Application Consultant-AWS Cloud,Singapore             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
+IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,AIOps Developer,Multiple Cities,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
@@ -81,38 +111,8 @@ IBM,Graduate Software Developer- start Sept 2027,United                         
 IBM,Tactical Buyer,India             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud,Singapore             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
-IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,AIOps Developer,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,DevOps Developer,Bulgaria             	              ,Entry Level
-IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Tactical Buyer,India             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
