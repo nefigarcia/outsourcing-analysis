@@ -31,9 +31,9 @@ IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
@@ -61,9 +61,9 @@ IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
@@ -88,12 +88,12 @@ IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
@@ -119,51 +119,31 @@ IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry L
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
 Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
-Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
-Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
-Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
-Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
-Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
-Accenture,"AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song",Various locations,Senior Level
-Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,Global Capability Center Go to Market Associate Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
 Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
-Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
-Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
-Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
-Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
-Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
-Accenture,"AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song",Various locations,Senior Level
-Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,Global Capability Center Go to Market Associate Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
 Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
-Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
-Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
-Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
-Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
-Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
-Accenture,"AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song",Various locations,Senior Level
-Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,Global Capability Center Go to Market Associate Manager,Various locations,Early Career
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS","Phoenix, AZ",Mid-Level
 Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
-Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
-Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
-Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
-Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
-Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
-Accenture,"AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song",Various locations,Senior Level
-Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
-Accenture,Google Agentic AI Delivery Senior Engineer,Various locations,Senior Level
+Accenture,Global Capability Center Go to Market Associate Manager,Various locations,Early Career
