@@ -1,10 +1,10 @@
 Company,Role,Country,Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
@@ -20,56 +20,26 @@ IBM,Graduate Software Developer- start Sept 2027,United                         
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Associate Business Analyst,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
-IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Business Transformation Consultant - Data Platforms,Korea                       	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Associate Business Analyst,Belgium             	         ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Business Transformation Consultant - Data Platforms,Korea                       	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
@@ -98,8 +68,8 @@ IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
@@ -110,44 +80,90 @@ IBM,Graduate Software Developer- start Sept 2027,United                         
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Associate Business Analyst,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Associate Business Analyst,Belgium             	         ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
+IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Business Transformation Consultant - Data Platforms,Korea                       	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Associate Business Analyst,Belgium             	         ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent DevProd,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Business Transformation Consultant (Data Platforms),Korea                       	      ,Entry Level
 IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
 Accenture,"Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Senior Level
-Accenture,LearnVantage Mid-Mkt Sales Account Exec Manager - Channel,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
+Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
+Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
+Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
+Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
 Accenture,"Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Senior Level
-Accenture,LearnVantage Mid-Mkt Sales Account Exec Manager - Channel,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
+Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
+Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
+Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
+Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
 Accenture,"Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Senior Level
-Accenture,LearnVantage Mid-Mkt Sales Account Exec Manager - Channel,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
+Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
+Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
+Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
+Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
 Accenture,"Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Senior Level
-Accenture,LearnVantage Mid-Mkt Sales Account Exec Manager - Channel,Various locations,Senior Level
-Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Mid-Level
+Accenture,Interactive Human-AI Experience Design Lead,Various locations,Senior Level
+Accenture,AI/ML Computational Science Manager,Various locations,Senior Level
+Accenture,Oracle HCM Core HR Delivery Lead,Various locations,Senior Level
+Accenture,SuccessFactors Recruiting Manager,Various locations,Mid-Level
+Accenture,SAP Employee Central Time Off Sr Manager,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Coordinator 6403728,Various locations,Early Career
+Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
+Accenture,Senior IFS Cloud Functional Consultant,Various locations,Mid-Level
+Accenture,CFOEV Finance Transformation Senior Manager,Various locations,Senior Level
+Accenture,CFOEV Senior Manager - PRD,Various locations,Senior Level
