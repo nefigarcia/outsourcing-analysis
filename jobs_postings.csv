@@ -1,11 +1,11 @@
 Company,Role,Country,Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
@@ -21,9 +21,9 @@ IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,En
 IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Associate Data Engineer,Belgium             	         ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Technology Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate Business Analyst,Belgium             	         ,Entry Level
@@ -31,41 +31,11 @@ IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,[2026 IBM Consulting Associates] Business Transformation Consultant - Data Platforms,Korea                       	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
-IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,Associate Data Engineer,Belgium             	         ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Technology Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Associate Business Analyst,Belgium             	         ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Federal Associate Data Scientist 2027,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
@@ -119,35 +89,81 @@ IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Associate Business Analyst,Belgium             	         ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Data Scientist 2027,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,Global Capability Center Strategy & Design Lead,Various locations,Mid-Level
-Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Mid-Level
-Accenture,Contracting Counsel Manager,Various locations,Mid-Level
-Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,Global Capability Center Strategy & Design Lead,Various locations,Mid-Level
-Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Mid-Level
-Accenture,Contracting Counsel Manager,Various locations,Mid-Level
-Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,Global Capability Center Strategy & Design Lead,Various locations,Mid-Level
-Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Mid-Level
-Accenture,Contracting Counsel Manager,Various locations,Mid-Level
-Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,Global Capability Center Strategy & Design Lead,Various locations,Mid-Level
-Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Mid-Level
-Accenture,Contracting Counsel Manager,Various locations,Mid-Level
-Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Early Career
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Strategy Consultant (f/m/x),Austria             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Associate Application Consultant-Mobile (Design),Thailand             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,[2026 IBM Consulting Associates] Business Transformation Consultant - Data Platforms,Korea                       	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
+IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
+IBM,Graduate Software Developer- start Sept 2027,United                                                  ,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Associate Data Engineer,Belgium             	         ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Technology Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
+IBM,Associate Business Analyst,Belgium             	         ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
+Accenture,Global Capability Center Strategy & Design Lead,Various locations,Senior Level
+Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
+Accenture,Contracting Counsel Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Consultant,Various locations,Early Career
+Accenture,Global Capability Center Product Engineering Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Senior Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Director,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Chem & Nat Resources (CNR)),Various locations,Mid-Level
+Accenture,Global Capability Center Strategy & Design Lead,Various locations,Senior Level
+Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
+Accenture,Contracting Counsel Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Consultant,Various locations,Early Career
+Accenture,Global Capability Center Product Engineering Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Senior Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Director,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Chem & Nat Resources (CNR)),Various locations,Mid-Level
+Accenture,Global Capability Center Strategy & Design Lead,Various locations,Senior Level
+Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
+Accenture,Contracting Counsel Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Consultant,Various locations,Early Career
+Accenture,Global Capability Center Product Engineering Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Senior Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Director,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Chem & Nat Resources (CNR)),Various locations,Mid-Level
+Accenture,Global Capability Center Strategy & Design Lead,Various locations,Senior Level
+Accenture,"SAP Edge - Practice Lead, Artificial Intelligence",Various locations,Senior Level
+Accenture,Contracting Counsel Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Consultant,Various locations,Early Career
+Accenture,Global Capability Center Product Engineering Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Senior Manager,Various locations,Senior Level
+Accenture,Global Capability Center Product Engineering Director,Various locations,Senior Level
+Accenture,Enterprise AI Value Strategy Consultant (Chem & Nat Resources (CNR)),Various locations,Mid-Level
