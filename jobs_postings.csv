@@ -9,15 +9,15 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Research Extern Intern conversion,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Research Extern Intern conversion,Multiple Cities,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
@@ -45,20 +45,20 @@ IBM,Research Extern Intern conversion,Multiple Cities,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Technical y Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Brand Technical Specialist - STUDENT CONVERSION,Chile             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -75,16 +75,16 @@ IBM,Research Extern Intern conversion,Multiple Cities,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Technical y Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Brand Technical Specialist - STUDENT CONVERSION,Chile             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
@@ -94,60 +94,76 @@ IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Research Extern Intern conversion,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Brand Technical Specialist – Entry Level Sales Program 2026,Multiple Cities,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Technical y Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Brand Technical Specialist - STUDENT CONVERSION,Chile             	      ,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+IBM,Entry Level Technical Sales Specialist,Romania             	      ,Entry Level
 Accenture,Google Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
-Accenture,MarTech Data Architect,Various locations,Early Career
-Accenture,Senior Advanced AI Research Engineer,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Banking Payments Senior Manager,Various locations,Senior Level
+Accenture,Payments Banking Consultant,Various locations,Mid-Level
+Accenture,Adobe Workfront Fusion Consultant,Various locations,Mid-Level
+Accenture,SAP SuccessFactors Reporting & Analytics Senior Manager,Various locations,Senior Level
+Accenture,EDGE - Sales Account Executive Manager (Workday),Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,"Utilities Industry Senior Manager, CIS Transformation",Various locations,Senior Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
 Accenture,Google Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
-Accenture,MarTech Data Architect,Various locations,Early Career
-Accenture,Senior Advanced AI Research Engineer,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Banking Payments Senior Manager,Various locations,Senior Level
+Accenture,Payments Banking Consultant,Various locations,Mid-Level
+Accenture,Adobe Workfront Fusion Consultant,Various locations,Mid-Level
+Accenture,SAP SuccessFactors Reporting & Analytics Senior Manager,Various locations,Senior Level
+Accenture,EDGE - Sales Account Executive Manager (Workday),Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,"Utilities Industry Senior Manager, CIS Transformation",Various locations,Senior Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
 Accenture,Google Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
-Accenture,MarTech Data Architect,Various locations,Early Career
-Accenture,Senior Advanced AI Research Engineer,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Banking Payments Senior Manager,Various locations,Senior Level
+Accenture,Payments Banking Consultant,Various locations,Mid-Level
+Accenture,Adobe Workfront Fusion Consultant,Various locations,Mid-Level
+Accenture,SAP SuccessFactors Reporting & Analytics Senior Manager,Various locations,Senior Level
+Accenture,EDGE - Sales Account Executive Manager (Workday),Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,"Utilities Industry Senior Manager, CIS Transformation",Various locations,Senior Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
 Accenture,Google Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
-Accenture,MarTech Data Architect,Various locations,Early Career
-Accenture,Senior Advanced AI Research Engineer,Various locations,Mid-Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Banking Payments Senior Manager,Various locations,Senior Level
+Accenture,Payments Banking Consultant,Various locations,Mid-Level
+Accenture,Adobe Workfront Fusion Consultant,Various locations,Mid-Level
+Accenture,SAP SuccessFactors Reporting & Analytics Senior Manager,Various locations,Senior Level
+Accenture,EDGE - Sales Account Executive Manager (Workday),Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,"Utilities Industry Senior Manager, CIS Transformation",Various locations,Senior Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
