@@ -1,4 +1,34 @@
 Company,Role,Country,Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Federal Associate Experience Consultant 2027,US,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
+IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
+IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Analista contable - Junior,Mexico             	      ,Entry Level
+IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
+IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
@@ -11,8 +41,8 @@ IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                  
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
@@ -48,43 +78,13 @@ IBM,Associate Security Specialist - Infrastructure Security,Poland             	
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
 IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Analista contable - Junior,Mexico             	      ,Entry Level
-IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
-IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
-IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,Federal Associate Consultant 2027,US,Entry Level
-IBM,Technology Seller (TSR) - STUDENT CONVERSION,Brazil             	      ,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Analista contable - Junior,Mexico             	      ,Entry Level
 IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
@@ -103,10 +103,10 @@ IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Associate Consultant 2027,US,Entry Level
@@ -116,38 +116,54 @@ IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,En
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,Analista contable - Junior,Mexico             	      ,Entry Level
-IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level Technical Sales Specialist,Slovakia             	,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Mid-Level
+IBM,Technical Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
+Accenture,AWS Edge Mid-Market -Americas Regional Sales Leader,Various locations,Senior Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Process Excellence Consultant / Manager / Senior Manager,Various locations,Mid-Level
+Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Early Career
 Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
-Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Mid-Level
-Accenture,Kinaxis Mid-Market Sales Account Executive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Mid-Level
+Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,IBM Business Development Senior Manager,Various locations,Senior Level
+Accenture,AWS Edge Mid-Market -Americas Regional Sales Leader,Various locations,Senior Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Process Excellence Consultant / Manager / Senior Manager,Various locations,Mid-Level
+Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Early Career
 Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
-Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Mid-Level
-Accenture,Kinaxis Mid-Market Sales Account Executive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Mid-Level
+Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,IBM Business Development Senior Manager,Various locations,Senior Level
+Accenture,AWS Edge Mid-Market -Americas Regional Sales Leader,Various locations,Senior Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Process Excellence Consultant / Manager / Senior Manager,Various locations,Mid-Level
+Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Early Career
 Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
-Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Mid-Level
-Accenture,Kinaxis Mid-Market Sales Account Executive,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Mid-Level
+Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,IBM Business Development Senior Manager,Various locations,Senior Level
+Accenture,AWS Edge Mid-Market -Americas Regional Sales Leader,Various locations,Senior Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Process Excellence Consultant / Manager / Senior Manager,Various locations,Mid-Level
+Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director,Various locations,Senior Level
+Accenture,Clinisys Sunquest LIS Application Senior Analyst 6403728,Various locations,Early Career
 Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
-Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Mid-Level
-Accenture,Kinaxis Mid-Market Sales Account Executive,Various locations,Senior Level
+Accenture,AWS Edge Mid-Market - Americas Regional Sales Leader - Sr. Manager,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Senior Engineer,Various locations,Senior Level
+Accenture,Palantir Forward Deployed Engineer,Various locations,Mid-Level
+Accenture,IBM Business Development Senior Manager,Various locations,Senior Level
