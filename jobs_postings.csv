@@ -1,8 +1,8 @@
 Company,Role,Country,Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -22,8 +22,38 @@ IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Package Consultant: SAP GRC,Morocco             	,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
+IBM,Analista contable - Junior,Mexico             	      ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,Federal Associate Data Scientist 2027,US,Entry Level
+IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
+IBM,Technical Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Federal Associate Consultant 2027,US,Entry Level
+IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
+IBM,Federal Associate Experience Consultant 2027,US,Entry Level
+IBM,Package Consultant: SAP GRC,Morocco             	,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Analista contable - Junior,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Data Scientist 2027,US,Entry Level
@@ -43,36 +73,36 @@ IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
 IBM,Federal Associate Consultant 2027,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Package Consultant: SAP GRC,Morocco             	,Entry Level
-IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Package Consultant-SuccessFactors Core HR,Pakistan             	      ,Entry Level
 IBM,Analista contable - Junior,Mexico             	      ,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
 IBM,Technical Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -89,35 +119,51 @@ IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,Federal Associate Data Scientist 2027,US,Entry Level
 IBM,Entry Level HR Professional 2027 - Armonk,US,Entry Level
 IBM,Technical Sales Engineer - Entry-Level Sales Program 2027,Multiple Cities,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Lead Enterprise Security Recovery Architect,Various locations,Mid-Level
-Accenture,Accenture Edge - SAP Production Planning (PP) Lead,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Production Planning (PP) Consultant,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Plant Maintenance/Quality Management (PM/QM) Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Lead Enterprise Security Recovery Architect,Various locations,Mid-Level
-Accenture,Accenture Edge - SAP Production Planning (PP) Lead,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Production Planning (PP) Consultant,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Plant Maintenance/Quality Management (PM/QM) Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Lead Enterprise Security Recovery Architect,Various locations,Mid-Level
-Accenture,Accenture Edge - SAP Production Planning (PP) Lead,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Production Planning (PP) Consultant,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Plant Maintenance/Quality Management (PM/QM) Consultant,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Lead Enterprise Security Recovery Architect,Various locations,Mid-Level
-Accenture,Accenture Edge - SAP Production Planning (PP) Lead,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Production Planning (PP) Consultant,Various locations,Senior Level
-Accenture,Accenture Edge - Senior SAP Plant Maintenance/Quality Management (PM/QM) Consultant,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
+Accenture,Knowledge Engineer Manager - Back-end Engineer,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Products,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Consumer Goods & Services,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive / Industrial,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Life Science,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Life Science,Various locations,Senior Level
+Accenture,Full Stack Agentic AI Engineer,Various locations,Senior Level
+Accenture,"Enterprise Architect Senior Manager, Health",Various locations,Senior Level
+Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
+Accenture,Knowledge Engineer Manager - Back-end Engineer,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Products,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Consumer Goods & Services,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive / Industrial,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Life Science,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Life Science,Various locations,Senior Level
+Accenture,Full Stack Agentic AI Engineer,Various locations,Senior Level
+Accenture,"Enterprise Architect Senior Manager, Health",Various locations,Senior Level
+Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
+Accenture,Knowledge Engineer Manager - Back-end Engineer,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Products,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Consumer Goods & Services,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive / Industrial,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Life Science,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Life Science,Various locations,Senior Level
+Accenture,Full Stack Agentic AI Engineer,Various locations,Senior Level
+Accenture,"Enterprise Architect Senior Manager, Health",Various locations,Senior Level
+Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Google Agentic AI Delivery Specialist,Various locations,Mid-Level
+Accenture,Knowledge Engineer - Back End,Various locations,Mid-Level
+Accenture,Knowledge Engineer Manager - Back-end Engineer,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Products,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Consumer Goods & Services,Various locations,Senior Level
+Accenture,SAP Manufacturing Workstream Manager - Automotive / Industrial,Various locations,Senior Level
+Accenture,SAP EWM Consultant - Life Science,Various locations,Mid-Level
+Accenture,SAP EWM Senior Manager - Life Science,Various locations,Senior Level
+Accenture,Full Stack Agentic AI Engineer,Various locations,Senior Level
+Accenture,"Enterprise Architect Senior Manager, Health",Various locations,Senior Level
+Accenture,Lead Enterprise Security Recovery Architect,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
