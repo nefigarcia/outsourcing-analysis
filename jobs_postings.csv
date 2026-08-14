@@ -1,38 +1,8 @@
 Company,Role,Country,Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Consultant – SAP 2027,US,Entry Level
-IBM,Research Scientist,India             	      ,Entry Level
-IBM,Associate Consultant – SAP 2027,US,Entry Level
-IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -46,8 +16,8 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
 IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
@@ -65,17 +35,17 @@ IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,SAP SD Consultant,Czechia             	,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
@@ -83,16 +53,46 @@ IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Consultant – SAP 2027,US,Entry Level
 IBM,Research Scientist,India             	      ,Entry Level
 IBM,Associate Consultant – SAP 2027,US,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Hardware Developer - STUDENT CONVERSION,Mexico             	      ,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Associate Consultant – SAP 2027,US,Entry Level
+IBM,Research Scientist,India             	      ,Entry Level
+IBM,Associate Consultant – SAP 2027,US,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
+IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -113,41 +113,57 @@ IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Senior Software Engineer - Confluent Cloud Traffic,Multiple Cities,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Consultant – SAP 2027,US,Entry Level
 IBM,Research Scientist,India             	      ,Entry Level
 IBM,Associate Consultant – SAP 2027,US,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
 IBM,Associate Package Consultant-SAP HANA FIN FI,Malaysia             	      ,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,SAP Edge - Offering Lead,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Manager or Senior Manager,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Commerce Senior Delivery Lead,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,SAP Edge - Offering Lead,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Manager or Senior Manager,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Commerce Senior Delivery Lead,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,SAP Edge - Offering Lead,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Manager or Senior Manager,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Commerce Senior Delivery Lead,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,SAP Edge - Offering Lead,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Field Service/EAM Manager or Senior Manager,Various locations,Senior Level
-Accenture,Utilities Transmission & Distribution Control Room & Real-Time Systems Consultant or Manager,Various locations,Mid-Level
-Accenture,Commerce Senior Delivery Lead,Various locations,Mid-Level
+Accenture,Healthcare Payer AI Decision Science Manager/Senior Manager,Various locations,Senior Level
+Accenture,CG&S Growth Strategy and Enterprise Reinvention - Strategy Principal Director,Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director - Americas,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Life Sciences Manager — Commercial Strategy,Various locations,Senior Level
+Accenture,OT Transformation Security Manager (Remote),Various locations,Senior Level
+Accenture,Life Sciences Consultant — Commercial Strategy,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Life Sciences Manager -- Commercial Transformation & Enablement,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Current Accenture Summer Consultants Only - Accenture Strategy Consultant Development Program - NAELFY27,Various locations,Mid-Level
+Accenture,Healthcare Payer AI Decision Science Manager/Senior Manager,Various locations,Senior Level
+Accenture,CG&S Growth Strategy and Enterprise Reinvention - Strategy Principal Director,Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director - Americas,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Life Sciences Manager — Commercial Strategy,Various locations,Senior Level
+Accenture,OT Transformation Security Manager (Remote),Various locations,Senior Level
+Accenture,Life Sciences Consultant — Commercial Strategy,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Life Sciences Manager -- Commercial Transformation & Enablement,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Current Accenture Summer Consultants Only - Accenture Strategy Consultant Development Program - NAELFY27,Various locations,Mid-Level
+Accenture,Healthcare Payer AI Decision Science Manager/Senior Manager,Various locations,Senior Level
+Accenture,CG&S Growth Strategy and Enterprise Reinvention - Strategy Principal Director,Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director - Americas,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Life Sciences Manager — Commercial Strategy,Various locations,Senior Level
+Accenture,OT Transformation Security Manager (Remote),Various locations,Senior Level
+Accenture,Life Sciences Consultant — Commercial Strategy,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Life Sciences Manager -- Commercial Transformation & Enablement,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Current Accenture Summer Consultants Only - Accenture Strategy Consultant Development Program - NAELFY27,Various locations,Mid-Level
+Accenture,Healthcare Payer AI Decision Science Manager/Senior Manager,Various locations,Senior Level
+Accenture,CG&S Growth Strategy and Enterprise Reinvention - Strategy Principal Director,Various locations,Senior Level
+Accenture,Connected Solutions Edge Business Architecture Director - Americas,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Life Sciences Manager — Commercial Strategy,Various locations,Senior Level
+Accenture,OT Transformation Security Manager (Remote),Various locations,Senior Level
+Accenture,Life Sciences Consultant — Commercial Strategy,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Senior Engineer,Various locations,Senior Level
+Accenture,Life Sciences Manager -- Commercial Transformation & Enablement,Various locations,Senior Level
+Accenture,Google GECX Contact Center as a Service Specialist,Various locations,Mid-Level
+Accenture,Current Accenture Summer Consultants Only - Accenture Strategy Consultant Development Program - NAELFY27,Various locations,Mid-Level
