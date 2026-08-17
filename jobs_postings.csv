@@ -1,94 +1,4 @@
 Company,Role,Country,Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
-IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
-IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
-IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
-IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,SAP SD Consultant,Czechia             	,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
-IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
@@ -119,39 +29,141 @@ IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Technical Content Developer, Cloud",Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Application Developer-Java & Web Technologies,Pakistan             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,SAP SD Consultant,Czechia             	,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
+IBM,Sales Development Representative - STUDENT CONVERSION,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Associate Package Specialist 2027 - Workday,US,Entry Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
-Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Mid-Level
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,,,
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Technical Content Developer, Cloud",Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
+Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Senior Level
+Accenture,"Supply Chain and Engineering– Software Defined Vehicle (SDV) Go-To-Market, Senior Manager / Associate Director",Various locations,Senior Level
+Accenture,Gemini Enterprise for CX Specialist,Various locations,Mid-Level
+Accenture,AI Native Transformation Manager,Various locations,Senior Level
+Accenture,AI Native Transformation Enterprise Consultant,Various locations,Mid-Level
+Accenture,Full Stack FinOps Consultant,Various locations,Mid-Level
+Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,AI & HPC Infrastructure Engineer,Various locations,Senior Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
-Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
-Accenture,"Technical Content Developer, Cloud",Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
+Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Senior Level
+Accenture,"Supply Chain and Engineering– Software Defined Vehicle (SDV) Go-To-Market, Senior Manager / Associate Director",Various locations,Senior Level
+Accenture,Gemini Enterprise for CX Specialist,Various locations,Mid-Level
+Accenture,AI Native Transformation Manager,Various locations,Senior Level
+Accenture,AI Native Transformation Enterprise Consultant,Various locations,Mid-Level
+Accenture,Full Stack FinOps Consultant,Various locations,Mid-Level
+Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,AI & HPC Infrastructure Engineer,Various locations,Senior Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
-Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Mid-Level
+Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Senior Level
+Accenture,"Supply Chain and Engineering– Software Defined Vehicle (SDV) Go-To-Market, Senior Manager / Associate Director",Various locations,Senior Level
+Accenture,Gemini Enterprise for CX Specialist,Various locations,Mid-Level
+Accenture,AI Native Transformation Manager,Various locations,Senior Level
+Accenture,AI Native Transformation Enterprise Consultant,Various locations,Mid-Level
+Accenture,Full Stack FinOps Consultant,Various locations,Mid-Level
+Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,AI & HPC Infrastructure Engineer,Various locations,Senior Level
+Accenture,"Technical Content Developer, Cloud",Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
+Accenture,Gemini Enterprise for CX Sr. Engineer,Various locations,Senior Level
+Accenture,"Supply Chain and Engineering– Software Defined Vehicle (SDV) Go-To-Market, Senior Manager / Associate Director",Various locations,Senior Level
+Accenture,Gemini Enterprise for CX Specialist,Various locations,Mid-Level
+Accenture,AI Native Transformation Manager,Various locations,Senior Level
+Accenture,AI Native Transformation Enterprise Consultant,Various locations,Mid-Level
+Accenture,Full Stack FinOps Consultant,Various locations,Mid-Level
+Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,AI & HPC Infrastructure Engineer,Various locations,Senior Level
