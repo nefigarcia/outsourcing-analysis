@@ -1,10 +1,10 @@
 Company,Role,Country,Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
 IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
@@ -23,36 +23,6 @@ IBM,Application Developer - STUDENT CONVERSION,Brazil             	      ,Entry 
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
-IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Graduate Back-End Developer,United                                                  ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Application Developer - STUDENT CONVERSION,Brazil             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
-IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
@@ -90,11 +60,11 @@ IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Lev
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
 IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
@@ -114,11 +84,41 @@ IBM,Associate Data Engineer 2027,US,Entry Level
 IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
 IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
 IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Associate Package Consultant 2027 – Oracle Cloud,US,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Graduate Back-End Developer,United                                                  ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Application Developer - STUDENT CONVERSION,Brazil             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] Security Specialist,Korea                       	      ,Entry Level
+IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,CPI développement optoélectronique,Canada             	      ,Entry Level
+IBM,Associate Cybersecurity Specialist – 2027,US,Entry Level
+IBM,Associate Talent & Workforce Transformation Specialist – 2027,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 Accenture,SAP Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,Source to Pay Ecosystem Business Development Senior Manager,Various locations,Senior Level
 Accenture,Learning Strategy & Advisory Manager - Utilities,Various locations,Senior Level
@@ -127,10 +127,10 @@ Accenture,Learning Strategy & Advisory Senior Manager - Utilities,Various locati
 Accenture,Management Consulting - Health Consultant,Various locations,Mid-Level
 Accenture,Clinical Management Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
-Accenture,M&A Senior Manager,Various locations,Senior Level
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement Manager NASPFY26,Various locations,Senior Level
 Accenture,Clinical & Financial Performance Manager,Various locations,Senior Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
+Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Mid-Level
 Accenture,SAP Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,Source to Pay Ecosystem Business Development Senior Manager,Various locations,Senior Level
 Accenture,Learning Strategy & Advisory Manager - Utilities,Various locations,Senior Level
@@ -139,10 +139,10 @@ Accenture,Learning Strategy & Advisory Senior Manager - Utilities,Various locati
 Accenture,Management Consulting - Health Consultant,Various locations,Mid-Level
 Accenture,Clinical Management Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
-Accenture,M&A Senior Manager,Various locations,Senior Level
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement Manager NASPFY26,Various locations,Senior Level
 Accenture,Clinical & Financial Performance Manager,Various locations,Senior Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
+Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Mid-Level
 Accenture,SAP Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,Source to Pay Ecosystem Business Development Senior Manager,Various locations,Senior Level
 Accenture,Learning Strategy & Advisory Manager - Utilities,Various locations,Senior Level
@@ -151,10 +151,10 @@ Accenture,Learning Strategy & Advisory Senior Manager - Utilities,Various locati
 Accenture,Management Consulting - Health Consultant,Various locations,Mid-Level
 Accenture,Clinical Management Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
-Accenture,M&A Senior Manager,Various locations,Senior Level
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement Manager NASPFY26,Various locations,Senior Level
 Accenture,Clinical & Financial Performance Manager,Various locations,Senior Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
+Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Mid-Level
 Accenture,SAP Sales Capture Senior Manager,Various locations,Senior Level
 Accenture,Source to Pay Ecosystem Business Development Senior Manager,Various locations,Senior Level
 Accenture,Learning Strategy & Advisory Manager - Utilities,Various locations,Senior Level
@@ -163,7 +163,7 @@ Accenture,Learning Strategy & Advisory Senior Manager - Utilities,Various locati
 Accenture,Management Consulting - Health Consultant,Various locations,Mid-Level
 Accenture,Clinical Management Manager,Various locations,Senior Level
 Accenture,"Enterprise Operating Model Senior Manager, Energy",Various locations,Senior Level
-Accenture,M&A Senior Manager,Various locations,Senior Level
-Accenture,Mergers & Acquisition Strategy Manager,Various locations,Senior Level
 Accenture,Sourcing & Procurement Manager NASPFY26,Various locations,Senior Level
 Accenture,Clinical & Financial Performance Manager,Various locations,Senior Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing Data and AI Consultant,Various locations,Mid-Level
+Accenture,"Management Consulting Delivery Specialist , Scientific and Laboratory Informatics",Various locations,Mid-Level
