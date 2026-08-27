@@ -1,13 +1,43 @@
 Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Technical Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
@@ -60,12 +90,12 @@ IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -79,75 +109,61 @@ IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,Technical Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Technical Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Technical Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Application Developer 2027- ServiceNow,US,Entry Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,Mainframe Specialist,Various locations,Senior Level
-Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,Mainframe Specialist,Various locations,Senior Level
-Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,Mainframe Specialist,Various locations,Senior Level
-Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Land Acquisition Specialist (Right-Of-Way), ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,Mainframe Specialist,Various locations,Senior Level
-Accenture,Tolling Industry Management Consulting Principal Director,Various locations,Senior Level
+Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing SAP/Oracle ERP Senior Manager Leader,Various locations,Senior Level
+Accenture,Software & Platforms Strategy Senior Manager,Various locations,Senior Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Oracle Fusion Manufacturing Senior Manager - Biotech/Biopharma,Various locations,Senior Level
+Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Mid-Level
+Accenture,Adobe Digital Architect,Various locations,Senior Level
+Accenture,SAP Production Planning & Execution Manager - Industrial,Various locations,Senior Level
+Accenture,Mulesoft Developer,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing SAP/Oracle ERP Senior Manager Leader,Various locations,Senior Level
+Accenture,Software & Platforms Strategy Senior Manager,Various locations,Senior Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Oracle Fusion Manufacturing Senior Manager - Biotech/Biopharma,Various locations,Senior Level
+Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Mid-Level
+Accenture,Adobe Digital Architect,Various locations,Senior Level
+Accenture,SAP Production Planning & Execution Manager - Industrial,Various locations,Senior Level
+Accenture,Mulesoft Developer,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing SAP/Oracle ERP Senior Manager Leader,Various locations,Senior Level
+Accenture,Software & Platforms Strategy Senior Manager,Various locations,Senior Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Oracle Fusion Manufacturing Senior Manager - Biotech/Biopharma,Various locations,Senior Level
+Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Mid-Level
+Accenture,Adobe Digital Architect,Various locations,Senior Level
+Accenture,SAP Production Planning & Execution Manager - Industrial,Various locations,Senior Level
+Accenture,Mulesoft Developer,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,"Transformation Excellence Senior Manager, IAAD",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consulting Manager",Various locations,Senior Level
+Accenture,"Life Sciences MedTech Supply Chain, Management Consultant",Various locations,Mid-Level
+Accenture,Life Sciences Industry Expert - Supply Chain and Manufacturing SAP/Oracle ERP Senior Manager Leader,Various locations,Senior Level
+Accenture,Software & Platforms Strategy Senior Manager,Various locations,Senior Level
+Accenture,Creative Agency Senior Art Director,Various locations,Mid-Level
+Accenture,Oracle Fusion Manufacturing Senior Manager - Biotech/Biopharma,Various locations,Senior Level
+Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Mid-Level
+Accenture,Adobe Digital Architect,Various locations,Senior Level
+Accenture,SAP Production Planning & Execution Manager - Industrial,Various locations,Senior Level
+Accenture,Mulesoft Developer,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
