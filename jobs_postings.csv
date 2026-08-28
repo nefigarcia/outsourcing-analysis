@@ -1,5 +1,65 @@
 Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
+IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
+IBM,Analyste programmeur junior,Canada             	      ,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
@@ -59,99 +119,51 @@ IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
-IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Data Engineer-Machine Learning,India             	      ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
-IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
-IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Designer,Various locations,Senior Level
-Accenture,Oracle Sales Capture Senior Manager,Various locations,Mid-Level
-Accenture,Design Lead,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Designer,Various locations,Senior Level
-Accenture,Oracle Sales Capture Senior Manager,Various locations,Mid-Level
-Accenture,Design Lead,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Designer,Various locations,Senior Level
-Accenture,Oracle Sales Capture Senior Manager,Various locations,Mid-Level
-Accenture,Design Lead,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager - Data Center, ANS",Various locations,Early Career
-Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
-Accenture,Designer,Various locations,Senior Level
-Accenture,Oracle Sales Capture Senior Manager,Various locations,Mid-Level
-Accenture,Design Lead,Various locations,Senior Level
-Accenture,4111: Americas Industry Marketing Lead,Various locations,Mid-Level
-Accenture,"Agentic Commerce Consultant l Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,Cybersecurity Business Operations & Sales Support Lead,Various locations,Senior Level
+Accenture,Cybersecurity Client Relationship & Sales Support Specialist,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
+Accenture,Workday Certified Financials WSS/CLM/Evisort Consultant,Various locations,Mid-Level
+Accenture,Finance AI Data Strategy Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - P2P/WSS,Various locations,Mid-Level
+Accenture,Cybersecurity Business Operations & Sales Support Lead,Various locations,Senior Level
+Accenture,Cybersecurity Client Relationship & Sales Support Specialist,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
+Accenture,Workday Certified Financials WSS/CLM/Evisort Consultant,Various locations,Mid-Level
+Accenture,Finance AI Data Strategy Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - P2P/WSS,Various locations,Mid-Level
+Accenture,Cybersecurity Business Operations & Sales Support Lead,Various locations,Senior Level
+Accenture,Cybersecurity Client Relationship & Sales Support Specialist,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
+Accenture,Workday Certified Financials WSS/CLM/Evisort Consultant,Various locations,Mid-Level
+Accenture,Finance AI Data Strategy Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - P2P/WSS,Various locations,Mid-Level
+Accenture,Cybersecurity Business Operations & Sales Support Lead,Various locations,Senior Level
+Accenture,Cybersecurity Client Relationship & Sales Support Specialist,Various locations,Mid-Level
+Accenture,Cyber Crisis & Readiness Manager,Various locations,Senior Level
+Accenture,"Life Sciences Manager — Commercial Strategy & Transformation, Data/AI",Various locations,Senior Level
+Accenture,Senior Advanced AI Research Engineer,Various locations,Senior Level
+Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
+Accenture,Workday Certified Financials WSS/CLM/Evisort Consultant,Various locations,Mid-Level
+Accenture,Finance AI Data Strategy Manager,Various locations,Senior Level
+Accenture,Workday Certified HCM Functional Lead,Various locations,Mid-Level
+Accenture,Workday Certified Financials Accounting Center/Prism Consultant,Various locations,Mid-Level
+Accenture,MuleSoft Architect,Various locations,Senior Level
+Accenture,Workday Certified Financials Consultant/Lead - P2P/WSS,Various locations,Mid-Level
