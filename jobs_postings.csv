@@ -2,10 +2,10 @@ Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -62,10 +62,10 @@ IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -82,20 +82,20 @@ IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
 IBM,X-Force Incident Response Associate Consultant 2027,US,Entry Level
 IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
 IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
-IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
-IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Associate Data Engineer 2027,US,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
-IBM,Associate Data Engineer 2027,US,Entry Level
+IBM,2026 Intern Conversion: Financial Analyst – Rochester MN,US,Entry Level
 IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
+IBM,Package Consultant-SuccessFactors Payroll,Pakistan             	      ,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -119,7 +119,6 @@ IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Associate Data Engineer 2027,US,Entry Level
 IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
-Accenture,Transaction Banking Associate Director,Various locations,Senior Level
 Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager – Academia,Various locations,Senior Level
@@ -130,8 +129,8 @@ Accenture,LearnVantage Software Sales Account Exec – Enterprise,Various locati
 Accenture,Sourcing & Procurement Sales Effectiveness Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Executive - State/Local Govt',Various locations,Senior Level
 Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
-Accenture,Transaction Banking Associate Director,Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
 Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager – Academia,Various locations,Senior Level
@@ -142,8 +141,8 @@ Accenture,LearnVantage Software Sales Account Exec – Enterprise,Various locati
 Accenture,Sourcing & Procurement Sales Effectiveness Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Executive - State/Local Govt',Various locations,Senior Level
 Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
-Accenture,Transaction Banking Associate Director,Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
 Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager – Academia,Various locations,Senior Level
@@ -154,8 +153,8 @@ Accenture,LearnVantage Software Sales Account Exec – Enterprise,Various locati
 Accenture,Sourcing & Procurement Sales Effectiveness Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Executive - State/Local Govt',Various locations,Senior Level
 Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
-Accenture,Transaction Banking Associate Director,Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
 Accenture,Consulting Senior Manager for Technology & AI-Native Companies,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager – Academia,Various locations,Senior Level
@@ -166,4 +165,5 @@ Accenture,LearnVantage Software Sales Account Exec – Enterprise,Various locati
 Accenture,Sourcing & Procurement Sales Effectiveness Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Executive - State/Local Govt',Various locations,Senior Level
 Accenture,CFOEV Principal Director,Various locations,Senior Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
+Accenture,MarTech Data Architect,Various locations,Senior Level
+Accenture,AI-Native MarTech Strategy Consultant,Various locations,Mid-Level
