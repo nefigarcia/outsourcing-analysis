@@ -1,17 +1,17 @@
 Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Federal Associate Developer 2027,US,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
 IBM,Package Consultant - SAP FIN FI - IBM France - (H/F),France                                      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,"Backend Developer Intern - Austin, TX - 2027",US,Entry Level
 IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
@@ -103,8 +103,8 @@ IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,"IBM Sales Accelerator Program: Sales Specialist for Italy (including 18 months in IBM Spain, Valencia)",Multiple Cities,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
@@ -114,44 +114,56 @@ IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
 IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
 IBM,Cyber Operations Support Engineer (TS/SCI),US,Entry Level
 IBM,Entry Level Supply Chain Operations 2027,Multiple Cities,Entry Level
 IBM,Technical Support Professional - STUDENT CONVERSION,Mexico             	      ,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Coupa Project Lead,Various locations,Mid-Level
+Accenture,Coupa Project Lead,Various locations,Senior Level
 Accenture,GCC Global Capability Center Product Engineering Manager,Various locations,Senior Level
 Accenture,OneStream Integration Lead,Various locations,Senior Level
 Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
 Accenture,SAP SuccessFactors Compensation Manager,Various locations,Senior Level
 Accenture,Accenture Edge - Oracle Financial Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Coupa Project Lead,Various locations,Mid-Level
+Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,SAP Employee Central/Time Senior Manager,Various locations,Senior Level
+Accenture,SAP MM/S4 Procurement Manager - Life Sciences,Various locations,Senior Level
+Accenture,Accenture Edge for AWS Tech Practice Leader – Data and AI,Various locations,Senior Level
+Accenture,SAP SuccessFactors Talent Manager,Various locations,Senior Level
+Accenture,Coupa Project Lead,Various locations,Senior Level
 Accenture,GCC Global Capability Center Product Engineering Manager,Various locations,Senior Level
 Accenture,OneStream Integration Lead,Various locations,Senior Level
 Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
 Accenture,SAP SuccessFactors Compensation Manager,Various locations,Senior Level
 Accenture,Accenture Edge - Oracle Financial Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Coupa Project Lead,Various locations,Mid-Level
+Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,SAP Employee Central/Time Senior Manager,Various locations,Senior Level
+Accenture,SAP MM/S4 Procurement Manager - Life Sciences,Various locations,Senior Level
+Accenture,Accenture Edge for AWS Tech Practice Leader – Data and AI,Various locations,Senior Level
+Accenture,SAP SuccessFactors Talent Manager,Various locations,Senior Level
+Accenture,Coupa Project Lead,Various locations,Senior Level
 Accenture,GCC Global Capability Center Product Engineering Manager,Various locations,Senior Level
 Accenture,OneStream Integration Lead,Various locations,Senior Level
 Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
 Accenture,SAP SuccessFactors Compensation Manager,Various locations,Senior Level
 Accenture,Accenture Edge - Oracle Financial Manager,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Coupa Project Lead,Various locations,Mid-Level
+Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,SAP Employee Central/Time Senior Manager,Various locations,Senior Level
+Accenture,SAP MM/S4 Procurement Manager - Life Sciences,Various locations,Senior Level
+Accenture,Accenture Edge for AWS Tech Practice Leader – Data and AI,Various locations,Senior Level
+Accenture,SAP SuccessFactors Talent Manager,Various locations,Senior Level
+Accenture,Coupa Project Lead,Various locations,Senior Level
 Accenture,GCC Global Capability Center Product Engineering Manager,Various locations,Senior Level
 Accenture,OneStream Integration Lead,Various locations,Senior Level
 Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
 Accenture,SAP SuccessFactors Compensation Manager,Various locations,Senior Level
 Accenture,Accenture Edge - Oracle Financial Manager,Various locations,Senior Level
+Accenture,Knowledge Engineer / Semantic Expert for AI,Various locations,Mid-Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,SAP Employee Central/Time Senior Manager,Various locations,Senior Level
+Accenture,SAP MM/S4 Procurement Manager - Life Sciences,Various locations,Senior Level
+Accenture,Accenture Edge for AWS Tech Practice Leader – Data and AI,Various locations,Senior Level
+Accenture,SAP SuccessFactors Talent Manager,Various locations,Senior Level
