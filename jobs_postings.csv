@@ -42,6 +42,36 @@ IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (BA),Thailand             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM SD,Korea                       	      ,Entry Level
+IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
+IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Software Developer 2027,Poland             	      ,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Backend Developer Intern - Austin, TX - 2027",US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM PP,Korea                       	      ,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
@@ -60,36 +90,6 @@ IBM,Qubit Characterization Engineer,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM PP,Korea                       	      ,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Associate Experience Consultant 2027,US,Entry Level
-IBM,Software Developer 2027,Poland             	      ,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"Backend Developer Intern - Austin, TX - 2027",US,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Threat Hunter - IBM CISO,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (BA),Thailand             	      ,Entry Level
-IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM SD,Korea                       	      ,Entry Level
-IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
-IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
-IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
-IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Software Developer 2027,Poland             	      ,Entry Level
@@ -119,39 +119,51 @@ IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,AI Architect - FDE Associate Director,Various locations,Senior Level
+Accenture,AI Architect - FDE Associate Director,Various locations,Mid-Level
 Accenture,AI Engineer - FDE Software Engineering Sr. Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Mid-Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
 Accenture,Business Development Senior Manager - Adobe Song,Various locations,Senior Level
-Accenture,AI Led Forward Deployed Engineer | Design & Digital Products,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,AI Architect - FDE Associate Director,Various locations,Senior Level
+Accenture,SAP Finance Associate Director,Various locations,Senior Level
+Accenture,Network Engineer Lead,Various locations,Senior Level
+Accenture,Senior Experience Designer | Product & Conversation Design,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Edge Product — Account Manager & Product Liaison - 6472305,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer (FDE) Full Stack,Various locations,Mid-Level
+Accenture,P&C Insurance (Personal & Commercial) Transformation Manager,Various locations,Senior Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,AI Architect - FDE Associate Director,Various locations,Mid-Level
 Accenture,AI Engineer - FDE Software Engineering Sr. Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Mid-Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
 Accenture,Business Development Senior Manager - Adobe Song,Various locations,Senior Level
-Accenture,AI Led Forward Deployed Engineer | Design & Digital Products,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,AI Architect - FDE Associate Director,Various locations,Senior Level
+Accenture,SAP Finance Associate Director,Various locations,Senior Level
+Accenture,Network Engineer Lead,Various locations,Senior Level
+Accenture,Senior Experience Designer | Product & Conversation Design,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Edge Product — Account Manager & Product Liaison - 6472305,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer (FDE) Full Stack,Various locations,Mid-Level
+Accenture,P&C Insurance (Personal & Commercial) Transformation Manager,Various locations,Senior Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,AI Architect - FDE Associate Director,Various locations,Mid-Level
 Accenture,AI Engineer - FDE Software Engineering Sr. Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Mid-Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
 Accenture,Business Development Senior Manager - Adobe Song,Various locations,Senior Level
-Accenture,AI Led Forward Deployed Engineer | Design & Digital Products,Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,AI Architect - FDE Associate Director,Various locations,Senior Level
+Accenture,SAP Finance Associate Director,Various locations,Senior Level
+Accenture,Network Engineer Lead,Various locations,Senior Level
+Accenture,Senior Experience Designer | Product & Conversation Design,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Edge Product — Account Manager & Product Liaison - 6472305,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer (FDE) Full Stack,Various locations,Mid-Level
+Accenture,P&C Insurance (Personal & Commercial) Transformation Manager,Various locations,Senior Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
+Accenture,AI Architect - FDE Associate Director,Various locations,Mid-Level
 Accenture,AI Engineer - FDE Software Engineering Sr. Manager,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Mid-Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
 Accenture,Business Development Senior Manager - Adobe Song,Various locations,Senior Level
-Accenture,AI Led Forward Deployed Engineer | Design & Digital Products,Various locations,Mid-Level
+Accenture,SAP Finance Associate Director,Various locations,Senior Level
+Accenture,Network Engineer Lead,Various locations,Senior Level
+Accenture,Senior Experience Designer | Product & Conversation Design,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Edge Product — Account Manager & Product Liaison - 6472305,Various locations,Senior Level
+Accenture,Google Ecosystem Business Development Director,Various locations,Senior Level
+Accenture,Forward Deployed Engineer (FDE) Full Stack,Various locations,Mid-Level
+Accenture,P&C Insurance (Personal & Commercial) Transformation Manager,Various locations,Senior Level
+Accenture,AWS Technical Architect,Various locations,Senior Level
