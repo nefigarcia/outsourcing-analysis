@@ -8,6 +8,36 @@ IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Entry Level Software Developer-Different locations,Multiple Cities,Entry Level
+IBM,Entry Level Sales Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Site Reliability Engineer 2027,Poland             	      ,Entry Level
+IBM,Software Developer 2027,Poland             	      ,Entry Level
+IBM,AI & Automation Data Scientist Associate / Data Scientist associé(e) en IA et automatisation,Multiple Cities,Entry Level
+IBM,"Entry Level Cloud Developer - Chicago, IL - 2027",US,Entry Level
+IBM,Federal Associate Experience Consultant 2027,US,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,AI Security Researcher,US,Entry Level
+IBM,Entry Level Data Partner Sales,Slovakia             	,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
+IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Associate Business Analyst,Thailand             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -Austin,US,Entry Level
+IBM,"Entry Level Product Experience Designer/Engineer - Austin, TX - 2027",US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP ABAP Developer,Korea                       	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
+IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -15,6 +45,10 @@ IBM,AI Security Researcher,US,Entry Level
 IBM,Entry Level Data Partner Sales,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Associate Business Analyst,Thailand             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -Austin,US,Entry Level
+IBM,"Entry Level Product Experience Designer/Engineer - Austin, TX - 2027",US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP ABAP Developer,Korea                       	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
 IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
@@ -23,15 +57,11 @@ IBM,"Federal Associate Consultant - Finance (Rocket Center, WV)",US,Entry Level
 IBM,"Federal Associate Consultant - Salesforce (Rocket Center, WV)",US,Entry Level
 IBM,Federal Associate Quality Engineer 2027,US,Entry Level
 IBM,OpenShift Engineer,Ireland             	      ,Entry Level
+IBM,Front End Software Developer,US,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
-IBM,Entry Level Software Data Seller - Slovenia,SI,Entry Level
-IBM,Entry Level Sales Specialist Automation - Netherlands,Netherlands            ,Entry Level
-IBM,Business Transformation Consultant-Adobe,Pakistan             	      ,Entry Level
-IBM,Associate SAP S/4 HANA Technology / SAP Architect (w/m/d),Multiple Cities,Entry Level
-IBM,2026 Intern Conversion : Hardware Engineer,Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -41,12 +71,16 @@ IBM,Associate Security Specialist - Infrastructure Security,Poland             	
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
 IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,AI Security Researcher,US,Entry Level
 IBM,Entry Level Data Partner Sales,Slovakia             	,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Associate Business Analyst,Thailand             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -Austin,US,Entry Level
+IBM,"Entry Level Product Experience Designer/Engineer - Austin, TX - 2027",US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP ABAP Developer,Korea                       	      ,Entry Level
 IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
 IBM,"Federal Associate Consultant - Finance (Rocket Center, WV)",US,Entry Level
@@ -55,43 +89,9 @@ IBM,Federal Associate Quality Engineer 2027,US,Entry Level
 IBM,OpenShift Engineer,Ireland             	      ,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
 IBM,Entry Level Software Data Seller - Slovenia,SI,Entry Level
-IBM,Associate SAP S/4 HANA Technology / SAP Architect (w/m/d),Multiple Cities,Entry Level
-IBM,Entry Level Sales Specialist Automation - Netherlands,Netherlands            ,Entry Level
-IBM,Business Transformation Consultant-Adobe,Pakistan             	      ,Entry Level
-IBM,2026 Intern Conversion : Hardware Engineer,Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Federal Associate Experience Consultant 2027,US,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Software Systems Engineer,United                                                  ,Entry Level
-IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
-IBM,AI Security Researcher,US,Entry Level
-IBM,Entry Level Data Partner Sales,Slovakia             	,Entry Level
-IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
-IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,"Federal Associate Consultant - Finance (Rocket Center, WV)",US,Entry Level
-IBM,"Federal Associate Consultant - Salesforce (Rocket Center, WV)",US,Entry Level
-IBM,Federal Associate Quality Engineer 2027,US,Entry Level
-IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
-IBM,OpenShift Engineer,Ireland             	      ,Entry Level
-IBM,Corporate Development Associate,US,Entry Level
-IBM,Entry Level Software Data Seller - Slovenia,SI,Entry Level
-IBM,Associate SAP S/4 HANA Technology / SAP Architect (w/m/d),Multiple Cities,Entry Level
-IBM,Entry Level Sales Specialist Automation - Netherlands,Netherlands            ,Entry Level
-IBM,Business Transformation Consultant-Adobe,Pakistan             	      ,Entry Level
-IBM,Associate Consultant SAP Logistic SCM,Multiple Cities,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
-IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
@@ -99,12 +99,16 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Federal Associate Experience Consultant 2027,US,Entry Level
-IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Software Systems Engineer,United                                                  ,Entry Level
+IBM,2027 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,AI Security Researcher,US,Entry Level
 IBM,Entry Level Data Partner Sales,Slovakia             	,Entry Level
 IBM,Entry Level Sales Specialist,Slovakia             	,Entry Level
 IBM,(2026 Campus Hire) Associate Application Consultant,Taiwan          ,Entry Level
+IBM,Associate Business Analyst,Thailand             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -Austin,US,Entry Level
+IBM,"Entry Level Product Experience Designer/Engineer - Austin, TX - 2027",US,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP ABAP Developer,Korea                       	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,"Federal Associate Technical Specialist (Rocket Center, WV)",US,Entry Level
 IBM,Entry level Technical Sales Specialist Storage - IBM Denmark (incl. Assignment in Valencia),Denmark                                                    ,Entry Level
@@ -115,55 +119,31 @@ IBM,Federal Associate Quality Engineer 2027,US,Entry Level
 IBM,OpenShift Engineer,Ireland             	      ,Entry Level
 IBM,Corporate Development Associate,US,Entry Level
 IBM,Entry Level Software Data Seller - Slovenia,SI,Entry Level
-IBM,Associate SAP S/4 HANA Technology / SAP Architect (w/m/d),Multiple Cities,Entry Level
-IBM,Entry Level Sales Specialist Automation - Netherlands,Netherlands            ,Entry Level
-IBM,Business Transformation Consultant-Adobe,Pakistan             	      ,Entry Level
-IBM,Associate Consultant SAP Logistic SCM,Multiple Cities,Entry Level
+Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
-Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
-Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
-Accenture,Network Engineer Lead,Various locations,Senior Level
-Accenture,Manufacturing Consultant - Life Sciences - Digital CMC / PLM,Various locations,Mid-Level
-Accenture,Entry Level Technology Summer Analyst - Various Locations - NAELFY27,Various locations,Early Career
-Accenture,"Manufacturing Consulting Manager/Senior Manager - Life Sciences, Digital CMC / PLM",Various locations,Senior Level
-Accenture,Salesforce Revenue Cloud Management Tech Architect,Various locations,Senior Level
-Accenture,Oracle ICM Configuration Lead - Manager,Various locations,Senior Level
-Accenture,Recruiting Specialist - Financial Services,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
-Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
-Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
-Accenture,Network Engineer Lead,Various locations,Senior Level
-Accenture,Manufacturing Consultant - Life Sciences - Digital CMC / PLM,Various locations,Mid-Level
-Accenture,Entry Level Technology Summer Analyst - Various Locations - NAELFY27,Various locations,Early Career
-Accenture,"Manufacturing Consulting Manager/Senior Manager - Life Sciences, Digital CMC / PLM",Various locations,Senior Level
-Accenture,Salesforce Revenue Cloud Management Tech Architect,Various locations,Senior Level
-Accenture,Oracle ICM Configuration Lead - Manager,Various locations,Senior Level
-Accenture,Recruiting Specialist - Financial Services,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
-Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
-Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
-Accenture,Network Engineer Lead,Various locations,Senior Level
-Accenture,Manufacturing Consultant - Life Sciences - Digital CMC / PLM,Various locations,Mid-Level
-Accenture,Entry Level Technology Summer Analyst - Various Locations - NAELFY27,Various locations,Early Career
-Accenture,"Manufacturing Consulting Manager/Senior Manager - Life Sciences, Digital CMC / PLM",Various locations,Senior Level
-Accenture,Salesforce Revenue Cloud Management Tech Architect,Various locations,Senior Level
-Accenture,Oracle ICM Configuration Lead - Manager,Various locations,Senior Level
-Accenture,Recruiting Specialist - Financial Services,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Consultant,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
+Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
 Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,AI-Enabled Process Consultant / Manager / Senior Manager,Various locations,Mid-Level
-Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Mid-Level
-Accenture,AI Native Software Engineering Manager,Various locations,Senior Level
-Accenture,Network Engineer Lead,Various locations,Senior Level
-Accenture,Manufacturing Consultant - Life Sciences - Digital CMC / PLM,Various locations,Mid-Level
-Accenture,Entry Level Technology Summer Analyst - Various Locations - NAELFY27,Various locations,Early Career
-Accenture,"Manufacturing Consulting Manager/Senior Manager - Life Sciences, Digital CMC / PLM",Various locations,Senior Level
-Accenture,Salesforce Revenue Cloud Management Tech Architect,Various locations,Senior Level
-Accenture,Oracle ICM Configuration Lead - Manager,Various locations,Senior Level
-Accenture,Recruiting Specialist - Financial Services,Various locations,Mid-Level
+Accenture,Enterprise AI Value Strategy Consultant,Various locations,Senior Level
