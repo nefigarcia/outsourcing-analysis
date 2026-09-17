@@ -1,5 +1,35 @@
 Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Associate Experience Consultant 2027,US,Entry Level
+IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
+IBM,Federal Strategy Consultant 2027,US,Entry Level
+IBM,Software Developer 2027,Poland             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM PP,Korea                       	      ,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,"Backend Developer Intern - Austin, TX - 2027",US,Entry Level
+IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
+IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (BA),Thailand             	      ,Entry Level
+IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM SD,Korea                       	      ,Entry Level
+IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
@@ -30,14 +60,14 @@ IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
 IBM,Software Developer 2027,Poland             	      ,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM PP,Korea                       	      ,Entry Level
 IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
 IBM,"Backend Developer Intern - Austin, TX - 2027",US,Entry Level
@@ -55,10 +85,10 @@ IBM,Entry level Brand Sales Specialist - Power - Luxembourg,Luxembourg          
 IBM,Associate Application Consultant-AWS Cloud (BA),Thailand             	      ,Entry Level
 IBM,[2026 IBM Consulting Associates] SAP Consultant - SAP HANA SCM SD,Korea                       	      ,Entry Level
 IBM,Associate Designer-User Experience Design,Thailand             	      ,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Entry level Technical Storage Seller - Belgium,Belgium             	         ,Entry Level
@@ -89,31 +119,39 @@ IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,"Cyber Intelligence Manager, Americas",Various locations,Senior Level
-Accenture,"Head of Cyber Intelligence, Americas",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Head of Cyber Intelligence, Americas",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Senior Level
+Accenture,Security Solution Architect Senior Manager,Various locations,Senior Level
+Accenture,Life & Annuity Application Data Lead,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,"Cyber Intelligence Manager, Americas",Various locations,Senior Level
-Accenture,"Head of Cyber Intelligence, Americas",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Head of Cyber Intelligence, Americas",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Senior Level
+Accenture,Security Solution Architect Senior Manager,Various locations,Senior Level
+Accenture,Life & Annuity Application Data Lead,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,"Cyber Intelligence Manager, Americas",Various locations,Senior Level
-Accenture,"Head of Cyber Intelligence, Americas",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Pursuit Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Project Accountant, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Senior Scheduler, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Infrastructure & Capital Projects – Construction Manager, ANS",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Data Center Construction Senior Energy Marshal, ANS",Various locations,Senior Level
+Accenture,"Head of Cyber Intelligence, Americas",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Senior Level
+Accenture,Security Solution Architect Senior Manager,Various locations,Senior Level
+Accenture,Life & Annuity Application Data Lead,Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Graduate Development Program - Data Center Cost Management, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Mid-Level
+Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
 Accenture,"Cyber Intelligence Manager, Americas",Various locations,Senior Level
-Accenture,"Head of Cyber Intelligence, Americas",Various locations,Mid-Level
+Accenture,"Head of Cyber Intelligence, Americas",Various locations,Senior Level
+Accenture,Customer Experience & Service Transformation Management Advisory Consultant,Various locations,Senior Level
+Accenture,Security Solution Architect Senior Manager,Various locations,Senior Level
+Accenture,Life & Annuity Application Data Lead,Various locations,Mid-Level
