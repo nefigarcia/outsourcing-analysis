@@ -14,11 +14,11 @@ IBM,Associate Experience Consultant 2027,US,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
 IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
@@ -81,14 +81,14 @@ IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
 IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
 IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
-IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,Brand Tech Sales Specialist - Automation (대졸신입),Korea                       	      ,Entry Level
-IBM,Associate Package Consultant-EA Business Transformation & Change,Singapore             	      ,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -111,55 +111,51 @@ IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Associate Quantum Hardware Mechanical Engineer,US,Entry Level
 IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
+IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,Brand Tech Sales Specialist - Automation (대졸신입),Korea                       	      ,Entry Level
+IBM,Associate Package Consultant-EA Business Transformation & Change,Singapore             	      ,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Entry level Data Scientist: Systems Assurance Data Analytics - 2027,US,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
-IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
-IBM,Data Services Developer Associate (May or September 2027 - Toronto or Calgary),Multiple Cities,Entry Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,"B2B Sales Transformation Manager/Senior Manager | Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
+IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,ArcGIS Utilities Industry Principal Director,Various locations,Mid-Level
 Accenture,ArcGIS Utility Network Solution Architect,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Construction Manager III, ANS","Los Angeles, CA",Senior Level
-Accenture,Investment Banking Manager,Various locations,Mid-Level
-Accenture,Sales Transformation Consultant - Products,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,"B2B Sales Transformation Manager/Senior Manager | Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,Transportation & Logistics (Industrials) - Management Consulting Manager,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Oracle Sales Capture Senior Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,ArcGIS Utilities Industry Principal Director,Various locations,Mid-Level
 Accenture,ArcGIS Utility Network Solution Architect,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Construction Manager III, ANS","Los Angeles, CA",Senior Level
-Accenture,Investment Banking Manager,Various locations,Mid-Level
-Accenture,Sales Transformation Consultant - Products,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,"B2B Sales Transformation Manager/Senior Manager | Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,Transportation & Logistics (Industrials) - Management Consulting Manager,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Oracle Sales Capture Senior Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,ArcGIS Utilities Industry Principal Director,Various locations,Mid-Level
 Accenture,ArcGIS Utility Network Solution Architect,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Construction Manager III, ANS","Los Angeles, CA",Senior Level
-Accenture,Investment Banking Manager,Various locations,Mid-Level
-Accenture,Sales Transformation Consultant - Products,Various locations,Senior Level
-Accenture,Industry & Function AI Decision Science Consultant,Various locations,Mid-Level
-Accenture,Enterprise AI Value Strategy Manager,Various locations,Senior Level
-Accenture,Enterprise AI Value Strategy Consultant,Various locations,Mid-Level
-Accenture,"B2B Sales Transformation Manager/Senior Manager | Comms, Media, & Technology",Various locations,Senior Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,Transportation & Logistics (Industrials) - Management Consulting Manager,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Oracle Sales Capture Senior Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Construction Senior Health and Safety Manager, ANS",Various locations,Senior Level
+Accenture,ArcGIS Utilities Industry Principal Director,Various locations,Mid-Level
 Accenture,ArcGIS Utility Network Solution Architect,Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Resources (Energy, Utilities)",Various locations,Senior Level
-Accenture,"Technology Strategy Manager/Sr Manager, Financial Services",Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects - Construction Manager III, ANS","Los Angeles, CA",Senior Level
-Accenture,Investment Banking Manager,Various locations,Mid-Level
-Accenture,Sales Transformation Consultant - Products,Various locations,Senior Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,Transportation & Logistics (Industrials) - Management Consulting Manager,Various locations,Senior Level
+Accenture,Supply Chain & Logistics (Industrials) – Management Consulting Senior Manager,Various locations,Senior Level
+Accenture,Oracle Sales Capture Senior Manager,Various locations,Senior Level
+Accenture,ServiceNow Delivery Lead Senior Manager,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
