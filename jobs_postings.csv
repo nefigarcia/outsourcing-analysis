@@ -14,10 +14,10 @@ IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
 IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Qubit Characterization Engineer,US,Entry Level
 IBM,Associate Package Consultant-EA Business Transformation & Change,Singapore             	      ,Entry Level
@@ -104,10 +104,10 @@ IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,Associate Data Scientist 2027 - AI & Data Analytics,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Qubit Characterization Engineer,US,Entry Level
 IBM,Associate Package Consultant-EA Business Transformation & Change,Singapore             	      ,Entry Level
@@ -119,15 +119,6 @@ IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
-Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS",Various locations,Mid-Level
-Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
-Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
-Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
-Accenture,Technology Delivery Associate Director - Chemicals/Natural Resources,Various locations,Senior Level
-Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Mid-Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
-Accenture,"Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song",Various locations,Senior Level
 Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS",Various locations,Mid-Level
 Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
 Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
@@ -152,6 +143,15 @@ Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
 Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
 Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
 Accenture,Technology Delivery Associate Director - Chemicals/Natural Resources,Various locations,Senior Level
-Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Mid-Level
-Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Senior Level
+Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Mid-Level
+Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
+Accenture,"Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song",Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Cost Manager, ANS",Various locations,Mid-Level
+Accenture,"Infrastructure & Capital Projects – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
+Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
+Accenture,"Infrastructure & Capital Projects – Assistant Construction Project Manager, ANS",Various locations,Senior Level
+Accenture,Group Employee Benefits Consulting Manager,Various locations,Senior Level
+Accenture,Technology Delivery Associate Director - Chemicals/Natural Resources,Various locations,Senior Level
+Accenture,Marketing Transformation Manager - Life Sciences,Various locations,Mid-Level
+Accenture,Marketing Transformation Senior Manager - Life Sciences,Various locations,Senior Level
 Accenture,"Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song",Various locations,Senior Level
