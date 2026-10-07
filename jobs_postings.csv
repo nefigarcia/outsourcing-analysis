@@ -1,13 +1,13 @@
 Company,Role,Country,Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Threat Hunter - IBM CISO,US,Entry Level
 IBM,SAP MM Associate Consultant,Greece,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Threat Hunter - IBM CISO,US,Entry Level
 IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Graduate/Associate Package Consultant-SAP Ariba,Multiple Cities,Entry Level
@@ -19,75 +19,45 @@ IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
 IBM,Recruiter – Technology Hiring,US,Entry Level
-IBM,Qubit Characterization Engineer,US,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Qubit Characterization Engineer,US,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
+IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
+IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,SAP MM Associate Consultant,Greece,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,SAP MM Associate Consultant,Greece,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Recruiter – Technology Hiring,US,Entry Level
 IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Graduate/Associate Package Consultant-SAP Ariba,Multiple Cities,Entry Level
-IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
+IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
 IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Recruiter – Technology Hiring,US,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,Qubit Characterization Engineer,US,Entry Level
-IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Client Engineering,Switzerland             ,Entry Level
-IBM,SAP MM Associate Consultant,Greece,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Threat Hunter - IBM CISO,US,Entry Level
-IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
-IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
-IBM,Graduate/Associate Package Consultant-SAP Ariba,Multiple Cities,Entry Level
-IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
-IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
-IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
-IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
-IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
-IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
-IBM,Recruiter – Technology Hiring,US,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
-IBM,Qubit Characterization Engineer,US,Entry Level
-IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,IBMi Delivery Consultant,US,Entry Level
-IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
-IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
-IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Client Engineering,Switzerland             ,Entry Level
 IBM,SAP MM Associate Consultant,Greece,Entry Level
@@ -118,48 +88,82 @@ IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Client Engineering,Switzerland             ,Entry Level
+IBM,SAP MM Associate Consultant,Greece,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Associate Data Engineer 2027,Multiple Cities,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,US,Entry Level
+IBM,Recruiter – Technology Hiring,US,Entry Level
+IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
+IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
+IBM,Graduate/Associate Package Consultant-SAP Ariba,Multiple Cities,Entry Level
+IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
+IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
+IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
+IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Qubit Characterization Engineer,US,Entry Level
+IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,IBMi Delivery Consultant,US,Entry Level
+IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
+IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
+IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
+IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
 Accenture,Product Management Specialist- Aftermarket & Service Supply Chain,Various locations,Mid-Level
 Accenture,Solution Architect- Digital & AI Products,Various locations,Mid-Level
-Accenture,"Accenture Construct – Construction Manager, Transit, ANS",Various locations,Senior Level
 Accenture,Retail Merchandising and Planning – Strategy Manager,Various locations,Senior Level
 Accenture,Sales Capture Senior Manager - Private AI,Various locations,Senior Level
 Accenture,Product Data & Agentic Commerce Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
-Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Mid-Level
-Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Senior Level
-Accenture,"Trading, Investment & Optimization - QuantAI Full Stack Manager (Hybrid)",Various locations,Senior Level
-Accenture,Service Delivery Lead - CMT,Various locations,Mid-Level
+Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Senior Level
+Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Mid-Level
+Accenture,Service Delivery Lead - CMT,Various locations,Senior Level
+Accenture,UKG Ready Payroll Consultant,Various locations,Mid-Level
+Accenture,UKG Ready HR Lead,Various locations,Mid-Level
+Accenture,Workforce Software (ADP) Techno/Functional Architect,Various locations,Senior Level
 Accenture,Product Management Specialist- Aftermarket & Service Supply Chain,Various locations,Mid-Level
 Accenture,Solution Architect- Digital & AI Products,Various locations,Mid-Level
-Accenture,"Accenture Construct – Construction Manager, Transit, ANS",Various locations,Senior Level
 Accenture,Retail Merchandising and Planning – Strategy Manager,Various locations,Senior Level
 Accenture,Sales Capture Senior Manager - Private AI,Various locations,Senior Level
 Accenture,Product Data & Agentic Commerce Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
-Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Mid-Level
-Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Senior Level
-Accenture,"Trading, Investment & Optimization - QuantAI Full Stack Manager (Hybrid)",Various locations,Senior Level
-Accenture,Service Delivery Lead - CMT,Various locations,Mid-Level
+Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Senior Level
+Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Mid-Level
+Accenture,Service Delivery Lead - CMT,Various locations,Senior Level
+Accenture,UKG Ready Payroll Consultant,Various locations,Mid-Level
+Accenture,UKG Ready HR Lead,Various locations,Mid-Level
+Accenture,Workforce Software (ADP) Techno/Functional Architect,Various locations,Senior Level
 Accenture,Product Management Specialist- Aftermarket & Service Supply Chain,Various locations,Mid-Level
 Accenture,Solution Architect- Digital & AI Products,Various locations,Mid-Level
-Accenture,"Accenture Construct – Construction Manager, Transit, ANS",Various locations,Senior Level
 Accenture,Retail Merchandising and Planning – Strategy Manager,Various locations,Senior Level
 Accenture,Sales Capture Senior Manager - Private AI,Various locations,Senior Level
 Accenture,Product Data & Agentic Commerce Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
-Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Mid-Level
-Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Senior Level
-Accenture,"Trading, Investment & Optimization - QuantAI Full Stack Manager (Hybrid)",Various locations,Senior Level
-Accenture,Service Delivery Lead - CMT,Various locations,Mid-Level
+Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Senior Level
+Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Mid-Level
+Accenture,Service Delivery Lead - CMT,Various locations,Senior Level
+Accenture,UKG Ready Payroll Consultant,Various locations,Mid-Level
+Accenture,UKG Ready HR Lead,Various locations,Mid-Level
+Accenture,Workforce Software (ADP) Techno/Functional Architect,Various locations,Senior Level
 Accenture,Product Management Specialist- Aftermarket & Service Supply Chain,Various locations,Mid-Level
 Accenture,Solution Architect- Digital & AI Products,Various locations,Mid-Level
-Accenture,"Accenture Construct – Construction Manager, Transit, ANS",Various locations,Senior Level
 Accenture,Retail Merchandising and Planning – Strategy Manager,Various locations,Senior Level
 Accenture,Sales Capture Senior Manager - Private AI,Various locations,Senior Level
 Accenture,Product Data & Agentic Commerce Manager,Various locations,Senior Level
 Accenture,LearnVantage Software Sales Account Exec Manager Enterprise Account Management,Various locations,Senior Level
-Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Mid-Level
-Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Senior Level
-Accenture,"Trading, Investment & Optimization - QuantAI Full Stack Manager (Hybrid)",Various locations,Senior Level
-Accenture,Service Delivery Lead - CMT,Various locations,Mid-Level
+Accenture,Enterprise Productivity & Performance Senior Manager,Various locations,Senior Level
+Accenture,Workforce Software (Time and Attendance) Functional/Technical Consultant,Various locations,Mid-Level
+Accenture,Service Delivery Lead - CMT,Various locations,Senior Level
+Accenture,UKG Ready Payroll Consultant,Various locations,Mid-Level
+Accenture,UKG Ready HR Lead,Various locations,Mid-Level
+Accenture,Workforce Software (ADP) Techno/Functional Architect,Various locations,Senior Level
