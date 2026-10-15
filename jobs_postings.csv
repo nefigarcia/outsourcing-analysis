@@ -13,11 +13,11 @@ IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Quantum Hardware Assembly R&D Engineer,US,Entry Level
 IBM,Technical Support - Hardware and Software Products ELH - 2027,US,Entry Level
 IBM,Entry Level QA/Test Developer-Tucson-AZ,US,Entry Level
+IBM,Recruiter – Technology Hiring,US,Entry Level
+IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (BA),Thailand             	      ,Entry Level
 IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
 IBM,"Entry level Hardware Developer - Rochester, MN - 2027",US,Entry Level
-IBM,Recruiter – Technology Hiring,US,Entry Level
-IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
@@ -27,8 +27,8 @@ IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -51,14 +51,14 @@ IBM,"Entry level Hardware Developer - Rochester, MN - 2027",US,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
@@ -81,12 +81,12 @@ IBM,"Entry level Hardware Developer - Rochester, MN - 2027",US,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
+IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
+IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,"Entry Level Technical Product Manager - Austin, TX - 2027",US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
@@ -117,53 +117,41 @@ IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,"Entry Level Hardware Developer 2027 -Poughkeepsie, NY",US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Hardware Developer 2027 -New York,Multiple Cities,Entry Level
-IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
+IBM,Technology Seller – Entry Level Sales Program 2027,Multiple Cities,Entry Level
+Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Senior Level
+Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
 Accenture,Retail Banking Manager,Various locations,Senior Level
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
-Accenture,P&C Management Consulting Manager,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
 Accenture,OneStream TechnoFunctional Solutions Architect,Various locations,Senior Level
 Accenture,o9/Kinaxis Business Development Senior Manager,Various locations,Senior Level
-Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Senior Level
-Accenture,"HR Reinvention Principal Director - Consumer Goods, Retail and Travel",Various locations,Senior Level
-Accenture,"Insights Lead, Brand & Consumer Analytics",Various locations,Senior Level
-Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
-Accenture,Asset Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Workday Certified Financials (Contract to Cash / PSA) Consultant,Various locations,Mid-Level
+Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Early Career
+Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Senior Level
+Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
 Accenture,Retail Banking Manager,Various locations,Senior Level
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
-Accenture,P&C Management Consulting Manager,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
 Accenture,OneStream TechnoFunctional Solutions Architect,Various locations,Senior Level
 Accenture,o9/Kinaxis Business Development Senior Manager,Various locations,Senior Level
-Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Senior Level
-Accenture,"HR Reinvention Principal Director - Consumer Goods, Retail and Travel",Various locations,Senior Level
-Accenture,"Insights Lead, Brand & Consumer Analytics",Various locations,Senior Level
-Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
-Accenture,Asset Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Workday Certified Financials (Contract to Cash / PSA) Consultant,Various locations,Mid-Level
+Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Early Career
+Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Senior Level
+Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
 Accenture,Retail Banking Manager,Various locations,Senior Level
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
-Accenture,P&C Management Consulting Manager,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
 Accenture,OneStream TechnoFunctional Solutions Architect,Various locations,Senior Level
 Accenture,o9/Kinaxis Business Development Senior Manager,Various locations,Senior Level
-Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Senior Level
-Accenture,"HR Reinvention Principal Director - Consumer Goods, Retail and Travel",Various locations,Senior Level
-Accenture,"Insights Lead, Brand & Consumer Analytics",Various locations,Senior Level
-Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
-Accenture,Asset Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Workday Certified Financials (Contract to Cash / PSA) Consultant,Various locations,Mid-Level
+Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Early Career
+Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Senior Level
+Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
 Accenture,Retail Banking Manager,Various locations,Senior Level
 Accenture,Forward Deployed Engineer Manager,Various locations,Senior Level
-Accenture,P&C Management Consulting Manager,Various locations,Senior Level
 Accenture,Business Practitioner - Agentic AI Sr Manager/Associate Director,Various locations,Senior Level
 Accenture,OneStream TechnoFunctional Solutions Architect,Various locations,Senior Level
 Accenture,o9/Kinaxis Business Development Senior Manager,Various locations,Senior Level
-Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Senior Level
-Accenture,"HR Reinvention Principal Director - Consumer Goods, Retail and Travel",Various locations,Senior Level
-Accenture,"Insights Lead, Brand & Consumer Analytics",Various locations,Senior Level
-Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
-Accenture,Asset Management Consulting Senior Manager,Various locations,Senior Level
-Accenture,Workday Certified Financials (Contract to Cash / PSA) Consultant,Various locations,Mid-Level
+Accenture,"HR Reinvention Consulting Manager/Senior Manager, Consumer Goods & Services, Retail & Travel",Various locations,Early Career
