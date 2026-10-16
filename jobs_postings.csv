@@ -59,13 +59,13 @@ IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,(2027 Campus Hire) Associate Business Consultant | Apply by 12/13,Taiwan          ,Entry Level
 IBM,Entry Level Software Developer 2027,Canada             	      ,Entry Level
 IBM,Entry Level Software Developer 2027 - DURHAM,US,Entry Level
@@ -118,44 +118,52 @@ IBM,IBMi Delivery Consultant,US,Entry Level
 IBM,Client Service Manager ELH - Austin 2027,US,Entry Level
 IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,Analyste programmeur junior,Canada             	      ,Entry Level
-IBM,Graduate/Associate Business Transformation Consultant-Enterprise Strategy,Australia,Entry Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+IBM,Entry Level Back End Developer 2026,US,Entry Level
 Accenture,Palantir - Sales Capture Associate Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Senior Level
+Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Mid-Level
 Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
 Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
 Accenture,Supply Chain & Engineering – Downstream Energy Turnaround Modernization Manager,Various locations,Senior Level
 Accenture,Data Architecture & Engineering Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Technology Delivery Lead - Energy,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,Sunquest Information System 6548490,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Customer Growth Strategy Senior Manager | Industrials,Various locations,Senior Level
 Accenture,Palantir - Sales Capture Associate Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Senior Level
+Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Mid-Level
 Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
 Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
 Accenture,Supply Chain & Engineering – Downstream Energy Turnaround Modernization Manager,Various locations,Senior Level
 Accenture,Data Architecture & Engineering Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Technology Delivery Lead - Energy,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,Sunquest Information System 6548490,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Customer Growth Strategy Senior Manager | Industrials,Various locations,Senior Level
 Accenture,Palantir - Sales Capture Associate Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Senior Level
+Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Mid-Level
 Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
 Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
 Accenture,Supply Chain & Engineering – Downstream Energy Turnaround Modernization Manager,Various locations,Senior Level
 Accenture,Data Architecture & Engineering Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Senior Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Technology Delivery Lead - Energy,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,Sunquest Information System 6548490,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Customer Growth Strategy Senior Manager | Industrials,Various locations,Senior Level
 Accenture,Palantir - Sales Capture Associate Director,Various locations,Senior Level
-Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Senior Level
+Accenture,Cybersecurity AI Forward Deployed Engineer - FDE - Consultant,Various locations,Mid-Level
 Accenture,FinOps AI / ML Engineer Assoc Director,Various locations,Senior Level
 Accenture,"Strategy Principal Director, Data & AI Strategy - Life Sciences",Various locations,Senior Level
 Accenture,Supply Chain & Engineering – Downstream Energy Turnaround Modernization Manager,Various locations,Senior Level
 Accenture,Data Architecture & Engineering Manager,Various locations,Senior Level
+Accenture,B2B Marketing Strategy Director,Various locations,Senior Level
+Accenture,Technology Delivery Lead - Energy,Various locations,Senior Level
+Accenture,FinOps AI / ML Engineer Manager,Various locations,Senior Level
+Accenture,Sunquest Information System 6548490,Various locations,Mid-Level
+Accenture,AI/ML Computational Science Engineer,Various locations,Early Career
+Accenture,Customer Growth Strategy Senior Manager | Industrials,Various locations,Senior Level
