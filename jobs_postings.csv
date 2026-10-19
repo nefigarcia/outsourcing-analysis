@@ -1,12 +1,12 @@
 Company,Role,Country,Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -60,13 +60,13 @@ IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -88,15 +88,15 @@ IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales 
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
+IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
-IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,Threat Hunter - IBM CISO,US,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
 IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
+IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
+IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,Threat Hunter - IBM CISO,US,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -119,35 +119,43 @@ IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
-Accenture,"Accenture Construct – Stakeholder Engagement and Communications Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
-Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
-Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
-Accenture,Google Data Specialist,Various locations,Mid-Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Stakeholder Engagement and Communications Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
-Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
-Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
-Accenture,Google Data Specialist,Various locations,Mid-Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Stakeholder Engagement and Communications Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
-Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
-Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
-Accenture,Google Data Specialist,Various locations,Mid-Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
-Accenture,"Accenture Construct – Stakeholder Engagement and Communications Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Cost Manager, ANS","Phoenix, AZ",Mid-Level
-Accenture,"Accenture Construct – Pursuit Manager, ANS",Various locations,Senior Level
-Accenture,"Accenture Construct – Construction Manager, ANS",Various locations,Senior Level
-Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
-Accenture,Google Data Specialist,Various locations,Mid-Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
+Accenture,"Accenture Construct – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Supply Chain Planning Life Sciences Manager,Various locations,Senior Level
+Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Senior Level
+Accenture,Commerce Architecture & Delivery Senior Manager I Agentic Commerce,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Life Sciences,Various locations,Senior Level
+Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
+Accenture,Oracle Solution Architect,Various locations,Senior Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,"Accenture Construct – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Supply Chain Planning Life Sciences Manager,Various locations,Senior Level
+Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Senior Level
+Accenture,Commerce Architecture & Delivery Senior Manager I Agentic Commerce,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Life Sciences,Various locations,Senior Level
+Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
+Accenture,Oracle Solution Architect,Various locations,Senior Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,"Accenture Construct – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Supply Chain Planning Life Sciences Manager,Various locations,Senior Level
+Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Senior Level
+Accenture,Commerce Architecture & Delivery Senior Manager I Agentic Commerce,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Life Sciences,Various locations,Senior Level
+Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
+Accenture,Oracle Solution Architect,Various locations,Senior Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
+Accenture,"Accenture Construct – Senior Construction Manager, ANS",Various locations,Senior Level
+Accenture,"Accenture Construct – Construction Senior Health and Safety Manager, ANS",Various locations,Mid-Level
+Accenture,Supply Chain Planning Life Sciences Manager,Various locations,Senior Level
+Accenture,Technical Commerce & AI Consultant | Agentic Commerce,Various locations,Senior Level
+Accenture,Commerce Architecture & Delivery Senior Manager I Agentic Commerce,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Industrial,Various locations,Senior Level
+Accenture,Agentic Commerce Senior Manager | Life Sciences,Various locations,Senior Level
+Accenture,AI - Cybersecurity Forward Deployed Engineer - FDE Senior Manager,Various locations,Mid-Level
+Accenture,Oracle Solution Architect,Various locations,Senior Level
+Accenture,Organizational Change Consultant - Chemical & Natural Resources,Various locations,Senior Level
