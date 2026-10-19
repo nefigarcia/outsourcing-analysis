@@ -30,13 +30,13 @@ IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -60,13 +60,13 @@ IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software
 IBM,Entry Level Back End Developer 2026,US,Entry Level
 IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
 IBM,Federal Strategy Consultant 2027,US,Entry Level
-IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
-IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
-IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
-IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
 IBM,Entry Level Brand Technical Specialist (incl. Assignment in Valencia) (f/m/x),Austria             	      ,Entry Level
 IBM,Technology Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
 IBM,Threat Hunter - IBM CISO,US,Entry Level
+IBM,Entry Level Product Manager 2027 - LOWELL,US,Entry Level
+IBM,Technical Engineering Seller - Entry Level Sales Program 2027,Multiple Cities,Entry Level
+IBM,"Entry level Backend Developer - San Jose, CA - 2027",US,Entry Level
+IBM,Solution Architect - Entry Level Sales Program 2027,Canada             	      ,Entry Level
 IBM,2026 Intern Conversion - Canada,Multiple Cities,Entry Level
 IBM,Associate Application Developer - Oracle - 2027,US,Entry Level
 IBM,Associate Application Consultant-AWS Cloud (DevOps),Singapore             	      ,Entry Level
@@ -118,44 +118,52 @@ IBM,Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales 
 IBM,Integration Strategy Consultant – 2027 Full Time ELH,US,Entry Level
 IBM,"Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027",US,Entry Level
 IBM,Entry Level Back End Developer 2026,US,Entry Level
-IBM,Associate Security Specialist - Infrastructure Security,Poland             	      ,Entry Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Google Data Specialist,Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Mid-Level
+IBM,Linux Kernel OS Developer,Ireland             	      ,Entry Level
+Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
 Accenture,Manufacturing Execution Systems (MES) Specialist | Siemens OpCenter,Various locations,Mid-Level
-Accenture,Java Spring Boot Developer - 6553868,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Google Data Specialist,Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Mid-Level
+Accenture,Java Spring Boot Developer - 6553868,Various locations,Mid-Level
+Accenture,US / Canada Payroll Tax Lead,Various locations,Mid-Level
+Accenture,Technology Architect - 6542564,Various locations,Senior Level
+Accenture,Learning Operations Associate Manager,Various locations,Mid-Level
+Accenture,(GCC) Global Capability Center Sales Enablement Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Extended Platforms Edge Sales Account Exec Sr. Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Techno/Functional Lead,Various locations,Senior Level
+Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
 Accenture,Manufacturing Execution Systems (MES) Specialist | Siemens OpCenter,Various locations,Mid-Level
-Accenture,Java Spring Boot Developer - 6553868,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Google Data Specialist,Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Mid-Level
+Accenture,Java Spring Boot Developer - 6553868,Various locations,Mid-Level
+Accenture,US / Canada Payroll Tax Lead,Various locations,Mid-Level
+Accenture,Technology Architect - 6542564,Various locations,Senior Level
+Accenture,Learning Operations Associate Manager,Various locations,Mid-Level
+Accenture,(GCC) Global Capability Center Sales Enablement Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Extended Platforms Edge Sales Account Exec Sr. Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Techno/Functional Lead,Various locations,Senior Level
+Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
 Accenture,Manufacturing Execution Systems (MES) Specialist | Siemens OpCenter,Various locations,Mid-Level
-Accenture,Java Spring Boot Developer - 6553868,Various locations,Senior Level
-Accenture,"Accenture Construct – Senior Cost Manager, ANS","Cheyenne, WY",Senior Level
-Accenture,Technology Delivery Lead - Energy,Various locations,Mid-Level
-Accenture,Salesforce Patient Services Architect,Various locations,Mid-Level
-Accenture,"Accenture Construct – Assistant Construction Project Manager, ANS",Various locations,Mid-Level
-Accenture,IFS Cloud Functional Lead,Various locations,Senior Level
-Accenture,Google Data Specialist,Various locations,Senior Level
-Accenture,Google Senior Data Engineer,Various locations,Mid-Level
-Accenture,Emerging Tech Senior Manager,Various locations,Mid-Level
+Accenture,Java Spring Boot Developer - 6553868,Various locations,Mid-Level
+Accenture,US / Canada Payroll Tax Lead,Various locations,Mid-Level
+Accenture,Technology Architect - 6542564,Various locations,Senior Level
+Accenture,Learning Operations Associate Manager,Various locations,Mid-Level
+Accenture,(GCC) Global Capability Center Sales Enablement Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Extended Platforms Edge Sales Account Exec Sr. Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Techno/Functional Lead,Various locations,Senior Level
+Accenture,IFS Cloud Functional Lead,Various locations,Mid-Level
+Accenture,Google Data Specialist,Various locations,Mid-Level
+Accenture,Google Senior Data Engineer,Various locations,Senior Level
+Accenture,Emerging Tech Senior Manager,Various locations,Senior Level
 Accenture,Manufacturing Execution Systems (MES) Specialist | Siemens OpCenter,Various locations,Mid-Level
-Accenture,Java Spring Boot Developer - 6553868,Various locations,Senior Level
+Accenture,Java Spring Boot Developer - 6553868,Various locations,Mid-Level
+Accenture,US / Canada Payroll Tax Lead,Various locations,Mid-Level
+Accenture,Technology Architect - 6542564,Various locations,Senior Level
+Accenture,Learning Operations Associate Manager,Various locations,Mid-Level
+Accenture,(GCC) Global Capability Center Sales Enablement Senior Manager/Associate Director,Various locations,Senior Level
+Accenture,Extended Platforms Edge Sales Account Exec Sr. Manager,Various locations,Senior Level
+Accenture,Blue Yonder WMS Techno/Functional Lead,Various locations,Senior Level
